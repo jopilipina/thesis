@@ -16,9 +16,6 @@ def main(text,g):
 				if count==2:
 					return
 
-
-
-
 for file in sorted(glob.glob('*.pdf')):
 	command='pdf2txt.py -o temp.txt '+file
 
