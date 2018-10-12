@@ -16,7 +16,7 @@ def main(text,g):
 				if count==2:
 					return
 
-for file in sorted(glob.glob('*.pdf')):
+for file in sorted(glob.glob('articles/*.pdf')):
 	command='pdf2txt.py -o temp.txt '+file
 
 	os.system(command)
@@ -24,7 +24,7 @@ for file in sorted(glob.glob('*.pdf')):
 	f=open('temp.txt')
 	g=open('output.txt','a')
 
-	g.write(file)
+	g.write(file.strip('articles/'))
 	g.write('\n')
 
 	text = [line.strip('\n') for line in f]
