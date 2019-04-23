@@ -5631,3 +5631,484 @@ cancer.
 
 DOI: 10.1615/JEnvironPatholToxicolOncol.2018027418 
 PMID: 30806240  [Indexed for MEDLINE]
+
+
+111. Technol Cancer Res Treat. 2019 Jan 1;18:1533033819827317. doi:
+10.1177/1533033819827317.
+
+Integrated Analysis of Transcriptome and Prognosis Data Identifies FGF22 as a
+Prognostic Marker of Lung Adenocarcinoma.
+
+Liu HY(1), Zhao H(1), Li WX(2)(3).
+
+Author information: 
+(1)1 Department of Respiratory, The Second Affiliated Hospital of Anhui Medical
+University, Hefei, Anhui, China.
+(2)2 Key Laboratory of Animal Models and Human Disease Mechanisms, Kunming
+Institute of Zoology, Chinese Academy of Sciences, Kunming, Yunnan, China.
+(3)3 Kunming College of Life Science, University of Chinese Academy of Sciences, 
+Kunming, Yunnan, China.
+
+Lung adenocarcinoma is one of the most common cancers worldwide. However, the
+molecular mechanisms of lung adenocarcinoma development are still unclear. This
+study aimed to investigate the expression profiles of anti-lung cancer target
+genes in different cancer stages and to explore their functions in tumor
+development. Lung adenocarcinoma transcriptome and clinical data were downloaded 
+from Genomic Data Commons Data Portal, and the anti-lung cancer target genes were
+retrieved from the Thomson Reuters Integrity database. The results showed that 16
+anti-lung target genes were deregulated in all stages. Among these target genes, 
+fibroblast growth factor 22 showed the most important role in transcription
+regulatory networks. Further analysis revealed that APC, BRIP1, and PTTG1 may
+regulate fibroblast growth factor 22 and subsequently influence MAPK signaling
+pathway, Rap1 signaling pathways, and other tumorigenic processes in all stages. 
+Moreover, high fibroblast growth factor 22 expression leads to poor overall
+survival (hazard ratio = 1.55, P = .019). These findings provide valuable
+information for the pathological research and treatment of lung adenocarcinoma.
+Future studies are needed to verify these results.
+
+DOI: 10.1177/1533033819827317 
+PMCID: PMC6373997
+PMID: 30803369 
+
+
+112. Biofactors. 2019 Feb 24. doi: 10.1002/biof.1498. [Epub ahead of print]
+
+ROR1 associates unfavorable prognosis and promotes lymphoma growth in DLBCL by
+affecting PI3K/Akt/mTOR signaling pathway.
+
+Mao Y(1), Xu L(2), Wang J(1), Zhang L(3), Hou N(1)(4), Xu J(1), Wang L(1), Yang
+S(1), Chen Y(2), Xiong L(5), Zhu J(6), Fan W(1), Xu J(1)(4).
+
+Author information: 
+(1)Department of Hematology and Oncology, Department of Geriatric Lung Cancer
+Laboratory, Geriatric Hospital of Nanjing Medical University, Jiangsu Province
+Geriatric Hospital, Nanjing, China.
+(2)Department of Pathology, Jiangsu Cancer Hospital, Affiliated Cancer Hospital
+of Nanjing Medical University, Nanjing, Jiangsu, China.
+(3)Department of Thoracic Surgery, Nanjing Medical University Affiliated Cancer
+Hospital, Jiangsu Key Laboratory of Molecular and Translational Cancer Research, 
+Cancer Institute of Jiangsu Province, Nanjing, Jiangsu, China.
+(4)Department of Hematology and Oncology, The Second Affiliated Hospital of
+Nanjing Medical University, Nanjing, Jiangsu, China.
+(5)Department of Pathology, The Second Affiliated Hospital of Nanjing Medical
+University, Nanjing, Jiangsu, China.
+(6)Huadong Medical Institute of Biotechniques, Nanjing, China.
+
+The receptor-tyrosine-kinase (RTK)-like orphan receptor 1 (ROR1) is a
+transmembrane glycoprotein regarded as a tumor-associated antigen. ROR1 plays an 
+important role in cancer development, but the detailed function of ROR1 in
+diffuse large B-cell lymphoma (DLBCL) remains unclear. In this study, we first
+detected ROR1 expression and evaluated the relationship between ROR1 expression
+and the clinicopathological characteristics of DLBCL patients. Next we employed
+shRNA-mediated knockdown of ROR1 in DLBCL cell line to explore the
+characteristics of ROR1 in DLBCL development both in vitro and in vivo. The
+results showed a significantly higher level of ROR1 in DLBCL tissues than in
+lymphatic hyperplasia tissues. High ROR1 expression was correlated with
+unfavorable prognosis in DLBCL patients. Furthermore, ROR1 knockdown inhibited
+the growth and induced the apoptosis in DLBCL cells and xenografts. In addition, 
+shROR1 inhibited activation of the PI3K/Akt/mTOR signaling pathway, both in vitro
+and in vivo. Taken together, our results suggest that ROR1 is a novel prognostic 
+marker for DLBCL survival and ROR1 significantly promotes DLBCL tumorigenesis by 
+regulating the PI3K/Akt/mTOR signaling pathway. Targeting ROR1 may provide a
+promising strategy for DLBCL treatment. © 2019 BioFactors, 00(00):1-11, 2019.
+
+© 2019 International Union of Biochemistry and Molecular Biology.
+
+DOI: 10.1002/biof.1498 
+PMID: 30801854 
+
+
+113. Ann Surg Oncol. 2019 Feb 24. doi: 10.1245/s10434-018-07137-2. [Epub ahead of
+print]
+
+The Significance of CD44 Variant 9 in Resected Lung Adenocarcinoma: Correlation
+with Pathological Early-Stage and EGFR Mutation.
+
+Akamine T(1), Tagawa T(2), Ijichi K(3), Toyokawa G(1), Takamori S(1), Hirai F(1),
+Okamoto T(1), Oda Y(4), Maehara Y(1).
+
+Author information: 
+(1)Department of Surgery and Science, Graduate School of Medical Sciences, Kyushu
+University, 3-1-1 Maidashi, Higashi-ku, Fukuoka-shi, Fukuoka, 812-8582, Japan.
+(2)Department of Surgery and Science, Graduate School of Medical Sciences, Kyushu
+University, 3-1-1 Maidashi, Higashi-ku, Fukuoka-shi, Fukuoka, 812-8582, Japan.
+t_tagawa@surg2.med.kyushu-u.ac.jp.
+(3)Pathophysiological and Experimental Pathology, Department of Pathology,
+Graduate School of Medical Sciences, Kyushu University, 3-1-1 Maidashi,
+Higashi-ku, Fukuoka-shi, Fukuoka, 812-8582, Japan.
+(4)Department of Anatomic Pathology, Graduate School of Medical Sciences, Kyushu 
+University, 3-1-1 Maidashi, Higashi-ku, Fukuoka-shi, Fukuoka, 812-8582, Japan.
+
+BACKGROUND: CD44 isoforms serve as a marker for cancer stem cells. CD44 variant 9
+(CD44v9) contributes to the defense against reactive oxygen species, resulting in
+resistance to chemoradiotherapy. However, the significance of CD44v9 in patients 
+with lung adenocarcinoma is unknown.
+METHODS: We used immunohistochemical analysis to retrospectively analyze CD44v9
+expression in 268 surgically resected lung adenocarcinomas and investigated the
+association between CD44v9 expression and patients' clinicopathological features.
+RESULTS: The expression of CD44v9 in 193 of 268 (72.0%) patients was
+significantly associated with early-stage cancer, low-grade tumors, absence of
+vessel and pleural invasion, and a mutated epidermal growth factor receptor
+(EGFR) gene. Multivariate logistic analysis revealed that CD44v9 expression was
+significantly associated with early-stage disease [odds ratio (OR) 0.29, 95%
+confidence interval (CI) 0.14-0.59; p < 0.001] and mutant EGFR (OR 2.53, 95% CI
+1.06-6.04; p = 0.036). The percentage of CD44v9-positive tumors was higher in the
+earlier stages of disease; however, there was no significant difference in the
+survival of patients in each stage of disease who had positive or negative CD44v9
+expression.
+CONCLUSION: CD44v9 was highly expressed in EGFR-mutant tumors, particularly in
+early-stage lung adenocarcinoma, suggesting that CD44v9 expression may play an
+important role in EGFR-mutant tumors.
+
+DOI: 10.1245/s10434-018-07137-2 
+PMID: 30798450 
+
+
+114. Cancer Med. 2019 Feb 21. doi: 10.1002/cam4.2037. [Epub ahead of print]
+
+Retrospective efficacy analysis of immune checkpoint inhibitors in patients with 
+EGFR-mutated non-small cell lung cancer.
+
+Yamada T(1), Hirai S(1), Katayama Y(1), Yoshimura A(1), Shiotsu S(2), Watanabe
+S(3), Kikuchi T(3), Hirose K(4), Kubota Y(4), Chihara Y(1), Harada T(5), Tanimura
+K(1), Takeda T(6), Tamiya N(1), Kaneko Y(1), Uchino J(1), Takayama K(1).
+
+Author information: 
+(1)Department of Pulmonary Medicine, Graduate School of Medical Science, Kyoto
+Prefectural University of Medicine, Kyoto, Japan.
+(2)Department of Respiratory Medicine, Japanese Red Cross Kyoto Daiichi Hospital,
+Kyoto, Japan.
+(3)Department of Respiratory Medicine and Infectious Diseases, Niigata University
+Graduate School of Medical and Dental Sciences, Niigata, Japan.
+(4)Department of Respiratory Medicine, Japanese Red Cross Kyoto Daini Hospital,
+Kyoto, Japan.
+(5)Department of Medical Oncology, Fukuchiyama City Hospital, Fukuchiyama, Kyoto,
+Japan.
+(6)Department of Respiratory Medicine, Uji-Tokushukai Medical Center, Uji, Kyoto,
+Japan.
+
+BACKGROUND: Treatment with epidermal growth factor receptor (EGFR)-tyrosine
+kinase inhibitors (TKIs) leads to initial response in most patients with
+EGFR-mutated non-small cell lung cancer (NSCLC). In contrast, little is known of 
+the subpopulation of patients with NSCLC with EGFR mutations who exhibit clinical
+outcomes that require treatment with immune checkpoint inhibitors (ICIs).
+Therefore, to identify eligible cases to treat with ICIs, we retrospectively
+analyzed the correlation between clinical features and the efficacy of ICIs in
+patients with EGFR mutations.
+PATIENTS AND METHODS: We retrospectively analyzed patients with advanced NSCLC
+harboring EGFR mutations who were treated with ICIs after developing resistance
+to EGFR-TKIs between February 2016 and April 2018 at 6 institutions in Japan. The
+association between clinical outcomes and the efficacy of ICIs was investigated.
+RESULTS: We enrolled 27 patients who harbored EGFR-activating mutations. The
+objective response and disease control rates were higher in patients with
+uncommon EGFR mutations than in those with common EGFR mutations (71% vs 35.7%
+and 57% vs 7%, P = 0.14 and P < 0.01, respectively). Patients with uncommon EGFR 
+mutations or without T790M mutations exhibited a significantly longer median
+progression-free survival than those with common EGFR mutations or with T790M
+mutations (P = 0.003 and P = 0.03, respectively).
+CONCLUSION: Patients with uncommon EGFR mutations and without T790M mutations are
+associated with the best outcomes for treatment with immunotherapy among those
+with EGFR-mutated NSCLC, based on retrospective analysis. Further research is
+needed to validate the clinical biomarkers involved in ICI responders with EGFR
+mutations.
+
+© 2019 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.2037 
+PMID: 30790471 
+
+
+115. Cell Death Differ. 2019 Feb 20. doi: 10.1038/s41418-019-0304-y. [Epub ahead of
+print]
+
+Long noncoding RNA LINC00336 inhibits ferroptosis in lung cancer by functioning
+as a competing endogenous RNA.
+
+Wang M(1)(2)(3), Mao C(1)(3), Ouyang L(1)(3)(4), Liu Y(1)(3), Lai W(1)(3), Liu
+N(1)(3), Shi Y(1)(3), Chen L(1)(3), Xiao D(5), Yu F(6), Wang X(6), Zhou H(7), Cao
+Y(1)(3), Liu S(4), Yan Q(8), Zhang B(9), Tao Y(10)(11)(12).
+
+Author information: 
+(1)Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education,
+Department of Pathology, Xiangya Hospital, Central South University, Changsha,
+Hunan, 410078, China.
+(2)Department of Histology and Embryology, School of Basic Medicine, Central
+South University, Changsha, Hunan, 410013, China.
+(3)NHC Key Laboratory of Carcinogenesis (Central South University), Cancer
+Research Institute, Central South University, Changsha, Hunan, 410078, China.
+(4)Department of Oncology, Institute of Medical Sciences, Xiangya Hospital,
+Central South University, Changsha, Hunan, 410008, China.
+(5)Department of Pathology, Xiangya Hospital, Central South University, Changsha,
+Hunan, 410008, China.
+(6)Department of Thoracic Surgery, Second Xiangya Hospital, Central South
+University, Changsha, 410011, China.
+(7)Shanghai Institute of Material Medica, Chinese Academy of Sciences (CAS), 555 
+Zu Chongzhi Road, Zhangjiang Hi-Tech Park, Shanghai, 201203, China.
+(8)Department of Pathology, Yale School of Medicine, New Haven, CT, 06520, USA.
+(9)Department of Histology and Embryology, School of Basic Medicine, Central
+South University, Changsha, Hunan, 410013, China. coolzhangbin22@163.com.
+(10)Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, 
+Department of Pathology, Xiangya Hospital, Central South University, Changsha,
+Hunan, 410078, China. taoyong@csu.edu.cn.
+(11)NHC Key Laboratory of Carcinogenesis (Central South University), Cancer
+Research Institute, Central South University, Changsha, Hunan, 410078, China.
+taoyong@csu.edu.cn.
+(12)Department of Thoracic Surgery, Second Xiangya Hospital, Central South
+University, Changsha, 410011, China. taoyong@csu.edu.cn.
+
+The regulatory loop between long noncoding RNAs (lncRNAs) and microRNAs has a
+dynamic role in transcriptional and translational regulation, and is involved in 
+cancer. However, the regulatory circuitry between lncRNAs and microRNAs in
+tumorigenesis remains elusive. Here we demonstrate that a nuclear lncRNA
+LINC00336 is upregulated in lung cancer and functions as an oncogene by acting as
+a competing endogenous RNA (ceRNAs). LINC00336 bound RNA-binding protein ELAVL1
+(ELAV-like RNA-binding protein 1) using nucleotides 1901-2107 of LINC00336 and
+the RRM interaction domain and key amino acids (aa) of ELAVL1 (aa 101-213),
+inhibiting ferroptosis. Moreover, ELAVL1 increased LINC00336 expression by
+stabilizing its posttranscriptional level, whereas LSH (lymphoid-specific
+helicase) increased ELAVL1 expression through the p53 signaling pathway, further 
+supporting the hypothesis that LSH promotes LINC00336 expression. Interestingly, 
+LINC00336 served as an endogenous sponge of microRNA 6852 (MIR6852) to regulate
+the expression of cystathionine-β-synthase (CBS), a surrogate marker of
+ferroptosis. Finally, we found that MIR6852 inhibited cell growth by promoting
+ferroptosis. These data show that the network of lncRNA and ceRNA has an
+important role in tumorigenesis and ferroptosis.
+
+DOI: 10.1038/s41418-019-0304-y 
+PMID: 30787392 
+
+
+116. Biomed Res. 2019;40(1):17-27. doi: 10.2220/biomedres.40.17.
+
+Clinicopathological and prognostic significance of nuclear UGDH localization in
+lung adenocarcinoma.
+
+Hagiuda D(1), Nagashio R(1), Ichinoe M(2), Tsuchiya B(1), Igawa S(3), Naoki K(3),
+Satoh Y(4), Murakumo Y(2), Saegusa M(2), Sato Y(1).
+
+Author information: 
+(1)Department of Applied Tumor Pathology, Graduate School of Medical Sciences,
+Kitasato University.
+(2)Department of Pathology, School of Medicine, Kitasato University.
+(3)Department of Respiratory Medicine, School of Medicine, Kitasato University.
+(4)Department of Thoracic and Cardiovascular Surgery, School of Medicine,
+Kitasato University.
+
+This study aimed to clarify relationships among UDP-glucose-6 dehydrogenase
+(UGDH) expression, clinicopathological factors, and the prognosis of patients,
+and to determine the role of UGDH in lung adenocarcinoma (AC). Firstly, UGDH
+expression and localization in 126 lung AC tissues were immunohistochemically
+studied, and associations with clinicopathological parameters and patients'
+prognosis were evaluated. Secondly, serum UGDH levels were measured in 267 lung
+cancer patients and 100 healthy controls. Finally, the effects of UGDH knockdown 
+by siRNA on migration and invasion abilities were analyzed. As a result, nuclear 
+UGDH staining was significantly correlated with poorer differentiation, a larger 
+tumor size, higher p-TNM stage, positive nodal metastasis, positive lymphatic
+invasion, and positive vascular invasion in lung AC patients. Nuclear
+UGDH-positive patients showed significantly poorer survival than nuclear
+UGDH-negative patients. Serum UGDH levels were especially higher in lung AC
+patients even in stage I than those in healthy controls. In lung AC cell lines,
+nuclear expression levels of UGDH were higher in LC-2/ad cells than in A549
+cells. UGDH siRNA-treated LC-2/ad cells showed significantly decreased migration 
+and invasion abilities, but no significant differences were observed in UGDH
+siRNA-treated A549 cells. These data indicate that UGDH expression and
+localization are an early sero-diagnostic marker in addition to a poor prognostic
+indicator in lung AC patients.
+
+DOI: 10.2220/biomedres.40.17 
+PMID: 30787260 
+
+
+117. J Clin Oncol. 2019 Feb 20:JCO1801042. doi: 10.1200/JCO.18.01042. [Epub ahead of
+print]
+
+First-Line Nivolumab Plus Ipilimumab in Advanced Non-Small-Cell Lung Cancer
+(CheckMate 568): Outcomes by Programmed Death Ligand 1 and Tumor Mutational
+Burden as Biomarkers.
+
+Ready N(1), Hellmann MD(2), Awad MM(3), Otterson GA(4), Gutierrez M(5), Gainor
+JF(6), Borghaei H(7), Jolivet J(8), Horn L(9), Mates M(10), Brahmer J(11),
+Rabinowitz I(12), Reddy PS(13), Chesney J(14), Orcutt J(15), Spigel DR(16), Reck 
+M(17), O'Byrne KJ(18), Paz-Ares L(19), Hu W(20), Zerba K(20), Li X(20), Lestini
+B(20), Geese WJ(20), Szustakowski JD(20), Green G(20), Chang H(20), Ramalingam
+SS(21).
+
+Author information: 
+(1)1 Duke University Medical Center, Durham, NC.
+(2)2 Memorial Sloan Kettering Cancer Center, New York, NY.
+(3)3 Dana-Farber Cancer Institute, Boston, MA.
+(4)4 The Ohio State University, Columbus, OH.
+(5)5 John Theurer Cancer Center, Hackensack University Medical Center,
+Hackensack, NJ.
+(6)6 Massachusetts General Hospital, Boston, MA.
+(7)7 Fox Chase Cancer Center, Philadelphia, PA.
+(8)8 St Jerome Medical Research Inc., Saint-Jérôme, Quebec, Canada.
+(9)9 Vanderbilt-Ingram Cancer Center, Nashville, TN.
+(10)10 Kingston Health Sciences Centre, Kingston, Ontario, Canada.
+(11)11 Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University,
+Baltimore, MD.
+(12)12 University of New Mexico Comprehensive Cancer Center, Albuquerque, NM.
+(13)13 Cancer Center of Kansas, Wichita, KS.
+(14)14 James Graham Brown Cancer Center, University of Louisville, Louisville,
+KY.
+(15)15 Charleston Hematology Oncology Associates, Charleston, SC.
+(16)16 Sarah Cannon Research Institute/Tennessee Oncology PLLC, Nashville, TN.
+(17)17 LungenClinic Grosshansdorf, Airway Research Center North, German Center
+for Lung Research, Grosshansdorf, Germany.
+(18)18 Princess Alexandra Hospital, Brisbane, QLD, Australia.
+(19)19 Hospital Universitario Doce de Octubre, Centro Nacional de Investigaciones
+Oncológicas, Universidad Complutense, CiberOnc, Madrid, Spain.
+(20)20 Bristol-Myers Squibb, Princeton, NJ.
+(21)21 Winship Cancer Institute, Emory University, Atlanta, GA.
+
+PURPOSE: CheckMate 568 is an open-label phase II trial that evaluated the
+efficacy and safety of nivolumab plus low-dose ipilimumab as first-line treatment
+of advanced/metastatic non-small-cell lung cancer (NSCLC). We assessed the
+association of efficacy with programmed death ligand 1 (PD-L1) expression and
+tumor mutational burden (TMB).
+PATIENTS AND METHODS: Two hundred eighty-eight patients with previously
+untreated, recurrent stage IIIB/IV NSCLC received nivolumab 3 mg/kg every 2 weeks
+plus ipilimumab 1 mg/kg every 6 weeks. The primary end point was objective
+response rate (ORR) in patients with 1% or more and less than 1% tumor PD-L1
+expression. Efficacy on the basis of TMB (FoundationOne CDx assay) was a
+secondary end point.
+RESULTS: Of treated patients with tumor available for testing, 252 patients (88%)
+of 288 were evaluable for PD-L1 expression and 98 patients (82%) of 120 for TMB. 
+ORR was 30% overall and 41% and 15% in patients with 1% or greater and less than 
+1% tumor PD-L1 expression, respectively. ORR increased with higher TMB,
+plateauing at 10 or more mutations/megabase (mut/Mb). Regardless of PD-L1
+expression, ORRs were higher in patients with TMB of 10 or more mut/Mb (n = 48:
+PD-L1, ≥ 1%, 48%; PD-L1, < 1%, 47%) versus TMB of fewer than 10 mut/Mb (n = 50:
+PD-L1, ≥ 1%, 18%; PD-L1, < 1%, 5%), and progression-free survival was longer in
+patients with TMB of 10 or more mut/Mb versus TMB of fewer than 10 mut/Mb
+(median, 7.1 v 2.6 months). Grade 3 to 4 treatment-related adverse events
+occurred in 29% of patients.
+CONCLUSION: Nivolumab plus low-dose ipilimumab was effective and tolerable as a
+first-line treatment of advanced/metastatic NSCLC. TMB of 10 or more mut/Mb was
+associated with improved response and prolonged progression-free survival in both
+tumor PD-L1 expression 1% or greater and less than 1% subgroups and was thus
+identified as a potentially relevant cutoff in the assessment of TMB as a
+biomarker for first-line nivolumab plus ipilimumab.
+
+DOI: 10.1200/JCO.18.01042 
+PMID: 30785829 
+
+
+118. Molecules. 2019 Feb 13;24(4). pii: E656. doi: 10.3390/molecules24040656.
+
+High Sensitive Immunoelectrochemical Measurement of Lung Cancer Tumor Marker
+ProGRP Based on TiO₂-Au Nanocomposite.
+
+Wei Z(1), Cai X(2), Zhang J(3), Fan J(4), Xu J(5), Xu L(6).
+
+Author information: 
+(1)Department of Oncology, Henan Academy Institute of Traditional Chinese
+Medicine, Zhengzhou 450000, Henan, China. questwz@163.com.
+(2)Department of Oncology, Henan Academy Institute of Traditional Chinese
+Medicine, Zhengzhou 450000, Henan, China. caixiaoping987@126.com.
+(3)Department of Oncology, Henan Academy Institute of Traditional Chinese
+Medicine, Zhengzhou 450000, Henan, China. zhangjunping888@163.com.
+(4)Department of Oncology, Henan Academy Institute of Traditional Chinese
+Medicine, Zhengzhou 450000, Henan, China. junmingfan@yeah.net.
+(5)School of Basic Medicine Sciences, Henan University of Chinese Medicine,
+Zhengzhou 450002, Henan, China. xujiangyan2008@126.com.
+(6)School of Basic Medicine Sciences, Henan University of Chinese Medicine,
+Zhengzhou 450002, Henan, China. xuliran888@163.com.
+
+Progastrin-releasing peptide (ProGRP), which is known to be highly specific and
+sensitive to small cell lung cancer (SCLC), has been proven to be a valuable
+substitute for neuron-specific enolase in SCLC diagnostics and monitoring,
+especially in its early stages. The detection of ProGRP levels also facilitates a
+selection of therapeutic treatments. For the fabrication of our proposed
+biosensor, titanium (IV) oxide microparticles were first used, followed by
+dispersing gold nanoparticles into chitosan and immobilizing them onto a carbon
+paste electrode (CPE) surface. The developed immunosensor exhibits a much higher 
+biosensing performance in comparison with current methods, when it comes to the
+detection of ProGRP. Therefore, the proposed
+CPE/TiO₂/(CS+AuNPs)/anti-ProGRP/BSA/ProGRP is excellent for the development of a 
+compact diagnostics apparatus.
+
+DOI: 10.3390/molecules24040656 
+PMID: 30781735 
+
+
+119. Eur Rev Med Pharmacol Sci. 2019 Feb;23(3):1108-1115. doi:
+10.26355/eurrev_201902_17001.
+
+Circulating microRNA array (miR-182, 200b and 205) for the early diagnosis and
+poor prognosis predictor of non-small cell lung cancer.
+
+Zou JG(1), Ma LF, Li X, Xu FL, Fei XZ, Liu Q, Bai QL, Dong YL.
+
+Author information: 
+(1)Laboratory Medicine, People's Hospital of Rizhao, Rizhao, China.
+ppb575533@163.com.
+
+OBJECTIVE: Non-small cell lung cancer (NSCLC) is the most common cause for
+cancer-related mortality worldwide. Currently, early detection of NSCLC is one of
+the main available strategies for improving its prognosis. Due to the lack of
+non-invasive and convenient tools, early diagnosis of NSCLC remains poor.
+Recently, it has been reported that circulating microRNAs (miRNAs) can be stably 
+detected in serum. Meanwhile, they play a powerful role as biomarkers in various 
+tumors. Therefore, the aim of this study was to detect the expression levels of
+serum miR-182, 200b and 205 in NSCLC patients, and to investigate their
+diagnostic and prognostic values.
+PATIENTS AND METHODS: Real-time quantitative polymerase chain reaction (RT-qPCR) 
+was carried out to measure the expressions of miR-182, 200b and 205 in NSCLC
+tissues and normal controls. Receiver-operating characteristic (ROC) curve
+analysis was performed to assess the potential value of serum miRNAs for NSCLC
+diagnosis. Meanwhile, transwell assays were performed to observe the functional
+effects of miRNAs on the invasion and migration of NSCLC cells.
+RESULTS: Compared with normal controls, serum levels of miR-182 and 205 in NSCLC 
+patients were significantly upregulated, whereas miR-200b was remarkably
+downregulated. ROC analysis indicated that miRNA array (miR-182, 200b and 205)
+was useful biomarkers for early diagnosis of NSCLC. In addition, transwell assays
+demonstrated that miR-182 promoted the invasion and migration of NSCLC cells.
+CONCLUSIONS: Our findings revealed that serum miR-182, 200b and 205 might serve
+as promising biomarkers for early detection and treatment of NSCLC.
+
+DOI: 10.26355/eurrev_201902_17001 
+PMID: 30779079 
+
+
+120. Mol Carcinog. 2019 Jan 3. doi: 10.1002/mc.22969. [Epub ahead of print]
+
+TIMM50 promotes tumor progression via ERK signaling and predicts poor prognosis
+of non-small cell lung cancer patients.
+
+Zhang X(1), Han S(2), Zhou H(1), Cai L(1), Li J(1), Liu N(1), Liu Y(1), Wang
+L(1), Fan C(1), Li A(3), Miao Y(1).
+
+Author information: 
+(1)Department of Pathology, College of Basic Medical Science and the First
+Affiliated Hospital of China Medical University, Shenyang, China.
+(2)Department of Neurosurgery, The First Hospital of China Medical University,
+Shenyang, China.
+(3)Department of Radiotherapy, The First Affiliated Hospital of China Medical
+University, Shenyang, China.
+
+TIMM50 (Translocase of the inner mitochondrial membrane 50), also called TIM50,
+plays an essential role in mitochondrial membrane transportation. The existing
+literature suggests that TIMM50 may perform as an oncogenetic protein in breast
+cancer. However, the molecular mechanism, especially in human non-small cell lung
+cancer (NSCLC), is uncertain to date. In the present study, using
+immunohistochemistry, we found that TIMM50 expression significantly correlated
+with larger tumor size (P = 0.049), advanced TNM stage (P = 0.001), positive
+regional lymph node metastasis (P = 0.007), and poor overall survival
+(P = 0.001). Proliferation and invasion assay showed that TIMM50 dramatically
+promoted the ability of proliferation and invasion of NSCLC cells. Subsequent
+Western blotting results revealed that TIMM50 enhanced the expression of Cyclin
+D1 and Snail, and inhibited the expression of E-cadherin. Moreover, TIMM50
+facilitated the expression of phosphorylated ERK and P90RSK. Incorporation of ERK
+inhibitor counteracted the upregulating expression of CyclinD1, and Snail, and
+downregulating expression of E-cadherin expression induced by TIMM50
+overexpression. In conclusion, our data indicated that TIMM50 facilitated tumor
+proliferation and invasion of NSCLC through enhancing phosphorylation of its
+downstream ERK/P90RSK signaling pathway. We speculated that TIMM50 might be a
+useful prognosis marker of NSCLC patients.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/mc.22969 
+PMID: 30604908 
+
