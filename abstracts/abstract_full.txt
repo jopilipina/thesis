@@ -10003,3 +10003,2869 @@ therapy in NSCLC.
 DOI: 10.18632/oncotarget.16652 
 PMCID: PMC5458259
 PMID: 28404875  [Indexed for MEDLINE]
+
+
+201. PLoS One. 2018 May 31;13(5):e0195716. doi: 10.1371/journal.pone.0195716.
+eCollection 2018.
+
+Methylation of L1RE1, RARB, and RASSF1 function as possible biomarkers for the
+differential diagnosis of lung cancer.
+
+Walter RFH(1)(2), Rozynek P(3), Casjens S(3), Werner R(2), Mairinger FD(2), Speel
+EJM(4), Zur Hausen A(4), Meier S(3), Wohlschlaeger J(2), Theegarten D(2), Behrens
+T(3), Schmid KW(2), Brüning T(3), Johnen G(3).
+
+Author information: 
+(1)Ruhrlandklinik, West German Lung Center, University Hospital Essen, University
+of Duisburg-Essen, Essen, Germany.
+(2)Institute of Pathology, University Hospital Essen, University of
+Duisburg-Essen, Essen, Germany.
+(3)Institute for Prevention and Occupational Medicine of the German Social
+Accident Insurance, Institute of the Ruhr-University Bochum (IPA), Bochum,
+Germany.
+(4)Department of Pathology, GROW-School for Oncology & Developmental Biology,
+Maastricht University Medical Center, Maastricht, the Netherlands.
+
+BACKGROUND: Lung cancer is the major cause of cancer-related deaths worldwide.
+Differential diagnosis can be difficult, especially when only small samples are
+available. Epigenetic changes are frequently tissue-specific events in
+carcinogenesis and hence may serve as diagnostic biomarkers.
+MATERIAL AND METHODS: 138 representative formalin-fixed, paraffin-embedded (FFPE)
+tissues (116 lung cancer cases and 22 benign controls) were used for targeted DNA
+methylation analysis via pyrosequencing of ten literature-derived methylation
+markers (APC, CDH1, CDKN2A, EFEMP1, FHIT, L1RE1, MGMT, PTEN, RARB, and RASSF1).
+Methylation levels were analyzed with the Classification and Regression Tree
+Algorithm (CART), Conditional Interference Trees (ctree) and ROC. Validation was 
+performed with additional 27 lung cancer cases and 38 benign controls. TCGA data 
+for 282 lung cancer cases was included in the analysis.
+RESULTS: CART and ctree analysis identified the combination of L1RE1 and RARB as 
+well as L1RE1 and RASSF1 as independent methylation markers with high
+discriminative power between tumor and benign tissue (for each combination, 91%
+specificity and 100% sensitivity). L1RE1 methylation associated significantly
+with tumor type and grade (p<0.001) with highest methylation in the control
+group. The opposite was found for RARB (p<0.001). RASSF1 methylation increased
+with tumor type and grade (p<0.001) with strongest methylation in neuroendocrine 
+tumors (NET).
+CONCLUSION: Hypomethylation of L1RE1 is frequent in tumors compared to benign
+controls and associates with higher grade, whereas increasing methylation of RARB
+is an independent marker for tumors and higher grade. RASSF1 hypermethylation was
+frequent in tumors and most prominent in NET making it an auxiliary marker for
+separation of NSCLC and NET. L1RE1 in combination with either RARB or RASSF1
+could function as biomarkers for separating lung cancer and non-cancerous tissue 
+and could be useful for samples of limited size such as biopsies.
+
+DOI: 10.1371/journal.pone.0195716 
+PMCID: PMC5978787
+PMID: 29851970  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+202. Int J Environ Res Public Health. 2017 Jun 23;14(7). pii: E679. doi:
+10.3390/ijerph14070679.
+
+The Indirect Efficacy Comparison of DNA Methylation in Sputum for Early Screening
+and Auxiliary Detection of Lung Cancer: A Meta-Analysis.
+
+Liu D(1), Peng H(2), Sun Q(3), Zhao Z(4), Yu X(5)(6), Ge S(7)(8), Wang H(9), Fang
+H(10), Gao Q(11), Liu J(12), Wu L(13), Song M(14), Wang Y(15)(16).
+
+Author information: 
+(1)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China. liudiepistat@163.com.
+(2)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China. phongli1990@163.com.
+(3)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China. cmusunqi@163.com.
+(4)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China. yao_abcde@163.com.
+(5)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China.
+yuxinweigongzuo@163.com.
+(6)School of Medical and Health Sciences, Edith Cowan University, Perth 6027,
+Australia. yuxinweigongzuo@163.com.
+(7)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China. gesky90@sina.com.
+(8)School of Medical and Health Sciences, Edith Cowan University, Perth 6027,
+Australia. gesky90@sina.com.
+(9)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China. wanghaostudy@163.com.
+(10)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China.
+fanghonghong79@sina.com.
+(11)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China. shouyigaoqing@163.com.
+(12)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China.
+liujiaonan9999@163.com.
+(13)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China. wujuan811017@163.com.
+(14)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China. songms@ccmu.edu.cn.
+(15)Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+Health, Capital Medical University, Beijing 100069, China. wangy@ccmu.edu.cn.
+(16)School of Medical and Health Sciences, Edith Cowan University, Perth 6027,
+Australia. wangy@ccmu.edu.cn.
+
+BACKGROUND: DNA methylation in sputum has been an attractive candidate biomarker 
+for the non-invasive screening and detection of lung cancer.
+MATERIALS AND METHODS: Databases including PubMed, Ovid, Cochrane library, Web of
+Science databases, Chinese Biological Medicine (CBM), Chinese National Knowledge 
+Infrastructure (CNKI), Wanfang, Vip Databases and Google Scholar were searched to
+collect the diagnostic trials on aberrant DNA methylation in the screening and
+detection of lung cancer published until 1 December 2016. Indirect comparison
+meta-analysis was used to evaluate the diagnostic value of the included candidate
+genes.
+RESULTS: The systematic literature search yielded a total of 33 studies including
+a total of 4801 subjects (2238 patients with lung cancer and 2563 controls) and
+covering 32 genes. We identified that methylated genes in sputum samples for the 
+early screening and auxiliary detection of lung cancer yielded an overall
+sensitivity of 0.46 (0.41-0.50) and specificity of 0.83 (0.80-0.86). Combined
+indirect comparisons identified the superior gene of SOX17 (sensitivity: 0.84,
+specificity: 0.88), CDO1 (sensitivity: 0.78, specificity: 0.67), ZFP42
+(sensitivity: 0.87, specificity: 0.63) and TAC1 (sensitivity: 0.86, specificity: 
+0.75).
+CONCLUSIONS: The present meta-analysis demonstrates that methylated SOX17, CDO1, 
+ZFP42, TAC1, FAM19A4, FHIT, MGMT, p16, and RASSF1A are potential superior
+biomarkers for the screening and auxiliary detection of lung cancer.
+
+DOI: 10.3390/ijerph14070679 
+PMCID: PMC5551117
+PMID: 28644424  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+203. Int J Oncol. 2016 Sep;49(3):1175-84. doi: 10.3892/ijo.2016.3610. Epub 2016 Jul 6.
+
+FHIT promoter methylation status, low protein and high mRNA levels in patients
+with non-small cell lung cancer.
+
+Czarnecka KH(1), Migdalska-Sęk M(1), Domańska D(1), Pastuszak-Lewandoska D(1),
+Dutkowska A(2), Kordiak J(3), Nawrot E(1), Kiszałkiewicz J(1), Antczak A(2),
+Brzeziańska-Lasota E(1).
+
+Author information: 
+(1)Department of Molecular Bases of Medicine, Medical University of Lodz, Lodz,
+Poland.
+(2)Department of General and Oncological Pulmonology, Medical University of Lodz,
+Lodz, Poland.
+(3)Department of Chest Surgery, General and Oncological Surgery University
+Hospital No. 2, Medical University of Lodz, Lodz, Poland.
+
+FHIT is a tumor suppressor gene that is frequently silenced in non-small cell
+lung cancer (NSCLC) and also in preneoplastic lesions. Promoter hypermethylation 
+was previously observed in NSCLC, and its epigenetic silencing, observed on mRNA 
+or protein level, was proposed to predict NSCLC outcome. In the present study we 
+evaluated the relationship between FHIT expression on mRNA level and promoter
+methylation, or immunoexpression level. The aim of this study was to analyze the 
+usefulness of FHIT as early differentiating biomarker in NSCLC patients. Lung
+tissue specimens were obtained from 59 patients with diagnosed NSCLC (SCC=34,
+AC=20, LCC=5). FHIT promoter methylation was assessed in methylation-specific
+PCR. Relative expression analysis of FHIT was performed in real-time PCR (qPCR)
+and protein immunoexpression by ELISA assay. Significant differences in FHIT
+expression between NSCLC histopathological groups (SCC, AC, LCC) were observed
+(p=0.000009), with the lowest level in SCC. FHIT expression was significantly
+higher (p=0.034) in men vs. women. Methylated FHIT alleles were present both in
+NSCLC and control specimens. Mean MI value was higher in control tissue vs.
+neoplasm, and in men vs. women and it increased with patient age. Significant
+increase in MI level was observed in N0 group vs. N1 and N2, according to the TNM
+staging (p=0.0073). Differences in FHIT expression levels between AC, LCC and SCC
+indicated the usefulness of this gene as a diagnostic marker for NSCLC subtype
+differentiation. FHIT promoter hypermethylation both in cancer and control tissue
+indicated the presence of epigenetic alterations in early stage of NSCLC
+development. Differences in gene promoter methylation between cancer patients
+with and without node infiltration might be considered as a prognostic marker.
+Significantly lower FHIT protein immunoexpression was revealed in the group with 
+long and intense history of smoking assessed as PYs (PY<40 vs. PY≥40, p=0.01).
+These results suggest the need of further study on FHIT as a potential biomarker.
+
+DOI: 10.3892/ijo.2016.3610 
+PMID: 27572663  [Indexed for MEDLINE]
+
+
+204. Lung. 2006 Sep-Oct;184(5):267-72.
+
+The role of c-erbB-2 expression on the survival of patients with small-cell lung 
+cancer.
+
+Canoz O(1), Ozkan M, Arsav V, Er O, Coskun HS, Soyuer S, Altinbas M.
+
+Author information: 
+(1)Department of Pathology, Erciyes University Medical Faculty, Kayseri, Turkey. 
+ozlemorcan@yahoo.com
+
+The aim of this study was to determine the incidence and role of c-erbB-2
+overexpression as a predictive/prognostic marker in small-cell lung carcinoma
+(SCLC). We performed a retrospective study on subjects with a biopsy-proven
+diagnosis of SCLC. A chart review for demographic and clinical data was performed
+on patients with SCLC diagnosed between 1998 and 2004. c-erbB-2 overexpression
+was evaluated using immunohistochemistry performed on archival paraffin-embedded 
+specimens. Sixty-seven patients with SCLC were identified (6 females, 61 males;
+median age- 56.5 yr, range-34-75) all of whom had adequate tissue specimens
+available for c-erB-2 testing. Of the 67 specimens, 12 (17.9%) showed c-erbB-2
+overexpression. Seventy-five of the cases were positive for c-erbB-2, had
+extensive disease. The median overall survival of patients with SCLC whose tumors
+were positive and negative for c-erbB-2 were 8 +/- 0.9 months (95%CI 6.3-9.7) and
+11 +/- 1.5 months (95%CI 8.0-14.0), respectively. c-erbB-2 overexpression
+detected using immunohistochemistry is observed in 17.9% of patients with SCLC
+and has statistically significant prognostic value. Our findings suggest that
+c-erbB-2 may be a potential target for site-specific immunotherapy in SCLC.
+Considering one technique examined, further molecular investigation is needed to 
+confirm these preliminary findings.
+
+DOI: 10.1007/s00408-005-2591-y 
+PMID: 17235726  [Indexed for MEDLINE]
+
+
+205. Cancer Lett. 2017 Dec 28;411:19-26. doi: 10.1016/j.canlet.2017.09.040. Epub 2017 
+Oct 4.
+
+HSP90 inhibitor (NVP-AUY922) enhances the anti-cancer effect of BCL-2 inhibitor
+(ABT-737) in small cell lung cancer expressing BCL-2.
+
+Yang H(1), Lee MH(2), Park I(1), Jeon H(2), Choi J(2), Seo S(2), Kim SW(2), Koh
+GY(3), Park KS(4), Lee DH(5).
+
+Author information: 
+(1)Biomedical Science and Engineering Interdisciplinary Program, Korea Advanced
+Institute of Science and Technology (KAIST), Daejeon, 34141, Republic of Korea.
+(2)Department of Oncology, University of Ulsan College of Medicine, Asan Medical 
+Center, Seoul, 05505, Republic of Korea.
+(3)Biomedical Science and Engineering Interdisciplinary Program, Korea Advanced
+Institute of Science and Technology (KAIST), Daejeon, 34141, Republic of Korea;
+Graduate School of Medical Science and Engineering, Korea Advanced Institute of
+Science and Technology (KAIST), Daejeon, 34141, Republic of Korea.
+(4)Department of Oncology, University of Ulsan College of Medicine, Asan Medical 
+Center, Seoul, 05505, Republic of Korea; Department of Biomedical Sciences,
+University of Ulsan College of Medicine, Seoul, 05505, Republic of Korea.
+Electronic address: 77kangseo@gmail.com.
+(5)Department of Oncology, University of Ulsan College of Medicine, Asan Medical 
+Center, Seoul, 05505, Republic of Korea. Electronic address:
+leedaeho@amc.seoul.kr.
+
+Small cell lung cancer (SCLC) cannot be efficiently controlled using existing
+chemotherapy and radiotherapy approaches, indicating the need for new therapeutic
+strategies. Although ABT-737, a B-cell lymphoma-2 (BCL-2) inhibitor, exerts
+anticancer effects against BCL-2-expressing SCLC, monotherapy with ABT-737 is
+associated with limited clinical activity because of the development of
+resistance and toxicity. Here, we examined whether combination therapy with
+ABT-737 and heat shock protein 90 (HSP90) inhibitor NVP-AUY922 exerted
+synergistic anticancer effects on SCLC. We found that the combination of ABT-737 
+and NVP-AUY922 synergistically induced the apoptosis of BCL-2-expressing SCLC
+cells. NVP-AUY922 downregulated the expression of AKT and ERK, which activate
+MCL-1 to induce resistance against ABT-737. The synergistic effect was also
+partly due to blocking NF-κB activation, which induces anti-apoptosis protein
+expressions. However, interestingly, targeting BCL-2 and MCL-1 or BCL2 and NF-κB 
+did not induce the cytotoxicity. In conclusion, our study showed that combination
+of BCL2 inhibitor with HSP90 inhibitor increased activity in in vitro and in vivo
+study in only BCL-2 expressing SCLC compared to either single BCL2 inhibitor or
+HSP inhibitor. The enhanced activity might be led by blocking several apoptotic
+pathways simultaneously rather than a specific pathway.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.canlet.2017.09.040 
+PMID: 28987383  [Indexed for MEDLINE]
+
+
+206. Phytomedicine. 2019 Feb 15;54:109-119. doi: 10.1016/j.phymed.2018.06.025. Epub
+2018 Jun 28.
+
+Phytochemical naphtho[1,2-b] furan-4,5‑dione induced topoisomerase II-mediated
+DNA damage response in human non-small-cell lung cancer.
+
+Chien CM(1), Yang JC(2), Wu PH(3), Wu CY(4), Chen GY(5), Wu YC(6), Chou CK(3),
+Tseng CH(7), Chen YL(8), Wang LF(9), Chiu CC(10).
+
+Author information: 
+(1)Department of Biotechnology, Kaohsiung Medical University, Kaohsiung, Taiwan; 
+Institute of Genomics and Bioinformatics, National Chung Hsing University,
+Taichung, Taiwan.
+(2)Chinese Medicine Research and Development Center, China Medical University
+Hospital, Taichung, Taiwan; BioActive Lipid Research Center, BenQ Medical Center,
+Suzhou, Jiangsu Province, China; Research Center for Natural Products & Drug
+development, Kaohsiung Medical University, Kaohsiung, Taiwan.
+(3)Department of Biotechnology, Kaohsiung Medical University, Kaohsiung, Taiwan.
+(4)Department of Biological Sciences, National Sun Yat-sen University, Kaohsiung,
+Taiwan.
+(5)Chinese Medicine Research and Development Center, China Medical University
+Hospital, Taichung, Taiwan.
+(6)Research Center for Natural Products & Drug development, Kaohsiung Medical
+University, Kaohsiung, Taiwan.
+(7)School of Pharmacy, College of Pharmacy, Kaohsiung Medical University,
+Kaohsiung, Taiwan.
+(8)Department of Medicinal and Applied Chemistry, Kaohsiung Medical University,
+Kaohsiung, Taiwan. Electronic address: yeloch@kmu.edu.tw.
+(9)Department of Medicinal and Applied Chemistry, Kaohsiung Medical University,
+Kaohsiung, Taiwan. Electronic address: lfwang@kmu.edu.tw.
+(10)Department of Biotechnology, Kaohsiung Medical University, Kaohsiung, Taiwan;
+Department of Biological Sciences, National Sun Yat-sen University, Kaohsiung,
+Taiwan; Center of Excellence for Environmental Medicine, Kaohsiung Medical
+University, Kaohsiung, Taiwan; Cancer Center, Department of Medical Research,
+Kaohsiung Medical University Hospital, Kaohsiung Medical University, Kaohsiung
+807, Taiwan; Graduate Institute of Medicine, College of Medicine, Kaohsiung
+Medical University, Kaohsiung 807, Taiwan. Electronic address: cchiu@kmu.edu.tw.
+
+BACKGROUND: Phytochemical naphtho[1,2-b] furan-4,5‑dione (NFD) presenting in
+Avicennia marina exert anti-cancer effects, but little is known regarding about
+DNA damage-mediated apoptosis in non-small-cell lung carcinoma (NSCLC).
+PURPOSE: To examine whether NFD-induced apoptosis of NSCLC cells is correlated
+with the induction of DNA damage, and to investigate its underlying mechanism.
+STUDY DESIGN: The anti-proliferative effects of NFD were assessed by MTS Assay
+Kit FACS assay, and in vivo nude mice xenograft assay. The DNA damage related
+proteins, the Bcl-2 family and pro-apoptotic factors were examined by
+immunofluorescence assay, q-PCR, and western blotting. The activity of NF-κB p65 
+in nuclear extracts was detected using a colorimetric DNA-binding ELISA assay.
+The inhibitory activity of topoisomerase II (TOPO II) was evaluated by molecular 
+docking and TOPO II catalytic assay.
+RESULTS: NFD exerted selective cytotoxicity against NSCLC H1299, H1437 and A549
+cells rather than normal lung-embryonated cells MRC-5. Remarkably, we found that 
+NFD activated the hull marker and modulator of DNA damage repairs such as γ-H2AX,
+ATM, ATR, CHK1, and CHK2 probably caused by the accumulation of intracellular
+reactive oxygen species (ROS) and inhibition of TOPO II activity. Furthermore,
+the suppression of transcription factor NF-κB by NFD resulted in significantly
+decreased levels of pro-survival proteins including Bcl-2 family Bcl-2, Bcl-xL
+and Mcl-1 and the endogenous inhibitors of apoptosis XIAP and survivin in H1299
+cells. Moreover, the nude mice xenograft assay further validated the suppression 
+of H1299 growth by NFD, which is the first report for evaluating the anti-cancer 
+effect of NFD in vivo.
+CONCLUSION: These findings provide a novel mechanism indicating the inhibition of
+TOPO II activity and NF-κB signaling by NFD, leading to DNA damage and apoptosis 
+of NSCLC tumor cells.
+
+Copyright © 2018. Published by Elsevier GmbH.
+
+DOI: 10.1016/j.phymed.2018.06.025 
+PMID: 30668360 
+
+
+207. Oncotarget. 2017 Sep 21;8(49):86312-86324. doi: 10.18632/oncotarget.21146.
+eCollection 2017 Oct 17.
+
+JQ1 synergizes with the Bcl-2 inhibitor ABT-263 against MYCN-amplified small cell
+lung cancer.
+
+Wang H(1)(2)(3), Hong B(1)(3), Li X(1)(3), Deng K(1)(2)(3), Li H(1)(3), Yan Lui
+VW(4), Lin W(1)(3).
+
+Author information: 
+(1)High Magnetic Field Laboratory, Chinese Academy of Sciences, Hefei 230031,
+Anhui, P.R. China.
+(2)University of Science and Technology of China, Hefei 230036, Anhui, P.R.
+China.
+(3)Key Laboratory of High Magnetic Field and Ion Beam Physical Biology, Hefei
+Institutes of Physical Science, Chinese Academy of Sciences, Hefei 230031, Anhui,
+P.R. China.
+(4)School of Biomedical Sciences, Faculty of Medicine, The Chinese University of 
+Hong Kong, Hong Kong SAR, P.R. China.
+
+Small cell lung cancer (SCLC) is a clinically aggressive cancer with very poor
+prognosis. Amplification of MYC family genes and overexpression of Bcl-2 protein 
+are common in SCLC, and they are likely therapeutic targets for SCLC. Previous
+clinical study showed that single agent targeting Bcl-2 with ABT-263 was of
+limited efficacy in SCLC. In this study, we demonstrated for the first time that 
+co-targeting of N-Myc and Bcl-2 resulted in marked synergistic antitumor effects 
+in MYCN-amplified SCLC. We found that MYCN-amplified SCLC cells were highly
+sensitive to a Bromodomain and Extra-Terminal domain (BET) inhibitor JQ1, which
+was able to inhibit N-Myc protein expression. The inhibition of N-Myc by JQ1
+induced the expression of Bim, and thereby sensitizing MYCN-amplified SCLC cells 
+to ABT-263. The knockdown on Bim by siRNA reduced this JQ1/ABT-263 induced cell
+death. ABT-263 and JQ1 co-treatment in MYCN-amplified SCLC cells markedly
+disrupted Bim/Bcl-2 interaction, and prevented Bim's interaction with Mcl-1.
+Importantly, this JQ1/ABT-263 co-targeting substantially inhibited the growth of 
+MYCN-amplified SCLC xenografts in vivo. Our study demonstrates a new JQ-1/ABT-263
+co-targeting strategy that can be employed for MYCN-amplified SCLC with high
+efficacy.
+
+DOI: 10.18632/oncotarget.21146 
+PMCID: PMC5689687
+PMID: 29156797 
+
+Conflict of interest statement: CONFLICTS OF INTEREST Authors have no
+financial/commercial conflicts of interest regarding the study.
+
+
+208. J Cancer Res Clin Oncol. 2017 Sep;143(9):1733-1744. doi:
+10.1007/s00432-017-2427-1. Epub 2017 Apr 21.
+
+Deregulated BCL-2 family proteins impact on repair of DNA double-strand breaks
+and are targets to overcome radioresistance in lung cancer.
+
+Wieczorek SA(1), Breitenbuecher F(1)(2), Soni A(3), Paul-Konietzko K(3), Ziegler 
+S(1), Sak A(4), Iliakis G(3)(2), Schuler M(5)(6).
+
+Author information: 
+(1)Department of Medical Oncology, West German Cancer Center, University Hospital
+Essen, University Duisburg-Essen, 45122, Essen, Germany.
+(2)German Cancer Consortium (DKTK), Partner Site University Hospital Essen,
+45122, Essen, Germany.
+(3)Institute of Medical Radiation Biology, Medical Faculty, University
+Duisburg-Essen, 45122, Essen, Germany.
+(4)Department of Radiotherapy, West German Cancer Center, University Hospital
+Essen, University Duisburg-Essen, 45122, Essen, Germany.
+(5)Department of Medical Oncology, West German Cancer Center, University Hospital
+Essen, University Duisburg-Essen, 45122, Essen, Germany.
+martin.schuler@uk-essen.de.
+(6)German Cancer Consortium (DKTK), Partner Site University Hospital Essen,
+45122, Essen, Germany. martin.schuler@uk-essen.de.
+
+PURPOSE: DNA damage-induced cell death is a major effector mechanism of
+radiotherapy. Aberrant expression of anti-apoptotic BCL-2 family proteins is
+frequently observed in lung cancers. Against this background, we studied
+radioresistance mediated by BCL-2 family proteins at the mechanistic level and
+its potential as target for radiochemotherapy.
+METHODS: Lung cancer models stably expressing BCL-xL or MCL-1 were irradiated to 
+study cell death, clonogenic survival, and DNA repair kinetics in vitro, and
+growth suppression of established tumors in vivo. Additionally, endogenous BCL-xL
+and MCL-1 were targeted by shRNA or pharmacologic agents prior to irradiation.
+RESULTS: Radiation exposure induced apoptosis at negligible levels. Yet,
+anti-apoptotic BCL-xL and MCL-1 expression conferred short-term and long-term
+radioresistance in vitro and in vivo. Radioresistance correlated with
+pertubations in homologous recombination repair and repair of DNA double-strand
+breaks by error-prone, alternative end-joining. Notably, genetic or pharmacologic
+targeting of BCL-xL or MCL-1 effectively sensitized lung cancer cells to
+radiotherapy.
+CONCLUSIONS: In addition to directly suppressing apoptosis, BCL-2 family proteins
+confer long-term survival benefits to irradiated cancer cells associated with
+utilization of error-prone repair pathways. Targeting BCL-xL and MCL-1 is an
+attractive strategy for improving lung cancer radiotherapy.
+
+DOI: 10.1007/s00432-017-2427-1 
+PMID: 28432456  [Indexed for MEDLINE]
+
+
+209. Phytomedicine. 2019 Feb;53:28-36. doi: 10.1016/j.phymed.2018.08.005. Epub 2018
+Aug 17.
+
+Demethoxycurcumin sensitizes the response of non-small cell lung cancer to
+cisplatin through downregulation of TP and ERCC1-related pathways.
+
+Lin CY(1), Hung CC(2), Wang CCN(3), Lin HY(2), Huang SH(2), Sheu MJ(4).
+
+Author information: 
+(1)Division of Hematology and Oncology, Department of Internal Medicine, China
+Medical University Hospital, Taiwan.
+(2)School of Pharmacy, China Medical University, Taichung 40402, Taiwan.
+(3)Department of Biomedical Informatics, Asia University, Taichung 41354, Taiwan.
+(4)School of Pharmacy, China Medical University, Taichung 40402, Taiwan.
+Electronic address: hsumj@mail.cmu.edu.tw.
+
+BACKGROUND: Excision repair cross-complementary 1 (ERCC1) overexpression in lung 
+cancer cells is strongly correlated with its resistance to platinum-based
+chemotherapy. Overexpression of thymidine phosphorylase (TP) reverts
+platinum-induced cancer cell death.
+PURPOSE: Curcumin has been reported to enhance antitumor properties through the
+suppression of TP and ERCC1 in non-small cell lung carcinoma cells (NSCLC).
+Nevertheless, whether two other curcuminoids, demethoxycurcumin (DMC) and
+bisdemethoxycurcumin (BDMC) from Curcuma longa demonstrate antitumor activity
+like that of curcumin remain unknown.
+METHODS: MTT assay was conducted to determine the cell cytotoxicity. Western
+blotting was used to determine the protein expressions. Docking is the virtual
+screening of a database of compounds and predicting the strongest binders based
+on various scoring functions. BIOVIA Discovery Studio 4.5 (D.S. 4.5) were used
+for docking.
+RESULTS: Firstly, when compared with curcumin and BDMC, DMC exhibited the most
+potent cytotoxic effect on NSCLC, most importantly, MRC-5, a lung fetal
+fibroblast, was insensitive to DMC (under 30 µM). Secondly, DMC alone
+significantly inhibited on-target cisplatin (CDDP) resistance protein, ERCC1, via
+PI3K-Akt-snail pathways, and TP protein expression in A549 cells. Thirdly, DMC
+treatment markedly increased post-target CDDP resistance pathway including Bax
+and cytochrome c. DMC significantly decreased Bcl-2 protein expressions. Finally,
+MTT assay indicated that DMC significantly increased CDDP-induced cytotoxicity
+and was confirmed with an increased Bax/Bcl-2 ratio, indicating upregulation of
+caspase-3.
+CONCLUSIONS: We concluded that enhancement of the cytotoxicity to CDDP by
+coadminstration with DMC was mediated by down-regulation of the expression of TP 
+and ERCC1, regulated by PI3K-Akt-Snail pathway inactivation.
+
+Copyright © 2018 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.phymed.2018.08.005 
+PMID: 30668408 
+
+
+210. Phytomedicine. 2019 Feb;53:124-133. doi: 10.1016/j.phymed.2018.09.033. Epub 2018 
+Sep 4.
+
+Dioscin-6'-O-acetate inhibits lung cancer cell proliferation via inducing cell
+cycle arrest and caspase-dependent apoptosis.
+
+Li X(1), Qu Z(2), Jing S(3), Li X(1), Zhao C(1), Man S(4), Wang Y(5), Gao W(6).
+
+Author information: 
+(1)Tianjin Key Laboratory for Modern Drug Delivery & High-Efficiency, School of
+Pharmaceutical Science and Technology, Tianjin University, Tianjin 300072, China.
+(2)School of Pharmacy, Ningxia Medical University, 1160 Shengli Street, Yinchuan 
+750004, China.
+(3)College of Pharmacy, Hebei University of Chinese Medicine, Shijiazhuang
+050200, China.
+(4)Tianjin Key Laboratory of Industry Microbiology, College of Biotechnology,
+Tianjin University of Science & Technology, Tianjin 300457, China. Electronic
+address: msl@tust.edu.cn.
+(5)Tianjin Key Laboratory of Chemistry and Analysis of Chinese Materia Medica,
+Tianjin University of Traditional Chinese Medicine, Tianjin 300193, China.
+(6)Tianjin Key Laboratory for Modern Drug Delivery & High-Efficiency, School of
+Pharmaceutical Science and Technology, Tianjin University, Tianjin 300072, China;
+College of Pharmacy, Hebei University of Chinese Medicine, Shijiazhuang 050200,
+China; Tianjin Key Laboratory of Industry Microbiology, College of Biotechnology,
+Tianjin University of Science & Technology, Tianjin 300457, China. Electronic
+address: biochemgao@163.com.
+
+BACKGROUND: Lung cancer is the leading cause of global cancer-related mortality. 
+Dioscin-6'-O-acetate (DA), a novel natural steroidal saponin, was firstly
+isolated from the rhizomes of Dioscorea althaeoides R. Knuth. Until now, there
+were no studies on its pharmacological activities.
+PURPOSE: Here, we investigated the growth inhibitory effect and explored the
+underlying molecular mechanisms of DA against lung cancer cells.
+METHODS/STUDY DESIGNS: NSCLC H460, H1299, H520 cells and SCLC H446 cells were
+treated with DA. To display the cytotoxic effects and possible mechanism of DA on
+these cells, MTT assay, flow cytometry and western blot analysis were carried
+out.
+RESULTS: Our results showed that DA exerted strong anti-proliferative activity
+against lung cancer cells in a concentration- and time-dependent manner. Flow
+cytometry demonstrated DA induced the cell cycle arrest at S-phase (NCI-H460,
+NCI-H1299, NCI-H520) or G1-phase (NCI-H446), caused cellular apoptosis,
+generation of reactive oxygen species (ROS) and loss of mitochondrial membrane
+potential. Western blotting analysis showed DA treatment increased the levels of 
+caspase 3, 8, 9, Bax, p21, p53, phosphorylated JNK and p38 MAPK and markedly
+decreased the expression of Bcl-2, p-ERK, p-PI3K, p-AKT and NF-κB. Blockade of
+caspases with Z-VAD-FMK converted apoptosis-related proteins. Suppression of p53 
+with pifithrin-α (PFT) attenuated cell cycle-related protein. Inhibition of ROS
+with N-acetyl-cysteine (NAC) adjusted apoptosis-related proteins and
+phosphorylated MAPK and PI3K, as well as NF-κB.
+CONCLUSION: Overall, our study indicated that DA suppressed lung cancer cells
+proliferation via inducing cell-cycle arrest and enhancing caspase-dependent
+apoptosis, at least partly, through ROS-mediated PI3K/AKT, MAPK and NF-κB
+signaling pathways.
+
+Copyright © 2018 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.phymed.2018.09.033 
+PMID: 30668391 
+
+
+211. Thorac Cancer. 2019 Mar;10(3):492-500. doi: 10.1111/1759-7714.12962. Epub 2019
+Jan 21.
+
+Scutellarin suppresses proliferation and promotes apoptosis in A549 lung
+adenocarcinoma cells via AKT/mTOR/4EBP1 and STAT3 pathways.
+
+Cao P(1), Liu B(2)(3), Du F(4), Li D(2)(3), Wang Y(2)(3), Yan X(4), Li X(1), Li
+Y(2)(3).
+
+Author information: 
+(1)Cheeloo College of Medicine, Shandong University, Jinan, China.
+(2)Department of Interventional Medicine, The Second Hospital of Shandong
+University, Jinan, China.
+(3)Interventional Oncology Institute of Shandong University, Jinan, China.
+(4)Department of Radiology, Pingyin County Hospital of Traditional Chinese
+Medicine, Jinan, China.
+
+BACKGROUND: Scutellarin (SCU), a flavonoid isolated from Erigeron breviscapus
+(Vant.) Hand.-Mazz., increases autophagy and apoptosis in the adenocarcinoma A549
+cell line, which is resistant to cisplatin. However, whether SCU alone has
+antitumor activity against non-small cell lung cancer (NSCLC) is unknown.
+METHODS: Cell Counting Kit-8, flow cytometry, colony formation, Hoechst 33258
+staining, and Western blot analyses were used to examine the proliferation and
+apoptosis of A549 cells treated with SCU and the possible molecular mechanisms.
+RESULTS: The cell viability assay indicated that SCU markedly suppressed the
+proliferation of A549 cells in concentration and time-dependent manners. SCU
+caused significant G0/G1 phase arrest and apoptosis, as evidenced by flow
+cytometric analyses, Hoechst 33258 staining, and Western blot analyses of cyclin 
+D1, cyclin E, BCL-2, cleaved-caspase-3, and BAX. Furthermore, SCU treatment
+reduced the level of pan-AKT, phosphorylated (p)-mTOR, mTOR, BCL-XL, STAT3, and
+p-STAT3, and increased the level of 4EBP1.
+CONCLUSIONS: SCU can suppress proliferation and promote apoptosis in A549 cells
+through AKT/mTOR/4EBP1 and STAT3 pathways. This suggests that SCU may be
+developed into a promising antitumor agent for treating NSCLC.
+
+© 2019 The Authors. Thoracic Cancer published by China Lung Oncology Group and
+John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/1759-7714.12962 
+PMCID: PMC6397905
+PMID: 30666790 
+
+
+212. Pathol Res Pract. 2019 Apr;215(4):801-806. doi: 10.1016/j.prp.2019.01.027. Epub
+2019 Jan 18.
+
+Association of nuclear localization of SHP2 and YAP1 with unfavorable prognosis
+in non-small cell lung cancer.
+
+Chen MJ(1), Wang YC(2), Wu DW(3), Chen CY(2), Lee H(4).
+
+Author information: 
+(1)Department of Surgery, Chi Mei Medical Center, Tainan, Taiwan; Department of
+Sports Management, College of Leisure and Recreation Management, Chia Nan
+University of Pharmacy and Science, Tainan, Taiwan. Electronic address:
+mjnchen@hotmail.com.
+(2)Department of Internal Medicine, Chung Shan Medical University Hospital,
+Taichung, Taiwan; School of Medicine, Chung Shan Medical University, Taichung,
+Taiwan.
+(3)Graduate Institute of Cancer Biology and Drug Discovery, Taipei Medical
+University, Taipei, Taiwan.
+(4)Graduate Institute of Cancer Biology and Drug Discovery, Taipei Medical
+University, Taipei, Taiwan. Electronic address: hl@tmu.edu.tw.
+
+Src homology region 2 (SH2)-containing protein tyrosine phosphatase 2 (SHP2) is
+ubiquitously expressed in cytoplasmic localization, which in turn confers tumor
+malignancy and poor prognosis in various human cancers. YAP1 interacts with SHP2 
+to promote translocation of SHP2 to nucleus, which consequently promotes Wnt
+target activation. However, the oncogenic role of the nuclear localization of
+SHP2 in human cancers remains unclear. We hypothesized that nuclear SHP2
+localization, in combination with nuclear YAP1 expression, could be associated
+with poor overall survival (OS) and relapse free survival (RFS) due to an
+increase in cyclin D1 and c-Myc mRNA expression following activation of
+Wnt/ß-catenin signaling. Immunohistochemical analysis of SHP2 and YAP1 protein
+expression in 102 tumors resected from patients with NSCLC revealed that nuclear 
+SHP2 expression was well correlated with nuclear YAP1 expression (P < 0.001).
+Evaluation of cyclin D1 and c-Myc mRNA levels by the real-time reverse-phase
+polymerase chain reaction (RT-PCR) revealed that patients with high cyclin D1 and
+high c-Myc mRNA expressing tumors more commonly showed high nuclear YAP1 and high
+nuclear SHP2 (high/high) rather than the high/low, low/high, or low/low
+combinations (P < 0.001 for cyclin D1 and c-Myc). Kaplan-Meier and Cox-regression
+models showed OS and RFS to be poorer in patients in the high/high subgroup than 
+in the low/low subgroup (OS: HR = 2.85, 95% CI, 1.52-5.35, P = 0.001; RFS:
+HR = 2.55, 95% CI, 1.37-4.72, P = 0.003). No prognostic significance was observed
+for the other two subgroups (low/high and high/low) when compared to the low/low 
+subgroup in this study population. Therefore, we suggest that the prognostic
+value of SHP2 could reflect the nuclear localization of SHP2 and its interaction 
+with nuclear YAP1, which led to subsequent upregulation of cyclin D1 and c-Myc
+mRNA expression via activation of the Wnt/ß-catenin signaling pathway.
+
+Copyright © 2019 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.prp.2019.01.027 
+PMID: 30685130 
+
+
+213. Nutrients. 2018 Nov 26;10(12). pii: E1829. doi: 10.3390/nu10121829.
+
+Nobiletin Enhances Chemosensitivity to Adriamycin through Modulation of the
+Akt/GSK3β/β⁻Catenin/MYCN/MRP1 Signaling Pathway in A549 Human Non-Small-Cell Lung
+Cancer Cells.
+
+Moon JY(1), Manh Hung LV(2), Unno T(3)(4), Cho SK(5)(6)(7).
+
+Author information: 
+(1)Subtropical/Tropical Organism Gene Bank, Jeju National University, Jeju 63243,
+Korea. owenmjy@jejunu.ac.kr.
+(2)School of Biomaterial Science and Technology, College of Applied Life
+Sciences, Jeju National University, Jeju 63243, Korea. manhhung.levan@gmail.com3.
+(3)Subtropical/Tropical Organism Gene Bank, Jeju National University, Jeju 63243,
+Korea. tatsu@jejunu.ac.kr.
+(4)Faculty of Biotechnology, College of Applied Life Sciences, SARI, Jeju
+National University, Jeju 63243, Korea. tatsu@jejunu.ac.kr.
+(5)Subtropical/Tropical Organism Gene Bank, Jeju National University, Jeju 63243,
+Korea. somikim@jejunu.ac.kr.
+(6)School of Biomaterial Science and Technology, College of Applied Life
+Sciences, Jeju National University, Jeju 63243, Korea. somikim@jejunu.ac.kr.
+(7)Faculty of Biotechnology, College of Applied Life Sciences, SARI, Jeju
+National University, Jeju 63243, Korea. somikim@jejunu.ac.kr.
+
+Drug resistance is a major problem in the treatment of non-small-cell lung cancer
+(NSCLC). In this study, Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway
+analysis was performed to identify the differentially expressed genes in
+Adriamycin (ADR)-resistant NSCLC A549/ADR cells compared with parental A549
+cells. Among the tested phytochemicals, nobiletin (NBT) is able to overcome the
+ADR resistance of A549/ADR cells. NBT treatment decreased the expression of a
+neuroblastoma-derived MYC (MYCN) and multidrug resistance-associated protein 1
+(MRP1) as well as downregulating Akt, GSK3β, and β-catenin. Consistent with these
+results, NBT treatment resulted in the accumulation of intracellular ADR. A
+combination index (CI) assay confirmed the synergistic effect of combined
+treatment with NBT and ADR in reducing the viability of A549/ADR cells (CI =
+0.152). Combined treatment with NBT and ADR enhanced apoptosis in A549/ADR cells,
+as evidenced by increased caspase-3 activation, poly (ADP-ribose) polymerase
+(PARP) cleavage, and sub-G1 population compared to treatment with ADR alone. In
+vivo experiments using a mouse xenograft model revealed that combination therapy 
+with NBT and ADR significantly reduced tumor volume by 84.15%. These data suggest
+that NBT can sensitize ADR-induced cytotoxicity against A549/ADR cells by
+inhibiting MRP1 expression, indicating that NBT could serve as an effective
+adjuvant agent for ADR-based chemotherapy in lung cancer.
+
+DOI: 10.3390/nu10121829 
+PMCID: PMC6316077
+PMID: 30486290  [Indexed for MEDLINE]
+
+
+214. Cancer Lett. 2019 Apr 1;446:81-89. doi: 10.1016/j.canlet.2019.01.007. Epub 2019
+Jan 17.
+
+miR-140-3p functions as a tumor suppressor in squamous cell lung cancer by
+regulating BRD9.
+
+Huang H(1), Wang Y(1), Li Q(2), Fei X(3), Ma H(4), Hu R(5).
+
+Author information: 
+(1)Department of Thoracic Surgery, The First Affiliated Hospital of Soochow
+University, Suzhou, 215006, China.
+(2)Hefei National Laboratory for Physical Sciences at Microscale, School of Life 
+Sciences, University of Science & Technology of China, Hefei, 230026, China;
+School of Life Sciences and Biotechnology, Shanghai Jiao Tong University,
+Shanghai, 200240, China.
+(3)Hefei National Laboratory for Physical Sciences at Microscale, School of Life 
+Sciences, University of Science & Technology of China, Hefei, 230026, China.
+(4)Department of Thoracic Surgery, The First Affiliated Hospital of Soochow
+University, Suzhou, 215006, China. Electronic address: mahaitao@suda.edu.cn.
+(5)Hefei National Laboratory for Physical Sciences at Microscale, School of Life 
+Sciences, University of Science & Technology of China, Hefei, 230026, China.
+Electronic address: rkhu@mail.ustc.edu.cn.
+
+Squamous cell lung cancer (SqCLC) is among the most malignant lung cancers
+worldwide, lacking biomarkers for diagnostic and targets for treatment. In this
+study, we observed that miR-140-3p was expressed at low levels both in SqCLC cell
+lines and patient samples, while overexpression of miR-140-3p dramatically
+reduced the cell proliferation and invasion in SqCLC cells and Patient derived
+xenograft (PDX) models. Our further investigation indicated miR-140-3p negatively
+affected the tumorigenesis of SqCLC by down-regulating the expression of BRD9, an
+oncogene in SqCLC. Inhibition of BRD9 repressed SqCLC tumorigenesis by regulating
+c-myc expression. Meanwhile, BRD9 expression is up-regulated and negatively
+correlated with miR-140-3p in clinical samples; a meta-analysis of survival data 
+indicates that SqCLC patients with high levels of BRD9 in their tumors have a
+worse prognosis. Collectively, our study suggests the prognostic and therapeutic 
+roles of miR-140-3p and BRD9 axis in squamous cell lung cancer.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.canlet.2019.01.007 
+PMID: 30660651 
+
+
+215. Am J Transl Res. 2018 Dec 15;10(12):4193-4201. eCollection 2018.
+
+LncRNA PICART1 suppressed non-small cell lung cancer cells proliferation and
+invasion by targeting AKT1 signaling pathway.
+
+Zhang C(1), Su C(2), Song Q(1), Dong F(1), Yu S(1), Huo J(1).
+
+Author information: 
+(1)Department of Pulmonary Disease, The First Affiliated Hospital of Harbin
+Medical University Harbin 150001, China.
+(2)Department of Pulmonary Disease, Daqing Oil Field General Hospital Daqing
+163001, China.
+
+LncRNAs play significant roles in various cell biological processes. In the
+present study, we demonstrated that PICART1 expression was down-regulated in
+non-small cell lung cancer (NSCLC) tissues. Lower expression level of PICART1 was
+associated with advanced stage. In addition, PICART1 expression was
+down-regulated in NSCLC cell lines. Overexpression of PICART1 inhibited NSCLC
+cell growth and induced cell cycle arrest at G2/M phase. Elevated expression of
+PICART1 suppressed NSCLC cell colony formation and cell invasion. Ectopic
+expression of PICART1 promoted the expression of epithelial marker E-cadherin
+while suppressed the mesenchymal marker expression such as N-cadherin and Snail
+and Vimentin. Furthermore, PICART1 overexpression suppressed AKT phosphorylation 
+and c-Myc expression while inhibited the p21 expression in NSCLC cell. AKT
+phosphorylation was involved in PICART1 mediated suppression of cell growth and
+invasion. These results suggested that overexpression of PICART1 suppressed cell 
+growth and invasion partly through regulating AKT signaling pathway in NSCLC.
+
+
+PMCID: PMC6325487
+PMID: 30662662 
+
+Conflict of interest statement: None.
+
+
+216. Oncogene. 2017 Nov 9;36(45):6235-6243. doi: 10.1038/onc.2017.217. Epub 2017 Jul
+17.
+
+BIN1 reverses PD-L1-mediated immune escape by inactivating the c-MYC and
+EGFR/MAPK signaling pathways in non-small cell lung cancer.
+
+Wang J(1), Jia Y(1), Zhao S(2), Zhang X(1), Wang X(1), Han X(1), Wang Y(1), Ma
+M(3), Shi J(4), Liu L(1).
+
+Author information: 
+(1)Department of Tumor Immunotherapy, Fourth Hospital of Hebei Medical University
+and Hebei Cancer Institute, Shijiazhuang, China.
+(2)Department of Pathology, Hebei Medical University, Shijiazhuang, China.
+(3)Research Center, Fourth Hospital of Hebei Medical University and Hebei Cancer 
+Institute, Shijiazhuang, China.
+(4)State Key Laboratory of Molecular Biology, Institute of Basic Medical
+Sciences, Chinese Academy of Medical Sciences and Peking Union Medical College,
+Beijing, China.
+
+Non-small cell lung cancer (NSCLC) is one of the most common and malignant
+carcinoma worldwide, and the incidence and mortality are increasing rapidly.
+Immunotherapy targeting programmed death 1/programmed death ligand 1 (PD-L1)
+signaling has shown prominent clinical effects in treating NSCLC; however, a poor
+understanding of the associated regulating molecular mechanisms of PD-L1 has
+become one of the biggest obstacles for further improving efficacy. Bridging
+integrator-1 (BIN1) can regulate numerous cancer-related molecules to exert
+multiple tumor-suppressing effects by either interacting or not interacting with 
+c-MYC. In the present study, we observed that there exists a negative correlation
+between the expression of PD-L1 and BIN1 in NSCLC tissues. The expression levels 
+of BIN1 and PD-L1 were significantly related to the tumor, lymph node and
+metastasis grade (TNM) stage, invasion range and lymph node metastasis.
+Simultaneously, for NSCLC patients, the expression statuses of BIN1 and PD-L1
+might be independent prognostic factors. Furthermore, the expression of
+tumor-infiltrating lymphocytes was positively associated with BIN1 expression and
+negatively related to PD-L1 expression in NSCLC tissues. Importantly, we showed
+that PD-L1 was under the control of BIN1. In addition, the overexpression of BIN1
+could inhibit the c-MYC and epithelial growth factor receptor (EGFR)-dependent
+PD-L1 expression and reverse the suppressive immuno-microenvironment in vivo.
+Taken together, our findings indicated that BIN1 restoration in NSCLC could
+reverse PD-L1-mediated immune escape by inactivating the c-MYC and
+EGFR/mitogen-activated protein kinase pathways.
+
+DOI: 10.1038/onc.2017.217 
+PMID: 28714960  [Indexed for MEDLINE]
+
+
+217. Oncogene. 2015 May 7;34(19):2505-15. doi: 10.1038/onc.2014.184. Epub 2014 Jul 7.
+
+FHIT loss confers cisplatin resistance in lung cancer via the
+AKT/NF-κB/Slug-mediated PUMA reduction.
+
+Wu DW(1), Lee MC(2), Hsu NY(1), Wu TC(3), Wu JY(4), Wang YC(3), Cheng YW(1), Chen
+CY(5), Lee H(1).
+
+Author information: 
+(1)Graduate Institute of Cancer Biology and Drug Discovery, College of Medical
+Science and Technology, Taipei Medical University, Taipei, Taiwan, ROC.
+(2)Division of Thoracic Surgery, Department of Surgery, Taichung Veterans General
+Hospital, Taichung, Taiwan, ROC.
+(3)1] Division of Chest Medicine, Chung Shan Medical University Hospital,
+Taichung, Taiwan, ROC [2] School of Medicine, Chung Shan Medical University,
+Taichung, Taiwan, ROC.
+(4)1] Division of Thoracic Surgery, Buddhist Tzu Chi General Hospital, Taichung
+Branch, Taichung, Taiwan, ROC [2] Department of Medicine, Tzu Chi University,
+Hualien, Taiwan, ROC.
+(5)Department of Surgery, China Medical University Hospital, Taichung, Taiwan,
+ROC.
+
+Erratum in
+    Oncogene. 2015 May 7;34(19):2546.
+    Oncogene. 2015 Jul;34(29):3882-3.
+    Oncogene. 2017 Jul 17;:.
+
+Fragile histidine triad (FHIT) loss by the two-hit mechanism of loss of
+heterozygosity and promoter hypermethylation commonly occurrs in non-small cell
+lung cancer (NSCLC) and may confer cisplatin resistance in NSCLC cells. However, 
+the underlying mechanisms of FHIT loss in cisplatin resistance and the response
+to cisplatin-based chemotherapy in NSCLC patients have not yet been reported. In 
+the present study, inhibition concentration of 50% cell viability induced by
+cisplatin (IC50) and soft agar growth and invasion capability were increased and 
+decreased in FHIT-knockdown and -overexpressing cells, respectively.
+Mechanistically, Slug transcription is upregulated by AKT/NF-κB activation due to
+FHIT loss and, in turn, Slug suppresses PUMA expression; this decrease of PUMA by
+FHIT loss is responsible for cisplatin resistance. In addition, cisplatin
+resistance due to FHIT loss can be conquered by AKT inhibitor-perifosine in
+xenograft tumors. Among NSCLC patients, low FHIT, high p-AKT, high Slug and low
+PUMA were correlated with shorter overall survival, relapse-free survival and
+poorer response to cisplatin-based chemotherapy. Therefore, the AKT inhibitor
+perifosine might potentially overcome the resistance to cisplatin-based
+chemotherapy in NSCLC patients with low-FHIT tumors, and consequently improve the
+outcome.
+
+DOI: 10.1038/onc.2014.184 
+PMID: 24998847  [Indexed for MEDLINE]
+
+
+218. PLoS Genet. 2014 Oct 23;10(10):e1004652. doi: 10.1371/journal.pgen.1004652.
+eCollection 2014 Oct.
+
+FHIT suppresses epithelial-mesenchymal transition (EMT) and metastasis in lung
+cancer through modulation of microRNAs.
+
+Suh SS(1), Yoo JY(2), Cui R(3), Kaur B(2), Huebner K(3), Lee TK(4), Aqeilan
+RI(5), Croce CM(3).
+
+Author information: 
+(1)Department of Molecular Virology, Immunology and Medical Genetics, and
+Comprehensive Cancer Center, Ohio State University, Columbus, Ohio, United States
+of America; South Sea Environmental Research Division, Korea Institute of Ocean
+Science and Technology, Geoje, South Korea.
+(2)Dardinger Laboratory for Neuro-oncology and Neurosciences, Department of
+Neurological Surgery, Comprehensive Cancer Center and The Ohio State University
+Medical Center, Columbus, Ohio, United States of America.
+(3)Department of Molecular Virology, Immunology and Medical Genetics, and
+Comprehensive Cancer Center, Ohio State University, Columbus, Ohio, United States
+of America.
+(4)South Sea Environmental Research Division, Korea Institute of Ocean Science
+and Technology, Geoje, South Korea.
+(5)Department of Molecular Virology, Immunology and Medical Genetics, and
+Comprehensive Cancer Center, Ohio State University, Columbus, Ohio, United States
+of America; The Lautenberg Center for General and Tumor Immunology, Department of
+Immunology and Cancer Research, IMRIC, Hebrew University-Hadassah Medical School,
+Jerusalem, Israel.
+
+Metastasis is the principal cause of cancer death and occurs through multiple,
+complex processes that involve the concerted action of many genes. A number of
+studies have indicated that the Fragile Histidine Triad (FHIT) gene product,
+FHIT, functions as a tumor suppressor in a variety of common human cancers.
+Although there are suggestions of a role for FHIT loss in progression of various 
+cancers, a role for such loss in metastasis has not been defined. Here, via in
+vivo and in vitro assays, we reveal that the enforced expression of FHIT
+significantly suppresses metastasis, accompanied by inhibition of the
+epithelial-mesenchymal transition (EMT), a process involved in metastasis through
+coordinate modulation of EMT-related genes. Specifically, miR-30c, a
+FHIT-upregulated microRNA, contributes to FHIT function in suppression of EMT and
+metastasis by directly targeting metastasis genes Metadherin (MTDH),
+High-mobility group AT-hook 2 (HMGA2), and the mesenchymal markers, Vimentin
+(VIM) and Fibronectin (FN1), in human lung cancer. Finally, we demonstrate that
+the expression pattern of FHIT and miR-30c is inversely correlated with that of
+MTDH and HMGA2 in normal tissue, non-metastatic and metastatic tumors, serving as
+a potential biomarker for metastasis in lung cancer.
+
+DOI: 10.1371/journal.pgen.1004652 
+PMCID: PMC4207614
+PMID: 25340791  [Indexed for MEDLINE]
+
+
+219. Sci Rep. 2015 Mar 10;5:8897. doi: 10.1038/srep08897.
+
+Meta-analyses of gene methylation and smoking behavior in non-small cell lung
+cancer patients.
+
+Huang T(1), Chen X(2), Hong Q(2), Deng Z(3), Ma H(3), Xin Y(4), Fang Y(5), Ye
+H(2), Wang R(2), Zhang C(2), Ye M(3), Duan S(2).
+
+Author information: 
+(1)1] Zhejiang Provincial Key Laboratory of Pathophysiology, School of Medicine, 
+Ningbo University, Ningbo, Zhejiang 315211, China [2] The Affiliated Hospital of 
+Ningbo University, Ningbo, Zhejiang 315020, China.
+(2)Zhejiang Provincial Key Laboratory of Pathophysiology, School of Medicine,
+Ningbo University, Ningbo, Zhejiang 315211, China.
+(3)The Affiliated Hospital of Ningbo University, Ningbo, Zhejiang 315020, China.
+(4)State Key Laboratory of Safety Evaluation for New Drugs, Zhejiang Academy of
+Medical Sciences, Hangzhou, Zhejiang, China.
+(5)Department of Medical Oncology, Sir Run Run Shaw Hospital, Zhejiang University
+School of Medicine, Hangzhou, Zhejiang 310016, China.
+
+Aberrant DNA methylation can be a potential genetic mechanism in non-small cell
+lung cancer (NSCLC). However, inconsistent findings existed among the recent
+association studies between cigarette smoking and gene methylation in lung
+cancer. The purpose of our meta-analysis was to evaluate the role of gene
+methylation in the smoking behavior of NSCLC patients. A total of 116 genes were 
+obtained from 97 eligible publications in the current meta-analyses. Our results 
+showed that 7 hypermethylated genes (including CDKN2A, RASSF1, MGMT, RARB, DAPK, 
+WIF1 and FHIT) were significantly associated with the smoking behavior in NSCLC
+patients. The further population-based subgroup meta-analyses showed that the
+CDKN2A hypermethylation was significantly associated with cigarette smoking in
+Japanese, Chinese and Americans. In contrast, a significant association of RARB
+hypermethylation and smoking behavior was only detected in Chinese but not in
+Japanese. The genes with altered DNA methylation were likely to be potentially
+useful biomarkers in the early diagnosis of NSCLC.
+
+DOI: 10.1038/srep08897 
+PMCID: PMC4354004
+PMID: 25754026  [Indexed for MEDLINE]
+
+
+220. Oncol Lett. 2015 Jul;10(1):392-398. Epub 2015 May 15.
+
+Effect of FHIT loss and p53 mutation on HPV-infected lung carcinoma development.
+
+Yu Y(1), Liu X(1), Yang Y(1), Zhao X(1), Xue J(2), Zhang W(2), Yang A(2).
+
+Author information: 
+(1)Medical School of Xi'an Jiaotong University, Xi'an, Shaanxi 710061, P.R.
+China.
+(2)Department of Nuclear Medicine, The First Affiliated Hospital of Medical
+School of Xi'an Jiaotong University, Xi'an, Shaanxi 710061, P.R. China.
+
+High-risk human papillomavirus (HPV)16/18 infection in the development of lung
+cancer has previously been identified, and fragile histidine triad (FHIT) loss
+and p53 mutation are frequently observed in the disease. However, the association
+between these factors has not been well studied. The present study aimed to
+further investigate the significance of HPV infection, FHIT loss and p53
+mutations in the development of lung cancer and their possible associations. DNA 
+was extracted from paraffin-embedded specimens from 88 cases of squamous cell
+carcinoma (SCC), 56 of adenocarcinoma (AC), 36 of small cell lung carcinoma
+(SCLC) and 110 non-cancer control cases of lung neoplasms. The prevalence of HPV 
+infection was determined by polymerase chain reaction analysis, and FHIT loss and
+p53 mutations were detected by immunohistochemistry. The χ2, Fisher's exact and
+Pearson correlation tests were applied for statistical analysis. The results of
+the present study demonstrated that HPVL1 (the major capsid protein of HPV),
+HPV16 and HPV18 infection were more prevalent in the lung cancer samples compared
+with the non-cancer controls (all P<0.001). FHIT loss occurred more frequently in
+the lung cancer samples (44.44%) compared with the non-cancer controls (7.25%)
+(P<0.001). FHIT loss in the HPVL1-positive group was significantly increased
+compared with the HPVL1-negative group in the lung cancer cases and the
+non-cancer controls (P<0.05). In the lung cancer cases, the p53 mutation rates in
+the HPVL1- and HPV16/18-positive groups were significantly increased compared
+with the HPVL1- and HPV16/18-negative groups (P<0.05). In the 180 lung cancer
+cases, the coexistence rate of FHIT loss and a history of smoking was 38.33%
+(69/180; Pearson contingency coefficient of r=0.318; P<0.001). FHIT loss and p53 
+mutation exhibited a synergistic effect on HPV-associated lung cancer (Pearson
+contingency coefficient r=0.357, P<0.001). The present study demonstrated that
+FHIT loss may be important in the occurrence of lung cancer, particularly in lung
+SCCs. FHIT loss may therefore be used as an early indicator for lung cancer,
+particularly for patients with a history of smoking. HPV infection in lung
+tumorigenesis may, at least in part, be mediated through FHIT loss. FHIT loss and
+p53 mutation may coordinate together in the development of HPV-associated lung
+cancer, and accelerate the occurrence and development of lung cancer.
+
+DOI: 10.3892/ol.2015.3213 
+PMCID: PMC4487131
+PMID: 26171037 
+
+
+221. Sci Rep. 2016 Jan 22;6:19303. doi: 10.1038/srep19303.
+
+The clinicopathological significance of FHIT hypermethylation in non-small cell
+lung cancer, a meta-analysis and literature review.
+
+Yan W(1), Xu N(2), Han X(1), Zhou XM(3), He B(1).
+
+Author information: 
+(1)Department of Respiratory Medicine, Peking University Third Hospital, Beijing,
+100191, China.
+(2)Department of Rheumatology, Peking University Third Hospital, Beijing, 100191,
+China.
+(3)Department of Respiratory Medicine, The Shengjing Hospital of China Medical
+University, Shenyang, 110004, China.
+
+Emerging evidence indicates that FHIT is a candidate tumor suppressor in
+non-small cell lung cancer (NSCLC). However, the correlation between FHIT
+hypermethylation and clinicopathological characteristics of NSCLC remains
+unclear. Thus, we conducted a meta-analysis to quantitatively evaluate the
+effects of FHIT hypermethylation on the incidence of NSCLC and
+clinicopathological characteristics. Final analysis of 1717 NSCLC patients from
+16 eligible studies was performed. FHIT hypermethylation was found to be
+significantly higher in NSCLC than in normal lung tissue, the pooled OR from 8
+studies including 735 NSCLC and 708 normal lung tissue, OR = 5.45, 95% CI =
+2.15-13.79, p = 0.0003. FHIT hypermethylation was also correlated with sex
+status, smoking status, as well as pathological types. We did not find that FHIT 
+hypermethylation was correlated with the differentiated types or clinical stages 
+in NSCLC patients. However, patients with FHIT hypermethylation had a lower
+survival rate than those without, HR = 1.73, 95% CI = 1.10-2.71, p = 0.02. The
+results of this meta-analysis suggest that FHIT hypermethylation is associated
+with an increased risk and worsen survival in NSCLC patients. FHIT
+hypermethylation, which induces the inactivation of FHIT gene, plays an important
+role in the carcinogenesis and clinical outcome and may serve as a potential drug
+target of NSCLC.
+
+DOI: 10.1038/srep19303 
+PMCID: PMC4726317
+PMID: 26796853  [Indexed for MEDLINE]
+
+
+222. Clin Exp Metastasis. 1999;17(7):545-54.
+
+bcl-2 and c-erbB-2 proteins are involved in the regulation of VEGF and of
+thymidine phosphorylase angiogenic activity in non-small-cell lung cancer.
+
+Koukourakis MI(1), Giatromanolaki A, O'Byrne KJ, Cox J, Krammer B, Gatter KC,
+Harris AL.
+
+Author information: 
+(1)Department of Radiotherapy and Oncology, University of Thessalia, Crete,
+Greece. targ@her.forthnet.gr
+
+Tumour angiogenesis has been recently recognised as one of the most important
+prognostic factors in lung cancer. Although a variety of angiogenic factors have 
+been identified, the angiogenesis process remains poorly understood. Bcl-2,
+c-erbB-2 and p53 are well-known oncogenes involved in non-small-cell lung cancer 
+pathogenesis. A direct correlation of thymidine phosphorylase (TP) and of
+vascular endothelial growth factor (VEGF) with intratumoural angiogenesis has
+been reported. In the present study we investigated the possible regulatory role 
+of bcl-2, c-erB-2 proteins in angiogenesis and in VEGF and TP expression in
+non-small-cell lung cancer. Two hundred sixteen specimens from T1,2-N0,1 staged
+patients treated with surgery alone were immunohistochemically examined. Bcl-2
+and c-erbB-2 were significantly inversely related to each other (P = 0.04) and
+both were inversely associated with microvessel density (P < 0.02). High TP and
+VEGF reactivity was statistically related to loss of bcl-2 expression (P < 0.01).
+A significant co-expression of c-erbB-2 with TP was noted (P = 0.01). However, TP
+expression was related to high angiogenesis only in cases with absence of c-erB-2
+expression (P < 0.0001). c-erbB-2 expression in poorly vascularised tumours was
+linked with poor outcome (P = 0.03). The present study provides strong evidence
+that the bcl-2 gene has a suppressive function over genes involved in both
+angiogenesis (VEGF and TP) and cell migration (c-erbB-2) in NSCLC. TP and
+c-erbB-2 proteins are significantly, and often simultaneously, expressed in bcl-2
+negative cases. However, expression of the c-erbB-2 abolishes the TP-related
+angiogenic activity. Whether this is a result of a direct activity of the
+c-erbB-2 protein or a consequence of a c-erbB-2-related immune response remains
+to be further investigated.
+
+
+PMID: 10845553  [Indexed for MEDLINE]
+
+
+223. Onco Targets Ther. 2018 Oct 24;11:7447-7457. doi: 10.2147/OTT.S175255.
+eCollection 2018.
+
+ARHGAP30 suppressed lung cancer cell proliferation, migration, and invasion
+through inhibition of the Wnt/β-catenin signaling pathway.
+
+Mao X(1), Tong J(1).
+
+Author information: 
+(1)Department of Thoracic Surgery, Yanghu Branch, Changzhou Second People's
+Hospital Affiliated to Nanjing Medical University, Changzhou, China,
+18362228169@163.com.
+
+Objective: Rho GTPase-activating protein 30 (ARHGAP30), a member of the Rho
+GTPase-activating proteins (Rho GAPs) family, plays an important role in the
+regulation of cytoskeleton organization and cell adhesion.
+Materials and methods: mRNA and protein expression was assessed by quantitative
+real-time PCR and Western blotting, respectively. Cell Counting Kit-8 (CCK-8) and
+Transwell assays were conducted to detect cell proliferation, migration, and
+invasion.
+Results: ARHGAP30 expression was downregulated in specimens and cell lines of
+lung cancer in comparison to non-cancerous specimens and normal bronchial
+epithelial cell lines, respectively. Moreover, in vitro experiments demonstrated 
+that ARHGAP30 overexpression impeded the proliferative, migratory, and invasive
+abilities of lung cancer cells. Moreover, bioinformatics analysis with The Cancer
+Genome Atlas (TCGA) lung cancer dataset showed a negative association between
+ARHGAP30 expression and the Wnt signaling pathway. Enforced expression of
+ARHGAP30 decreased the mRNA and protein levels of β-catenin, c-Myc, matrix
+metalloproteinase-2 (MMP-2) and MMP-9. Besides, the β-catenin inhibitor XAV939
+blocked the enhanced cell growth, migration, and invasion caused by ARHGAP30
+knockdown. Thus, the Wnt/β-catenin pathway mediated the functions of ARHGAP30 in 
+lung cancer cells.
+Conclusion: ARHGAP30 acts as a tumor suppressor in lung cancer by suppressing
+Wnt/β-catenin signaling.
+
+DOI: 10.2147/OTT.S175255 
+PMCID: PMC6204876
+PMID: 30425532 
+
+Conflict of interest statement: Disclosure The authors report no conflicts of
+interest in this work.
+
+
+224. Int J Biol Sci. 2018 Oct 20;14(13):1859-1872. doi: 10.7150/ijbs.27710.
+eCollection 2018.
+
+Effect of RIF1 on response of non-small-cell lung cancer patients to
+platinum-based chemotherapy by regulating MYC signaling pathway.
+
+Mei Y(1)(2), Liu YB(1)(2), Hu DL(1)(2), Zhou HH(1)(2).
+
+Author information: 
+(1)Department of Clinical Pharmacology, Xiangya Hospital, Central South
+University, Changsha 410008, P. R. China.
+(2)Institute of Clinical Pharmacology, Central South University, Hunan Key
+Laboratory of Pharmacogenetics, Changsha 410078, P. R. China.
+
+Platinum-based chemotherapy is used as first-line therapy for advanced
+non-small-cell lung cancer (NSCLC). However, there is no effective indicator to
+predict whether the patient would be chemo-resistant or sensitive to the therapy.
+In addition, it is urgent to elucidate the mechanisms of cisplatin resistance.
+RIF1 plays important roles in DNA replication regulation and DNA repair pathway. 
+However, the role of RIF1 in NSCLC progression and chemotherapy response is still
+unknown. In this study, we found that RIF1 expression was correlated with the
+response of NSCLC patients to platinum-based chemotherapy (n=89, P=0.002). Among 
+patients who have been treated with platinum chemo-therapy, those with high
+levels of RIF1 expression had significantly shorter survival than those with low 
+RIF1 expression (P<0.05). RIF1 knockdown increased sensitivity to cisplatin in
+NSCLC patients both in vitro and in vivo. Moreover, RIF1 knockdown induced G0/G1 
+phase arrest and increased cisplatin-induced apoptosis and DNA damage. Further
+investigation showed that RIF1 regulated the expression of MYC and MYC downstream
+targets, including the cell cycle and double-stranded break (DSB) repair genes
+which might mediate the effect of RIF1 on cellular response to cisplatin.
+Overexpression of MYC could reverse the inhibition of MYC targets by RIF1
+knockdown. Taken together, these data revealed that RIF1 played an important role
+in regulating MYC and MYC-activated genes, which in turn contributes to cellular 
+response to cisplatin and NSCLC patients' response to platinum-based
+chemotherapy. RIF1 might serve as a novel biomarker for predicting platinum-based
+chemo-sensitivity and the prognosis of NSCLC patients, so as to guide the
+chemotherapy regimen adjustment for individual patient with NSCLC and improve
+their clinical outcomes.
+
+DOI: 10.7150/ijbs.27710 
+PMCID: PMC6231216
+PMID: 30443189 
+
+Conflict of interest statement: Competing Interests: The authors have declared
+that no competing interest exists.
+
+
+225. Eur Rev Med Pharmacol Sci. 2018 Nov;22(21):7492-7499. doi:
+10.26355/eurrev_201811_16290.
+
+Curcumin inhibits the growth via Wnt/β-catenin pathway in non-small-cell lung
+cancer cells.
+
+Wang JY(1), Wang X, Wang XJ, Zheng BZ, Wang Y, Wang X, Liang B.
+
+Author information: 
+(1)Department of Radiotherapy, Shanxi Province Tumor Hospital, Taiyuan, China.
+tyliangbin@163.com.
+
+OBJECTIVE: In recent decades, the death rate from lung cancer appears to be an
+increasing yearly trend, particularly for non-small-cell lung cancer (NSCLC).
+Curcumin is a yellow pigment found in turmeric rhizomes, reported to exhibit
+various anti-inflammatory, anti-angiogenic, anti-proliferative, and antioxidant
+properties. Many reports have suggested that curcumin could induce apoptosis in
+malignant cells, and therefore, has great potential in tumor treatment. However, 
+little is known about the effect of curcumin on NSCLC or its associated mode of
+action. Therefore, in this study, we explored curcumin's effect on NSCLC and
+investigated its associated mechanism.
+MATERIALS AND METHODS: The non-small-cell lung cancer (NSCLC) cell line A549 was 
+cultured and subjected to MTT and clonogenic survival assays to assess cell
+proliferation. Reactive oxygen species (ROS) levels were measured using a
+Fluostar Omega Spectrofluorimeter. Superoxide dismutase (SOD) and γ-glutamyl
+cysteine synthetase (γ-GCS) activity in A549 cells were both determined by a
+commercial determination kit. Expression levels of p-GSK3β (Ser9), c-Myc, cyclin 
+D1, β-catenin α-tubulin, and proliferating cell nuclear antigen (PCNA) were
+analyzed by Western blot.
+RESULTS: Results of the MTT and clonogenic survival assay indicated that curcumin
+reduced A549 proliferation. ROS levels and SOD and γ-GCS activities were
+detected. Curcumin decreased intracellular ROS levels and increased SOD and γ-GCS
+activity. Meanwhile, the ROS inhibitor N-Acetylcysteine (NAC) reversed the
+decrease in ROS levels and the increase in SOD and γ-GCS activity. These results 
+indicate that oxidative stress is involved in the curcumin-induced reduction of
+A549 viability. Curcumin also strongly inhibited β-catenin and p-GSK3β (Ser9)
+protein expression, as well as the expression of downstream cyclin D1 and c-Myc. 
+Similarly, NAC reversed the inhibition of β-catenin and p-GSK3β (Ser9) protein
+expression, as well as the expression of downstream cyclin D1 and c-Myc.
+CONCLUSIONS: We showed that curcumin inhibits NSCLC proliferation via the
+Wnt/β-catenin pathway.
+
+DOI: 10.26355/eurrev_201811_16290 
+PMID: 30468498 
+
+
+226. J Cell Biochem. 2019 Jun;120(6):10625-10632. doi: 10.1002/jcb.28352. Epub 2019
+Jan 29.
+
+lncRNA FLVCR1-AS1 silencing inhibits lung cancer cell proliferation, migration,
+and invasion by inhibiting the activity of the Wnt/β-catenin signaling pathway.
+
+Lin H(1), Shangguan Z(1), Zhu M(1), Bao L(1), Zhang Q(2), Pan S(3).
+
+Author information: 
+(1)Department of Respiratory Diseases, The Third Affiliated Hospital of Wenzhou
+Medical University, Wenzhou, China.
+(2)Department of Clinical Laboratory, The Third Affiliated Hospital of Wenzhou
+Medical University, Wenzhou, China.
+(3)Department of Pathology, The Third Affiliated Hospital of Wenzhou Medical
+University, Wenzhou, China.
+
+Long noncoding RNAs have been reported to be essential regulators in several
+human diseases, including tumorigenesis. A recent report revealed that FLVCR1-AS1
+promotes the progression of hepatocellular carcinoma. However, whether FLVCR1-AS1
+is involved in lung cancer remains unclear. In this study, we found that the
+expression of FLVCR1-AS1 was increased in lung cancer tissues according to The
+Cancer Genome Atlas database. Similarly, FLVCR1-AS1 was significantly upregulated
+in lung cancer cell lines. Knockdown of FLVCR1-AS1 dramatically reduced the cell 
+proliferation, migration, and invasion of SPCA1 and A549. Mechanistically, we
+found that the expression levels of CTNNB1, SOX4, CCND1, CCND2, c-MYC, as well as
+nucleus β-catenin were decreased in lung cancer cells after FLVCR1-AS1 silencing.
+Thus, FLVCR1-AS1 positively regulates the activation of the Wnt/β-catenin
+pathway. Overexpression of CTNNB1 reversed the effect of FLVCR1-AS1 knockdown on 
+A549 cells. In sum, FLVCR1-AS1 silencing inhibited the proliferation, migration, 
+and invasion of lung cancer cells by inhibiting the activity of the Wnt/β-catenin
+signaling pathway.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jcb.28352 
+PMID: 30697812 
+
+
+227. Mol Cancer Res. 2019 Apr;17(4):1002-1012. doi: 10.1158/1541-7786.MCR-18-0316.
+Epub 2019 Jan 11.
+
+Identification and Characterization of Oncogenic SOS1 Mutations in Lung
+Adenocarcinoma.
+
+Cai D(1)(2)(3), Choi PS(1)(2), Gelbard M(1)(2), Meyerson M(4)(2).
+
+Author information: 
+(1)Department of Medical Oncology, Dana Farber Cancer Institute, Boston,
+Massachusetts.
+(2)The Broad Institute of MIT and Harvard, Cambridge, Massachusetts.
+(3)Program in Genetics and Genomics, Harvard University, Boston, Massachusetts.
+(4)Department of Medical Oncology, Dana Farber Cancer Institute, Boston,
+Massachusetts. matthew_meyerson@dfci.harvard.edu.
+
+Lung adenocarcinomas are characterized by mutations in the receptor tyrosine
+kinase (RTK)/Ras/Raf pathway, with up to 75% of cases containing mutations in
+known driver genes. However, the driver alterations in the remaining cases are
+yet to be determined. Recent exome sequencing analysis has identified SOS1,
+encoding a guanine nucleotide exchange factor, as significantly mutated in lung
+adenocarcinomas lacking canonical oncogenic RTK/Ras/Raf pathway mutations. Here, 
+we demonstrate that ectopic expression of lung adenocarcinoma-derived mutants of 
+SOS1 induces anchorage-independent cell growth in vitro and tumor formation in
+vivo. Biochemical experiments suggest that these mutations lead to overactivation
+of the Ras pathway, which can be suppressed by mutations that disrupt either the 
+Ras-GEF or putative Rac-GEF activity of SOS1. Transcriptional profiling reveals
+that the expression of mutant SOS1 leads to the upregulation of MYC target genes 
+and genes associated with Ras transformation. Furthermore, we demonstrate that an
+AML cancer cell line harboring a lung adenocarcinoma-associated mutant SOS1 is
+dependent on SOS1 for survival and is also sensitive to MEK inhibition. Our work 
+provides experimental evidence for the role of SOS1 as an oncogene and suggests a
+possible therapeutic strategy to target SOS1-mutated cancers. IMPLICATIONS: This 
+study demonstrates that SOS1 mutations found in lung adenocarcinoma are oncogenic
+and that MEK inhibition may be a therapeutic avenue for the treatment of
+SOS1-mutant cancers.
+
+©2019 American Association for Cancer Research.
+
+DOI: 10.1158/1541-7786.MCR-18-0316 
+PMCID: PMC6445719 [Available on 2020-04-01]
+PMID: 30635434 
+
+
+228. J Exp Clin Cancer Res. 2019 Feb 21;38(1):95. doi: 10.1186/s13046-019-1092-4.
+
+LPCAT1 promotes brain metastasis of lung adenocarcinoma by up-regulating
+PI3K/AKT/MYC pathway.
+
+Wei C(1), Dong X(2)(3), Lu H(1), Tong F(1), Chen L(1), Zhang R(1), Dong J(4), Hu 
+Y(5), Wu G(1), Dong X(6).
+
+Author information: 
+(1)Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of 
+Science and Technology, Wuhan, 430022, China.
+(2)Murdoch Children's Research Institute, Melbourne, VIC, Australia.
+(3)Department of Paediatrics, University of Melbourne, Melbourne, VIC, Australia.
+(4)Medical Research Center, Union Hospital, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, 430022, China.
+(5)Institute of Hematology, Union Hospital, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, 430022, China.
+(6)Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of 
+Science and Technology, Wuhan, 430022, China. xiaorongdong@hust.edu.cn.
+
+BACKGROUND: Brain metastasis (BM) is associated with poor prognosis, recurrence, 
+and death in patients with non-small cell lung cancer (NSCLC).
+Lysophosphatidylcholine acyltransferase 1 (LPCAT1) has been reported to be
+involved in the progression, metastasis and recurrence of malignancies. However, 
+the potential role of LPCAT1 in NSCLC remains poorly understood. This study was
+aimed to identify genes involved in lung adenocarcinoma (LUAD) brain metastasis, 
+and look into the role of LPCAT1 in LUAD progression.
+METHODS: We used integrative genomic analysis to identify genes involved in lung 
+adenocarcinomas. LPCAT1 expression was evaluated in tumor tissues from LUAD
+patients and LUAD cell lines. The role of LPCAT1 was subsequently investigated
+both in vitro and in vivo. The mechanism underlying the involvement of LPCAT1 in 
+LUAD progression was explored with the activator of PI3K/AKT pathway. RNA
+sequencing was performed to confirm the involvement of LPCAT1 and associated
+pathway in LUAD brain metastasis.
+RESULTS: LPCAT1 was up-regulated in LUAD tissues and cell lines. shRNA-mediated
+depletion of LPCAT1 not only abrogated cell proliferation, migration and invasion
+in vitro, but also arrested tumor growth and brain metastases in vivo. Notably,
+LPCAT1 at least partially influenced LUAD progression through PI3K/AKT signal
+pathway by targeting MYC transcription. Moreover, expression of LPCAT1 was higher
+in tissues of LUAD patients with BM than those without BM as revealed by IHC
+staining, RNA-Sequencing and qPCR analysis. Finally, elevated LPCAT1 expression
+in patients with lung adenocarcinomas was associated with a poor clinical
+outcome.
+CONCLUSIONS: This study showed that LPCAT1 works as a regulator of cell
+metastasis and may serve as a novel therapeutic target for BM in lung
+adenocarcinoma.
+
+DOI: 10.1186/s13046-019-1092-4 
+PMCID: PMC6385475
+PMID: 30791942 
+
+
+229. EMBO Rep. 2018 Sep;19(9). pii: e43879. doi: 10.15252/embr.201643879. Epub 2018
+Jul 18.
+
+Sirt1 protects from K-Ras-driven lung carcinogenesis.
+
+Costa-Machado LF(1), Martín-Hernández R(2), Sanchez-Luengo MÁ(3), Hess K(4),
+Vales-Villamarin C(1), Barradas M(1), Lynch C(4)(5), de la Nava D(1), Diaz-Ruiz
+A(6)(7), de Cabo R(6)(7), Cañamero M(8)(9), Martinez L(3), Sanchez-Carbayo M(10),
+Herranz D(11)(12), Serrano M(11)(5)(13), Fernandez-Marcos PJ(14)(4).
+
+Author information: 
+(1)Bioactive Products and Metabolic Syndrome Group - BIOPROMET, Madrid Institute 
+for Advanced Studies - IMDEA Food, CEI UAM+CSIC, Madrid, Spain.
+(2)GENYAL Nutrigenomic Platform, Madrid Institute for Advanced Studies - IMDEA
+Food, CEI UAM+CSIC, Madrid, Spain.
+(3)Flow Cytometry Unit, Spanish National Cancer Research Center (CNIO), Madrid,
+Spain.
+(4)Tumor Suppression Group, Spanish National Cancer Research Center (CNIO),
+Madrid, Spain.
+(5)Institute for Research in Biomedicine (IRB Barcelona), Barcelona Institute of 
+Science and Technology (BIST), Barcelona, Spain.
+(6)Translational Gerontology Branch, National Institute on Aging, National
+Institutes of Health, Baltimore, MD, USA.
+(7)Nutritional Interventions Group, Precision Nutrition and Aging, Madrid
+Institute for Advanced Studies - IMDEA Food, CEI UAM+CSIC, Madrid, Spain.
+(8)Histopathology Unit, Spanish National Cancer Research Center (CNIO), Madrid,
+Spain.
+(9)Pathology and Tissue Analysis, Pharma Research and Early Development Roche
+Innovation Centre, Munich, Germany.
+(10)Translational Oncology Lab, Lucio Lascaray Research Center, University of the
+Basque Country, Vitoria-Gasteiz, Spain.
+(11)Tumor Suppression Group, Spanish National Cancer Research Center (CNIO),
+Madrid, Spain dh710@cinj.rutgers.edu manuel.serrano@irbbarcelona.org
+pablojose.fernandez@imdea.org.
+(12)Rutgers Cancer Institute of New Jersey and Department of Pharmacology, Robert
+Wood Johnson Medical School, Rutgers, The State University of New Jersey, New
+Brunswick, NJ, USA.
+(13)Catalan Institution for Research and Advanced Studies (ICREA), Barcelona,
+Spain.
+(14)Bioactive Products and Metabolic Syndrome Group - BIOPROMET, Madrid Institute
+for Advanced Studies - IMDEA Food, CEI UAM+CSIC, Madrid, Spain
+dh710@cinj.rutgers.edu manuel.serrano@irbbarcelona.org
+pablojose.fernandez@imdea.org.
+
+The NAD+-dependent deacetylase SIRT1 can be oncogenic or tumor suppressive
+depending on the tissue. Little is known about the role of SIRT1 in non-small
+cell lung carcinoma (NSCLC), one of the deadliest cancers, that is frequently
+associated with mutated K-RAS Therefore, we investigated the effect of SIRT1 on
+K-RAS-driven lung carcinogenesis. We report that SIRT1 protein levels are
+downregulated by oncogenic K-RAS in a MEK and PI3K-dependent manner in mouse
+embryo fibroblasts (MEFs), and in human lung adenocarcinoma cell lines.
+Furthermore, Sirt1 overexpression in mice delays the appearance of
+K-RasG12V-driven lung adenocarcinomas, reducing the number and size of carcinomas
+at the time of death and extending survival. Consistently, lower levels of SIRT1 
+are associated with worse prognosis in human NSCLCs. Mechanistically, analysis of
+mouse Sirt1-Tg pneumocytes, isolated shortly after K-RasG12V activation, reveals 
+that Sirt1 overexpression alters pathways involved in tumor development:
+proliferation, apoptosis, or extracellular matrix organization. Our work
+demonstrates a tumor suppressive role of SIRT1 in the development of K-RAS-driven
+lung adenocarcinomas in mice and humans, suggesting that the SIRT1-K-RAS axis
+could be a therapeutic target for NSCLCs.
+
+© 2018 The Authors.
+
+DOI: 10.15252/embr.201643879 
+PMCID: PMC6123659 [Available on 2019-09-01]
+PMID: 30021836 
+
+
+230. Sci Rep. 2018 Oct 30;8(1):16006. doi: 10.1038/s41598-018-34475-8.
+
+Chronic p27Kip1 Induction by Dexamethasone Causes Senescence Phenotype and
+Permanent Cell Cycle Blockade in Lung Adenocarcinoma Cells Over-expressing
+Glucocorticoid Receptor.
+
+Patki M(1), McFall T(1), Rosati R(1), Huang Y(1), Malysa A(1), Polin L(1),
+Fielder A(1), Wilson MR(1), Lonardo F(1), Back J(1), Li J(1), Matherly LH(1),
+Bepler G(2), Ratnam M(3).
+
+Author information: 
+(1)Barbara Ann Karmanos Cancer Institute and Department of Oncology, Wayne State 
+University, Detroit, MI, 48201-2013, USA.
+(2)Barbara Ann Karmanos Cancer Institute and Department of Oncology, Wayne State 
+University, Detroit, MI, 48201-2013, USA. beplerg@karmanos.org.
+(3)Barbara Ann Karmanos Cancer Institute and Department of Oncology, Wayne State 
+University, Detroit, MI, 48201-2013, USA. ratnamm@karmanos.org.
+
+Dexamethasone (Dex), co-administered to lung adenocarcinoma patients with
+pemetrexed chemotherapy, protects against pemetrexed cytotoxicity by inducing
+reversible G1 arrest, reflected by the effect of Dex on FLT-PET images of patient
+tumors. However, perioperative Dex treatment increases survival but the mechanism
+is unknown. In cells with glucocorticoid receptor-α (GR) expression corresponding
+to higher clinical tumor levels, Dex-induced growth arrest was followed by marked
+cell expansion, beta-galactosidase expression and Ki67 negativity, despite
+variable p53 and K-RAS status. Dex induced a transient early surge in p21Cip1.
+However, a progressive, irreversible loss of clonogenic growth, whose time of
+onset was dependent on GR level and Dex dose, was independent of p21Cip1and
+caused by gradual accumulation of p27Kip1 due to transcriptional activation of
+p27Kip1 by Dex. This effect was independent of canonical pathways of senescence
+or p27Kip1 regulation. The in vitro observations were reflected by growth
+suppression and P27Kip1 induction in GR-overexpressing tumor xenografts compared 
+with isogenic low-GR tumors. Extended Dex treatment induces irreversible cell
+cycle blockade and a senescence phenotype through chronic activation of the
+p27Kip1 gene in GR overexpressing lung tumor cell populations and hence could
+improve outcome of surgery/pemetrexed chemotherapy and sensitize tumors to
+immunotherapy.
+
+DOI: 10.1038/s41598-018-34475-8 
+PMCID: PMC6207728
+PMID: 30375484 
+
+
+231. Onco Targets Ther. 2017 May 8;10:2491-2499. doi: 10.2147/OTT.S131954. eCollection
+2017.
+
+Clinicopathological significance of p14ARF expression in lung cancer: a
+meta-analysis.
+
+Wang F(1), Li H(1), Long J(1), Ye S(1).
+
+Author information: 
+(1)Department of Oncology, The First Affiliated Hospital of Sun Yat-sen
+University, Guangzhou City, Guangdong Province, People's Republic of China.
+
+BACKGROUND: p14ARF, a tumor suppressor protein, encoded by the p16 tumor
+suppressor gene, has been reported to be associated with the clinicopathological 
+features of lung cancer. However, the evaluated outcomes were inconsistent and
+remained inconclusive. In this study, we conducted a meta-analysis to clarify the
+significance of p14ARF expression in lung cancer pathogenesis.
+MATERIALS AND METHODS: Electronic databases, PubMed, Web of Knowledge, Embase,
+and CNKI, were retrieved to collect relevant articles with inclusion and
+exclusion criteria. Using Stata 12.0 software, 95% confidence intervals (CIs) and
+odds ratios (ORs) were calculated.
+RESULTS: A total of 15 eligible case-control studies that evaluated the
+relationship between p14ARF expression and lung cancer were included in the
+meta-analysis. The results demonstrated that there were significant associations 
+between p14ARF expression and the risk of non-small-cell lung cancer (NSCLC),
+lung adenocarcinoma, and lung squamous carcinoma (for NSCLC, OR =11.02, 95% CI
+=5.30-22.92; for lung adenocarcinoma, OR =7.28, 95% CI =3.92-13.50; and for lung 
+squamous carcinoma, OR =14.40, 95% CI =2.83-73.24). In the stratified analysis
+based on race, significant associations between p14ARF expression and lung cancer
+risk were found in Chinese population and Caucasians (for Chinese population, OR 
+= 7.02, 95% CI =4.48-11.00 and for Caucasians, OR =4.19, 95% CI =1.42-12.38).
+Furthermore, the expression of p14ARF was significantly associated with the
+TNM-stage of lung cancer in Chinese population (OR =2.07, 95% CI =1.38-3.10).
+CONCLUSION: p14ARF expression was significantly associated with the risk of lung 
+cancer. In addition, the data of the meta-analysis showed that there was a
+significant correlation between p14ARF expression and the TNM-stage of lung
+cancer in Chinese population.
+
+DOI: 10.2147/OTT.S131954 
+PMCID: PMC5428763
+PMID: 28507441 
+
+Conflict of interest statement: Disclosure The authors report no conflicts of
+interest in this work.
+
+
+232. Clin Cancer Res. 2018 Jan 1;24(1):33-42. doi: 10.1158/1078-0432.CCR-17-1921. Epub
+2017 Oct 24.
+
+Molecular Subtypes of Pulmonary Large-cell Neuroendocrine Carcinoma Predict
+Chemotherapy Treatment Outcome.
+
+Derks JL(1), Leblay N(2), Thunnissen E(3), van Suylen RJ(4), den Bakker M(5),
+Groen HJM(6), Smit EF(7), Damhuis R(8), van den Broek EC(9), Charbrier A(2), Foll
+M(2), McKay JD, Fernandez-Cuesta L(#)(10), Speel EM(#)(11), Dingemans AC(#)(12); 
+PALGA-Group.
+
+Author information: 
+(1)Department of Pulmonary Diseases, GROW School for Oncology & Developmental
+Biology, Maastricht University Medical Centre, Maastricht, the Netherlands.
+(2)Genetic Cancer Susceptibility Group, International Agency for Research on
+Cancer (IARC-WHO), Lyon, France.
+(3)Department of Pathology, VU University Medical Centre, Amsterdam, the
+Netherlands.
+(4)Pathology-DNA, Jeroen Bosch Hospital, s' Hertogenbosch, the Netherlands.
+(5)Department of Pathology, Maasstad hospital, Rotterdam, the Netherlands.
+(6)Department of Pulmonary Diseases, University of Groningen and University
+Medical Centre, Groningen, the Netherlands.
+(7)Department of Pulmonary Diseases, VU medical centre, Amsterdam, the
+Netherlands.
+(8)Department Research, Comprehensive Cancer Association, Utrecht, the
+Netherlands.
+(9)PALGA Foundation, Houten, the Netherlands.
+(10)Genetic Cancer Susceptibility Group, International Agency for Research on
+Cancer (IARC-WHO), Lyon, France. a.dingemans@mumc.nl fernandezcuestal@iarc.fr.
+(11)Department of Pathology, GROW school for Oncology & Developmental Biology,
+Maastricht University Medical Centre, Maastricht, the Netherlands.
+(12)Department of Pulmonary Diseases, GROW School for Oncology & Developmental
+Biology, Maastricht University Medical Centre, Maastricht, the Netherlands.
+a.dingemans@mumc.nl fernandezcuestal@iarc.fr.
+(#)Contributed equally
+
+Purpose: Previous genomic studies have identified two mutually exclusive
+molecular subtypes of large-cell neuroendocrine carcinoma (LCNEC): the RB1
+mutated (mostly comutated with TP53) and the RB1 wild-type groups. We assessed
+whether these subtypes have a predictive value on chemotherapy
+outcome.Experimental Design: Clinical data and tumor specimens were
+retrospectively obtained from the Netherlands Cancer Registry and Pathology
+Registry. Panel-consensus pathology revision confirmed the diagnosis of LCNEC in 
+148 of 232 cases. Next-generation sequencing (NGS) for TP53, RB1, STK11, and
+KEAP1 genes, as well as IHC for RB1 and P16 was performed on 79 and 109 cases,
+respectively, and correlated with overall survival (OS) and progression-free
+survival (PFS), stratifying for non-small cell lung cancer type chemotherapy
+including platinum + gemcitabine or taxanes (NSCLC-GEM/TAX) and
+platinum-etoposide (SCLC-PE).Results:RB1 mutation and protein loss were detected 
+in 47% (n = 37) and 72% (n = 78) of the cases, respectively. Patients with RB1
+wild-type LCNEC treated with NSCLC-GEM/TAX had a significantly longer OS [9.6;
+95% confidence interval (CI), 7.7-11.6 months] than those treated with SCLC-PE
+[5.8 (5.5-6.1); P = 0.026]. Similar results were obtained for patients expressing
+RB1 in their tumors (P = 0.001). RB1 staining or P16 loss showed similar results.
+The same outcome for chemotherapy treatment was observed in LCNEC tumors
+harboring an RB1 mutation or lost RB1 protein.Conclusions: Patients with LCNEC
+tumors that carry a wild-type RB1 gene or express the RB1 protein do better with 
+NSCLC-GEM/TAX treatment than with SCLC-PE chemotherapy. However, no difference
+was observed for RB1 mutated or with lost protein expression. Clin Cancer Res;
+24(1); 33-42. ©2017 AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-17-1921 
+PMID: 29066508 
+
+
+233. Asian Pac J Cancer Prev. 2017 Nov 26;18(11):3129-3133.
+
+Multi-Gene Expression in Anthracosis of the Lungs as One of the Risk Factors for 
+Non-Small Cell Lung Cancer
+
+Jamaati H(1), Bahrami N, Tabarsi P, Khosravi A, Kiani A, Abedini A, Ahmadi R,
+Sharifynia S, Mohamadnia A.
+
+Author information: 
+(1)Chronic Respiratory Diseases Research Center, National Research Institute of
+Tuberculosis and Lung Diseases (NRITLD), Shahid Beheshti University of Medical
+Sciences, Tehran, Iran. Email: mohamadnia.ar@gmail.com
+
+Background: Anthracosis of the lung occurs due to the deposition of carbon and
+silica in the mucosa and submucosa, manifested as black lesions. The association 
+of anthracosis with lung cancer has remained to be clearly elucidated The current
+study aimed to assess the P16, CDH1 and LUNX genes expression level to evaluate
+the association of anthracotic lesions in the lungs with the occurrence of
+non-small cell lung cancer. Methods: Forty biopsy samples were taken from the
+center and 40 from the margins of black anthracotic lesions in the lungs; RNA was
+extracted from the samples and cDNA was synthesized. Real-time
+reverse-transcription polymerase chain reaction (RT-PCR) was performed to assess 
+the expression of P16, CDH1 and LUNX genes. All steps were performed in
+triplicate. Results: A significant reduction in P16 gene expression was noted at 
+the center compared to the margins of the lesions (P<0.001). expression level of 
+CDH1 at the center of lesions was significantly lower than margins (P<0.001).
+However, LUNX gene had significantly higher expressionlevel at the center
+compared to margins (P<0.001). Conclusion: Decreased expression of P16 and CDH1
+and increased expression of LUNX tumor genes were noted at the center of
+anthracotic lesions. Significant increase in expression of LUNX gene in NSCLC
+indicates an association between anthracosis and NSCLC, according to which,
+anthracotic patients may carry a high risk for NSCLC.
+
+Creative Commons Attribution License
+
+DOI: 10.22034/APJCP.2017.18.11.3129 
+PMCID: PMC5773802
+PMID: 29172290 
+
+
+58. Ann Diagn Pathol. 2018 Apr;33:23-29. doi: 10.1016/j.anndiagpath.2017.11.008. Epub
+2017 Nov 11.
+
+P16 is a useful supplemental diagnostic marker of pulmonary small cell carcinoma 
+in small biopsies and cytology specimens.
+
+Švajdler M(1), Mezencev R(2), Ondič O(3), Šašková B(3), Mukenšnábl P(4), Michal
+M(3).
+
+Author information: 
+(1)Šikl's Department of Pathology, Charles University in Prague, The Faculty of
+Medicine and Faculty Hospital in Pilsen, Czech Republic; Bioptická laboratoř
+s.r.o., Pilsen, Czech Republic. Electronic address: svajdler@biopticka.cz.
+(2)School of Biological Sciences, Georgia Institute of Technology, Atlanta, GA,
+USA.
+(3)Šikl's Department of Pathology, Charles University in Prague, The Faculty of
+Medicine and Faculty Hospital in Pilsen, Czech Republic; Bioptická laboratoř
+s.r.o., Pilsen, Czech Republic.
+(4)Šikl's Department of Pathology, Charles University in Prague, The Faculty of
+Medicine and Faculty Hospital in Pilsen, Czech Republic.
+
+Pulmonary small cell carcinoma (SCLC) is usually diagnosed in small biopsy or
+cytological specimens based on cytomorphology; however in ambiguous cases
+diagnosis requires additional support by immunohistochemistry. While TP53 and RB1
+alterations with secondary overexpression of p16 are mainstay events in SCLC
+pathogenesis, diagnostic value of p16-positivity in the diagnosis of SCLC has not
+yet been fully investigated. We examined the expression of p16, CD56,
+synaptophysin (SYP), chromogranin A and thyroid transcription factor-1 (TTF1) in 
+a series of pulmonary and extrapulmonary small cell carcinomas, pulmonary
+carcinoids and non-small cell lung carcinomas, and compared diagnostic
+performance of these markers in the diagnosis of SCLC. P16 was positive in 95 of 
+101 SCLCs, and displayed highest diagnostic sensitivity of ~94%. Composite
+biomarkers CD56+p16+TTF1 and CD56+p16+SYP were both able to detect correctly all 
+SCLC cases. Importantly, three (~3%) SCLC cases completely negative for all
+conventional markers displayed diffuse positivity for p16. CD56 and p16
+demonstrated highest concordance between paired small biopsy and cytology
+specimens. 50% of squamous cell carcinomas, ~41% of adenocarcinoma/NSCLC-favour
+adenocarcinoma cases, and ~93% of extrapulmonary small cell carcinomas also
+showed p16-positivity. Combination of CD56, p16 and TTF1 produced diagnostic
+classifier that outperformed best single marker CD56 in differential diagnosis
+between SCLC and NSCLC. In conclusion, in the appropriate morphological context
+p16 represents a useful supplementary marker for diagnosis of SCLC, even in cases
+where only cytological material is available.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.anndiagpath.2017.11.008 
+PMID: 29566943  [Indexed for MEDLINE]
+
+
+234. Sichuan Da Xue Xue Bao Yi Xue Ban. 2018 May;49(3):404-407.
+
+[The Relationship of Clinicopathology of p16 in Non-small Cell Lung Cancer and
+5-nitrogen impurity-2'-deoxycytidine-nitrogen Impurity on the Influence of p16
+Expression in Lung Cancer A549 Cells].
+
+[Article in Chinese]
+
+Hua CS(1), Ma DC(1), Chen H(1), Zhang CD(1), Wang WS(1), Ding X(1), Zhao J(1), Wu
+F(1).
+
+Author information: 
+(1)Department of Thoracic Surgery,Anhui Province Chest Hospital,Hefei
+230022,China.
+
+OBJECTIVE: To investigate the relationship between expression of tumor suppressor
+gene p16 in non-small cell lung cancer (NSCLC) tissues and clinicopathological
+parameters,to further study on DNA methyltransferase inhibitors 5-nitrogen
+impurity-2'-deoxycytidine (5-Aza-CdR) in human lung cancer cell line A549 in
+regulating the expression of p16.
+METHODS: The expression of p16 protein in 76 cases of NSCLC tissues and normal
+tissue adjacent to carcinoma were detect by immunohistochemical SP method and the
+differences of p16 protein expression were analyzed. p16 gene promoter region of 
+DNA methylation status were detect by MSP method in 5-Aza-CdR processing A549
+cells,the expression of p16 in A549 lung cancer cell and effect of 5-Aza-CdR were
+detect by Western blot method.
+RESULTS: 32 cases (42.11%) of p16 protein expression was positive,significantly
+lower than that of the normal tissue adjacent to carcinoma (positive expression
+in 59 cases,77.63%) in 76 cases of NSCLC tissues; There were statistically
+significant differences (P<0.05) in the positive expression rates of p16 in NSCLC
+tissues with different pathological tissue grading,tumor differentiation
+degree,clinical TNM stage and lymph node metastasis. In A549 cells,p16 protein
+expression and non-methylated products were both in low expression states. After 
+treated with 5-Aza-CdR,the expression of p16 protein and its non-methylated
+products were up-regulated,with the increase of 5-Aza-CdR concentration.
+CONCLUSION: The low expression of p16 in NSCLC tissues with squamous cell
+carcinomas,low differentiation,lymph node metastasis and phase Ⅲ-Ⅳ,which may
+prompt the deactivation and cause further progression of NSCLC,5-Aza-CdR could
+induce the expression of p16 protein and non-methylated products in A549 cells.
+
+Copyright© by Editorial Board of Journal of Sichuan University (Medical Science
+Edition).
+
+
+PMID: 30014643  [Indexed for MEDLINE]
+
+
+235. Cell Physiol Biochem. 2018;48(4):1793-1803. doi: 10.1159/000492352. Epub 2018 Aug
+3.
+
+Membrane-Bound CD40L Promotes Senescence and Initiates Senescence-Associated
+Secretory Phenotype via NF-κB Activation in Lung Adenocarcinoma.
+
+Xu W, Li Y, Yuan WW, Yin Y, Song WW, Wang Y, Huang QQ, Zhao WH, Wu JQ.
+
+BACKGROUND/AIMS: Cellular senescence acts as a barrier against tumorigenesis. The
+CD40L transgene, expressed in some tumor cells, not only becomes visible to
+antigen-presenting cells but also actively catalyzes its own termination. Here,
+we evaluated the effect of a membrane-bound mutant form of human CD40L (CD40L-M) 
+on senescence and the senescence-associated secretory phenotype (SASP) in
+non-small cell lung cancer (NSCLC).
+METHODS: CD40 expression levels in the NSCLC cell lines A549/TR, A549/DDP and
+H460 were examined by flow cytometry. Senescent cells and tissues were identified
+via SA-β-gal activity. Cell proliferation was visualized by EdU labeling.
+qRT-PCR, Western blotting, and immunofluorescence staining were conducted to
+assess mRNA and protein expression levels of CD40L, γ-H2A.X, p65, p-p65, IκBα,
+p53, p21 and p16. Cytokines secreted from transfected cells were tested by ELISA 
+and cell migration assay. Capsid tyrosine-modified rAAV5-CD40L-M was packaged and
+carried out in vivo.
+RESULTS: Overexpression of CD40L-M promoted senescence, inhibited proliferation, 
+increased DNA damage-associated γ-H2A.X, and initiated the SASP in CD40-positive 
+NSCLC cells. NF-κB signaling was activated by CD40L-M overexpression in these
+cells. Knockdown of NF-κB partially overcame senescence and failed to induce
+SASP. Furthermore, increased p53 and p21 protein levels induced by CD40L-M were
+also reduced following NF-κB suppression.
+CONCLUSIONS: These data showed that the membrane-bound CD40L mutant may promote
+cellular senescence and initiate the SASP of NSCLC cells in an NF-κB-dependent
+manner. Therefore, CD40L-M-induced senescence may be a potential approach to
+protect against lung adenocarcinoma.
+
+© 2018 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000492352 
+PMID: 30078020  [Indexed for MEDLINE]
+
+
+236. Cell Oncol (Dordr). 2018 Dec;41(6):663-675. doi: 10.1007/s13402-018-0404-6. Epub 
+2018 Sep 3.
+
+Anti-tumor effect of CDK inhibitors on CDKN2A-defective squamous cell lung cancer
+cells.
+
+Jeong EH(1), Lee TG(1)(2), Ko YJ(1), Kim SY(1), Kim HR(1), Kim H(2), Kim CH(3).
+
+Author information: 
+(1)Division of Pulmonology, Department of Internal Medicine, Korea Cancer Center 
+Hospital, 75 Nowon-Ro, Nowon-Gu, Seoul, 01812, South Korea.
+(2)School of Life Sciences and Biotechnology, Korea University, Seoul, South
+Korea.
+(3)Division of Pulmonology, Department of Internal Medicine, Korea Cancer Center 
+Hospital, 75 Nowon-Ro, Nowon-Gu, Seoul, 01812, South Korea. cheol@kcch.re.kr.
+
+BACKGROUND: Squamous cell lung cancer (SqCLC) is a distinct histologic subtype of
+non-small cell lung cancer (NSCLC). Although the discovery of driver mutations
+and their targeted drugs has remarkably improved the treatment outcomes for lung 
+adenocarcinoma, currently no such molecular target is clinically available for
+SqCLC. The CDKN2A locus at 9p21 encodes two alternatively spliced proteins,
+p16INK4a (p16) and p14ARF (p14), which function as cell cycle inhibitors. The
+Cancer Genome Atlas (TCGA) project revealed that CDKN2A is inactivated in 72% of 
+SqCLC cases. In addition, it was found that CDKN2A mutations are significantly
+more common in SqCLC than in adenocarcinoma. Down-regulation of p16 and p14 by
+CDKN2A gene inactivation leads to activation of cyclin-dependent kinases (CDKs), 
+thereby permitting constitutive phosphorylation of Rb and subsequent cell cycle
+progression. Here, we hypothesized that CDK inhibition may serve as an attractive
+strategy for the treatment of CDKN2A-defective SqCLC.
+METHODS: We investigated whether the CDK inhibitors flavopiridol and dinaciclib
+may exhibit antitumor activity in CDKN2A-defective SqCLC cells compared to
+control cells. The cytotoxic effect of the CDK inhibitors was evaluated using
+cell viability assays, and the induction of apoptosis was assessed using TUNEL
+assays and Western blot analyses. Finally, anti-tumor effects of the CDK
+inhibitors on xenografted cells were investigated in vivo.
+RESULTS: We found that flavopiridol and dinaciclib induced cytotoxicity by
+enhancing apoptosis in CDKN2A-defective SqCLC cells, and that epithelial to
+mesenchymal transition (EMT) decreased and autophagy increased during this
+process. In addition, we found that autophagy had a cytoprotective role.
+CONCLUSION: Our data suggest a potential role of CDK inhibitors in managing
+CDKN2A-defective SqCLC.
+
+DOI: 10.1007/s13402-018-0404-6 
+PMID: 30178167  [Indexed for MEDLINE]
+
+
+237. Hum Pathol. 2019 Mar;85:58-64. doi: 10.1016/j.humpath.2018.10.016. Epub 2018 Oct 
+30.
+
+Triple marker composed of p16, CD56, and TTF1 shows higher sensitivity than INSM1
+for diagnosis of pulmonary small cell carcinoma: proposal for a rational
+immunohistochemical algorithm for diagnosis of small cell carcinoma in small
+biopsy and cytology specimens.
+
+Švajdler M(1), Mezencev R(2), Šašková B(3), Ondič O(3), Mukenšnábl P(4), Michal
+M(3).
+
+Author information: 
+(1)Šikl's Department of Pathology, Charles University in Prague, The Faculty of
+Medicine and Faculty Hospital in Pilsen, 304 60 Pilsen, Czech Republic; Bioptická
+laboratoř s.r.o., 326 00 Pilsen, Czech Republic. Electronic address:
+svajdler@yahoo.com.
+(2)School of Biological Sciences, Georgia Institute of Technology, North Ave,
+Atlanta, GA 30332, USA.
+(3)Šikl's Department of Pathology, Charles University in Prague, The Faculty of
+Medicine and Faculty Hospital in Pilsen, 304 60 Pilsen, Czech Republic; Bioptická
+laboratoř s.r.o., 326 00 Pilsen, Czech Republic.
+(4)Šikl's Department of Pathology, Charles University in Prague, The Faculty of
+Medicine and Faculty Hospital in Pilsen, 304 60 Pilsen, Czech Republic.
+
+Pulmonary small cell carcinoma (SCLC) can be usually diagnosed based on the
+morphological evaluation of routine histological or cytological preparations.
+However, immunohistochemistry may be also necessary in problematic cases.
+Insulinoma-associated 1 (INSM1) has recently been reported as a highly sensitive 
+and specific marker that displays positivity in ~90%-100% of poorly
+differentiated pulmonary neuroendocrine tumors. We compared diagnostic
+performance of INSM1 and previously reported composite marker CD56 + p16 +
+thyroid transcription factor-1 (TTF1) in the diagnosis of SCLC in small biopsy
+specimens and cytoblocks. The composite marker CD56 + p16 + TTF1 correctly
+classified 100% of SCLC cases, and its sensitivity was significantly higher than 
+the sensitivity of INSM1. Among 100 SCLC cases, CD56, TTF1, and p16 each
+individually classified more specimens correctly than INSM1 (CD56: 84%, TTF1:
+89%, p16: 95%, INSM1: 81%); the difference was statistically significant only for
+p16. INSM1 showed the lowest classification agreement between paired biopsy and
+cytoblock specimens (κ = 0.182), whereas CD56 and p16 displayed perfect agreement
+(κ = 1) and TTF1 showed moderate agreement (κ = 0.4). Although INSM1 is
+reportedly the most specific marker of SCLC, its sensitivity is not superior to
+p16 or composite marker CD56 + TTF1 + p16. Based on this study, we propose the
+following algorithm, which, in the appropriate clinical and histological context,
+may be useful in establishing the correct diagnosis of SCLC: First, INSM1
+detection is performed, and if the result is negative, CD56 is added, followed
+successively by p16 and TTF1 if all previously applied markers are negative. This
+approach should detect most, if not all, SCLC cases, while successively trading
+specificity for sensitivity.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.humpath.2018.10.016 
+PMID: 30385371 
+
+
+238. FEBS Open Bio. 2018 Oct 18;8(11):1875-1881. doi: 10.1002/2211-5463.12535.
+eCollection 2018 Nov.
+
+Circulating anti-p16a IgG autoantibodies as a potential prognostic biomarker for 
+non-small cell lung cancer.
+
+Zhao H(1), Zhang X(1), Han Z(2), Wang Y(1).
+
+Author information: 
+(1)Second Hospital of Jilin University Changchun China.
+(2)Department of Thoracic Surgery China-Japan Union Hospital Jilin University
+Changchun China.
+
+It has been reported that p16 protein is overexpressed in many types of solid
+cancer and its aberrant expression may trigger the immune response, leading to
+the secretion of anti-p16 antibodies. Here, we developed an in-house ELISA with
+three p16-derived linear peptide antigens to examine plasma anti-p16 antibody
+levels in patients with non-small cell lung cancer (NSCLC). Blood samples were
+taken from 200 control subjects and 211 patients with NSCLC prior to anticancer
+therapy. A Mann-Whitney U test demonstrated that plasma anti-p16a IgG levels were
+significantly higher in NSCLC patients than in control subjects (Z = -11.14,
+P < 0.001). However, neither plasma anti-p16b nor plasma anti-p16c IgG levels
+showed significant differences in patients with NSCLC as compared to control
+subjects. Moreover, further analysis indicated that anti-p16a IgG levels
+increased with tumor stages, and patients with late stage NSCLC, namely group IV,
+had the highest IgG levels among four subgroups. Receiver operating
+characteristic analysis revealed that the anti-p16a IgG assay had a sensitivity
+of 32.7% against a specificity of 95.0% in group IV, while Kaplan-Meier survival 
+analysis revealed no significant difference in overall survival between patients 
+with high anti-p16a IgG levels and those with low anti-p16a IgG levels (χ2
+ = 0.24, P = 0.63). In conclusion, anti-p16a IgG may be suitable for use as a
+prognostic biomarker for NSCLC.
+
+DOI: 10.1002/2211-5463.12535 
+PMCID: PMC6212647
+PMID: 30410866 
+
+
+239. J Cytol. 2019 Jan-Mar;36(1):38-43. doi: 10.4103/JOC.JOC_103_17.
+
+Immunocytochemistry on Sputum Samples Predicts Prognosis of Lung Cancer.
+
+Veena VS(1), George PS(2), Rajan K(3), Chandramohan K(4), Jayasree K(1), Sujathan
+K(5).
+
+Author information: 
+(1)Division of Pathology, Regional Cancer Centre, Trivandrum, Kerala, India.
+(2)Division of Cancer Epidemiology, Regional Cancer Centre, Trivandrum, Kerala,
+India.
+(3)Division of Respiratory Medicine, Medical College, Trivandrum, Kerala, India.
+(4)Division of Surgical Oncology, Regional Cancer Centre, Trivandrum, Kerala,
+India.
+(5)Division of Cancer Research, Regional Cancer Centre, Trivandrum, Kerala,
+India.
+
+Context: Despite sputum cytology being accepted as a simple and noninvasive
+diagnostic method for lung cancer, the clinical usefulness of sputum for
+evaluation of prognosis is yet to be explored. Validation of some of the markers 
+in sputum for prognosis prediction will be highly useful for selective therapy.
+Aims: This study was aimed to evaluate a reliable panel of immunocytochemical
+markers for their significance to predict survival.
+Materials and Methods: We have analyzed the expression of p53, p16, galectin-3,
+and epidermal growth factor receptor (EGFR) proteins in sputum samples processed 
+in a mucolytic agent/cellblock and compared the same with that of the
+corresponding tissue samples.
+Results: Overexpression of p16 and EGFR was found to have a better survival
+benefit, whereas positive p53 and galectin-3 expressions had shorter period of
+survival. Expression patterns of all these four proteins were more or less
+similar in smears, cellblocks of sputum, and tissue samples except for slight
+changes in staining intensity which was not found to be statistically
+significant. N230o significant difference was found in the association of these
+proteins with survival pattern between sputum and tissue samples.
+Conclusion: This is the first report of immunocytochemistry of a panel of markers
+on cells exfoliated in sputum samples which suggests that analysis of
+immunocytochemical markers in sputum samples can be attempted as a cost-effective
+and reliable predictor of prognosis and survival. Accumulation of mutated p53,
+overexpression of galectin-3, and lower expression of p16 and EGFR proteins were 
+found to predict poor prognosis for lung cancer.
+
+DOI: 10.4103/JOC.JOC_103_17 
+PMCID: PMC6343390
+PMID: 30745738 
+
+Conflict of interest statement: There are no conflicts of interest.
+
+
+240. Cancer Sci. 2018 Sep;109(9):2717-2733. doi: 10.1111/cas.13745.
+
+HOTAIR, a long noncoding RNA, is a marker of abnormal cell cycle regulation in
+lung cancer.
+
+Liu M(1), Zhang H(1), Li Y(2), Wang R(3), Li Y(2), Zhang H(1), Ren D(1), Liu
+H(2), Kang C(4), Chen J(1)(2).
+
+Author information: 
+(1)Department of Lung Cancer Surgery, Tianjin Medical University General
+Hospital, Tianjin, China.
+(2)Tianjin Key Laboratory of Lung Cancer Metastasis and Tumor Microenvironment,
+Tianjin Lung Cancer Institute, Tianjin Medical University General Hospital,
+Tianjin, China.
+(3)Emergency Department, Tianjin Medical University General Hospital, Tianjin,
+China.
+(4)Key Laboratory of Post-neurotrauma Neuro-repair and Regeneration in Central
+Nervous System, Tianjin Neurological Institute, Ministry of Education and Tianjin
+City, Tianjin Medical University General Hospital, Tianjin, China.
+
+Dysregulation of the cell cycle is a key indicator of tumors, including lung
+cancer. Recently, the study of cell cycle inhibitors has made great progress in
+relation to lung cancer. However, the question of what kinds of patients can use 
+cell cycle inhibitors has plagued us. Therefore, seeking an accurate and
+convenient marker for the abnormal cell cycle in lung cancer is very important.
+In the present research, we showed that lncRNA HOTAIR is an optimal indicator of 
+cell cycle dysregulation in lung cancer. In the present study, we investigated
+HOTAIR-specific expression in lung primary tumor samples by analyzing the TCGA
+public database and 67 pairs of patients' tissues collected from our department. 
+Through the TCGA public database KEGG analysis, HOTAIR correlates with the cell
+cycle pathway. We identified that HOTAIR and its 2 segments, HOTAIR3' and
+HOTAIR5', promote the cell cycle passing through the restriction point during
+G1-S phase by regulating the Rb-E2F pathway and influence non-small-cell lung
+cancer cell proliferation, migration and invasion through epithelial-mesenchymal 
+transition (EMT) and the β-catenin pathway in vitro and vivo. Finally, we showed 
+that the high expression of HOTAIR was associated with resistance to gefitinib
+through the dysregulated cell cycle. In conclusion, HOTAIR could be an ideal
+indicator of cell cycle dysregulation and guide the use of cell cycle inhibitors.
+
+© 2018 The Authors. Cancer Science published by John Wiley & Sons Australia, Ltd 
+on behalf of Japanese Cancer Association.
+
+DOI: 10.1111/cas.13745 
+PMCID: PMC6125477
+PMID: 30047193  [Indexed for MEDLINE]
+
+
+241. Anal Chem. 2018 Oct 2;90(19):11203-11209. doi: 10.1021/acs.analchem.8b01776. Epub
+2018 Sep 11.
+
+Developing Ultrasensitive Library-Aliquot-Based Droplet Digital PCR for Detecting
+T790M in Plasma-Circulating Tumor DNA of Non-small-Cell-Lung-Cancer Patients.
+
+Yang K(1), Li J(1), Zhao J(1), Ren P(1), Wang Z(1), Wei B(1), Dong B(1), Sun
+R(1), Wang X(1), Groen HJM(2), Ma J(1), Guo Y(1).
+
+Author information: 
+(1)Department of Molecular Pathology , The Affiliated Cancer Hospital of
+Zhengzhou University , 127 Dongming Road , Zhengzhou 450003 , China.
+(2)Department of Pulmonary Diseases , University of Groningen and University
+Medical Center Groningen , Groningen 9700 RB , The Netherlands.
+
+A T790M secondary mutation in epidermal-growth-factor receptor (EGFR) is the most
+well-established EGFR-tyrosine-kinase-inhibitor (TKI) resistance marker in
+non-small-cell lung cancer (NSCLC). The current methods to rapidly and accurately
+detect T790M in clinical practice are not satisfactory because of several
+obstacles, including the unavailability of tumor-tissue rebiopsies and the low
+DNA copy number of T790M in circulating tumor DNA (ctDNA). Here, we develop
+library-aliquot-based droplet digital PCR (LAB-ddPCR) to increase detection
+sensitivity without affecting accuracy. This new LAB-ddPCR method is performed
+using aliquots of the ctDNA precapture next-generation-sequencing (NGS) library, 
+in which the isolated ctDNA was amplified and enriched. We show that the
+LAB-ddPCR can precisely distinguish between T790M wild-type and mutation alleles 
+without introducing extra false-positive signals. In a cohort of 70 post-TKI
+NSCLC patients, the LAB-ddPCR identified 41 T790M-positive cases (sensitivity
+58.57%), but ddPCR only detected T790M in 27 cases (sensitivity 38.57%). Taking
+the ARMS-PCR result from matched tumor rebiopsies into consideration, the
+LAB-ddPCR method is better than ddPCR. In conclusion, the LAB-ddPCR ctDNA test
+offers a feasible and flexible option for the rapid and accurate detection of the
+T790M secondary mutation, which is helpful in dynamically monitoring drug
+response and disease progression throughout the therapeutic regimen.
+
+DOI: 10.1021/acs.analchem.8b01776 
+PMID: 30156405  [Indexed for MEDLINE]
+
+
+242. JCO Precis Oncol. 2018;2018. doi: 10.1200/PO.18.00037. Epub 2018 Jul 23.
+
+Clinicopathologic Features of Non-Small-Cell Lung Cancer Harboring an NTRK Gene
+Fusion.
+
+Farago AF(1), Taylor MS(2), Doebele RC(3), Zhu VW(4), Kummar S(5), Spira AI(6),
+Boyle TA(7), Haura EB(7), Arcila ME(8), Benayed R(8), Aisner DL(9), Horick
+NK(10), Lennerz JK(2), Le LP(2), Iafrate AJ(2), Ou SI(4), Shaw AT(1),
+Mino-Kenudson M(2), Drilon A(11).
+
+Author information: 
+(1)Massachusetts General Hospital Cancer Center, Boston MA.
+(2)Department of Pathology, Massachusetts General Hospital, Boston MA.
+(3)Department of Medicine, University of Colorado, Aurora CO.
+(4)Department of Medicine, University of California, Irvine School of Medicine,
+Orange CA.
+(5)Department of Medicine and Radiology, Stanford University, Palo Alto CA.
+(6)Virginia Cancer Specialists, Fairfax VA.
+(7)Department of Thoracic Oncology, Moffitt Cancer Center, Tampa FL.
+(8)Department of Pathology, Memorial Sloan Kettering Cancer Center, New York NY.
+(9)Department of Pathology, University of Colorado, Aurora CO.
+(10)Biostatistics Center, Massachusetts General Hospital, Boston MA.
+(11)Memorial Sloan Kettering Cancer Center, New York NY.
+
+Purpose: Gene rearrangements involving NTRK1/2/3 can generate fusion oncoproteins
+containing the kinase domains of TRKA/B/C, respectively. These fusions are rare
+in non-small cell lung cancer (NSCLC), with frequency previously estimated to be 
+<1%. Inhibition of TRK signaling has led to dramatic responses across tumor types
+with NTRK fusions. Despite the potential benefit of identifying these fusions,
+the clinicopathologic features of NTRK fusion-positive NSCLCs are not well
+characterized.
+Methods: We compiled a database of NSCLC cases harboring NTRK fusions. We
+characterized the clinical, molecular, and histologic features of these cases
+with central review of histology.
+Results: We identified 11 NSCLC cases harboring NTRK gene fusions verified by
+next-generation sequencing (NGS) and with available clinical and pathologic data,
+forming the study cohort. Fusions involved NTRK1 (7 cases) and NTRK3 (4 cases),
+with 5 and 2 distinct fusion partners, respectively. Cohort patients were 55%
+male, with a median age at diagnosis of 47.6 years (range 25.3-86.0) and a median
+pack year history of 0 (range 0-58). 73% of patients had metastatic disease at
+diagnosis. No concurrent alterations in KRAS, EGFR, ALK, ROS1, or other known
+oncogenic drivers were identified. Nine cases were adenocarcinoma, including 2
+invasive mucinous adenocarcinomas and 1 adenocarcinoma with neuroendocrine
+features; one was squamous cell carcinoma; and one was neuroendocrine carcinoma. 
+By collating data on 4872 consecutively screened NSCLC cases from unique
+patients, we estimate a frequency of NTRK fusions in NSCLC of 0.23% (95% CI
+0.11-0.40).
+Conclusion: NTRK fusions occur in NSCLCs across genders, ages, smoking histories,
+and histologies. Given the potent clinical activity of TRK inhibitors, we
+advocate that all NSCLCs be screened for NTRK fusions using a multiplexed
+NGS-based fusion assay.
+
+DOI: 10.1200/PO.18.00037 
+PMCID: PMC6132056
+PMID: 30215037 
+
+Conflict of interest statement: Relevant conflicts of interest: AFF has received 
+consultant fees from AbbVie, PharmaMar, Loxo Oncology; research funding (to
+institution) from Loxo Oncology, Ignyta, AstraZeneca, AbbVie, Merck, Bristol
+Myers-Squibb, Novartis. RCD has received consultant/advisory board fees from
+Ariad, Takeda, AstraZeneca, Spectrum, and Ignyta; licensing fees from Abbott
+Molecular and Ignyta; stock ownership in Rain Therapeutics. VWZ has received
+honoraria from AstraZeneca, Roche/Genentech, Takeda, and Biocept, and consultant 
+fees from TP Therapeutics. DLA has received consultant fees from Bristol-Myers
+Squibb and AbbVie LPL has equity interest and royalties from exclusive license of
+AMP technology to ArcherDx and has received consultant fees from ArcherDx AJI has
+received consulting fees for Debiopharm Group, Constellation Pharmaceuticals,
+Chugai Pharmaceutical, and Roche, research Funding from Blueprint Medicines, and 
+has equity interest and royalties from exclusive license of AMP technology to
+ArcherDx. SHIO has received consultant/advisory board fees from ARIAD/Takeda,
+Pfizer, Genentech/Roche, Astra Zeneca, Novartis, Ignyta, Foundation Medicine Inc,
+member of the speaker bureau of Genentech/Roche, AstraZeneca, ARIAD/Takeda, and
+Merck; a member of the scientific advisory board of TP Therapeutics Inc and stock
+ownership in TP Therapeutics Inc. ATS has received consultant fees from Pfizer,
+Novartis, Ariad/Takeda, Genentech/Roche, Ignyta, Loxo Oncology, Blueprint
+medicines, KSQ therapeutics, Natera. MMK has received consultant fees from
+Merrimack Pharmaceuticals and H3 Biomedicine. AD has received consultant/advisory
+board fees from Ignyta, Loxo Oncology, TP Therapeutics, AstraZeneca, Pfizer,
+Blueprint Medicines, Genentech/Roche, Takeda/Ariad. MST, SK, AIS, TAB, EBH, MEA, 
+RB, NKH, JKL have no relevant disclosures.
+
+
+243. J Biol Regul Homeost Agents. 2018 Sep-Oct;32(5):1105-1116.
+
+Expression of IL-17A, E, and F and their receptors in non-small-cell lung cancer.
+
+Huang Q(#)(1), Ma XC(#)(2), Yang X(3), Wang W(1), Li Y(1), Lv Z(1), Corrigan
+CJ(4), Chen Y(1), Ying S(1).
+
+Author information: 
+(1)Department of Immunology, School of Basic Medical Sciences, Capital Medical
+University, You An Men, Beijing, P. R. China.
+(2)Department of Chest Surgery, Beijing Anzhen Hospital, Capital Medical
+University, Beijing, P. R. China.
+(3)Department of Respiratory Medicine, Beijing Tongren Hospital, Capital Medical 
+University, P. R. China.
+(4)King's College London, MRC and Asthma UK Centre in Allergic Mechanisms of
+Asthma, Division of Asthma, Allergy and Lung Biology, London, UK.
+(#)Contributed equally
+
+Lung cancer is the leading cause of cancer-related morbidity and mortality
+worldwide. Interaction of nascent or established lung tumour cells with various
+cytokines and infiltrating immune cells has been implicated in lung cancer
+pathogenesis. In this study, we systematically analysed immunoreactivity for
+IL-17A, IL-17E and IL-17F and their relevant receptors in the lung sections from 
+non-small cell lung cancer (NSCLC) and normal control. Immunoreactivity for
+IL-17A, IL-17F, IL-17RA and IL- 17RC, but not IL-17RB was significantly elevated 
+in NSCLC compared with controls, while IL-17E was reduced. The median numbers of 
+infiltrating lymphocytes and neutrophils and global macrophage (CD68)
+immunoreactivity of phagocytes were also elevated in NSCLC compared with control 
+tissue sections. Furthermore, correlation between the expression of IL-17A and
+its receptors IL-17RA and IL- 17RC varied according to NSCLC histopathological
+type. These data suggest that IL-17A, E, F and their receptors IL-17RA, RB, RC
+may be involved in the pathogenesis of NSCLC. Further understanding of the
+relationship between the IL-17/IL-17R axis and the tumour inflammatory
+microenvironment may reveal new therapeutic targets.
+
+
+PMID: 30334403  [Indexed for MEDLINE]
+
+
+244. Curr Oncol. 2018 Oct;25(5):317-328. doi: 10.3747/co.25.4379. Epub 2018 Oct 31.
+
+Canadian perspectives: update on inhibition of ALK-positive tumours in advanced
+non-small-cell lung cancer.
+
+Melosky B(1), Cheema P(2), Agulnik J(3), Albadine R(4), Bebb DG(5), Blais N(4),
+Burkes R(6), Butts C(7), Card PB(8), Chan AMY(5), Hirsh V(9), Ionescu DN(1),
+Juergens R(10), Morzycki W(11), Poonja Z(12), Sangha R(7), Tehfe M(4), Tsao
+MS(13), Vincent M(14), Xu Z(11), Liu G(13).
+
+Author information: 
+(1)BC Cancer-Vancouver Centre, Vancouver, BC.
+(2)William Osler Health System, University of Toronto, Brampton, ON.
+(3)Sir Mortimer B. Davis Jewish General Hospital, McGill University, Montreal,
+QC.
+(4)Centre hospitalier de l'Université de Montréal, Montreal, QC.
+(5)Tom Baker Cancer Centre and University of Calgary, Calgary, AB.
+(6)Mount Sinai Hospital, Toronto, ON.
+(7)Cross Cancer Institute and University of Alberta, Edmonton, AB.
+(8)Kaleidoscope Strategic, Inc., Toronto, ON.
+(9)Royal Victoria Hospital, McGill University Health Centre, Montreal, QC.
+(10)Juravinski Cancer Centre, McMaster University, Hamilton, ON.
+(11)qeii Health Sciences Centre, Halifax, NS.
+(12)BC Cancer-Vancouver Island Center, Victoria, BC.
+(13)University Health Network, Princess Margaret Cancer Centre, Toronto, ON.
+(14)University of Western Ontario, London, ON.
+
+Comment in
+    Curr Oncol. 2019 Feb;26(1):e119-e120.
+
+Background: Inhibition of the anaplastic lymphoma kinase (alk) oncogenic driver
+in advanced non-small-cell lung carcinoma (nsclc) improves survival. In 2015,
+Canadian thoracic oncology specialists published a consensus guideline about the 
+identification and treatment of ALK-positive patients, recommending use of the
+alk inhibitor crizotinib in the first line. New scientific literature warrants a 
+consensus update.
+Methods: Clinical trials of alk inhibitor were reviewed to assess benefits,
+risks, and implications relative to current Canadian guidance in patients with
+ALK-positive nsclc.
+Results: Randomized phase iii trials have demonstrated clinical benefit for
+single-agent alectinib and ceritinib used in treatment-naïve patients and as
+second-line therapy after crizotinib. Phase ii trials have demonstrated activity 
+for single-agent brigatinib and lorlatinib in further lines of therapy. Improved 
+responses in brain metastases were observed for all second- and
+next/third-generation alk tyrosine kinase inhibitors in patients progressing on
+crizotinib. Canadian recommendations are therefore revised as follows:■ Patients 
+with advanced nonsquamous nsclc have to be tested for the presence of an ALK
+rearrangement.■ Treatment-naïve patients with ALK-positive disease should
+initially be offered single-agent alectinib or ceritinib, or both sequentially.■ 
+Crizotinib-refractory patients should be treated with single-agent alectinib or
+ceritinib, or both sequentially.■ Further treatments could include single-agent
+brigatinib or lorlatinib, or both sequentially.■ Patients progressing on alk
+tyrosine kinase inhibitors should be considered for pemetrexed-based
+chemotherapy.■ Other systemic therapies should be exhausted before immunotherapy 
+is considered.
+Summary: Multiple lines of alk inhibition are now recommended for patients with
+advanced nsclc with an ALK rearrangement.
+
+DOI: 10.3747/co.25.4379 
+PMCID: PMC6209554
+PMID: 30464681 
+
+Conflict of interest statement: CONFLICT OF INTEREST DISCLOSURES BM serves on
+advisory boards for Novartis, Pfizer, and Roche; JA serves on advisory boards for
+Novartis, Pfizer, Takeda, and Roche, and has given talks for, or served on
+advisory boards for, Astra-Zeneca, Boehringer Ingelheim, Bristol–Meyers Squibb,
+Merck, Novartis, and Pfizer; RA serves on advisory boards for Novartis, Pfizer,
+and Roche; DGB serves on advisory boards for Novartis, Pfizer, and Roche; NB
+serves on advisory boards for Takeda, Novartis, Pfizer, and Roche; RB serves on
+advisory boards for Roche, Takeda, Merck, and AstraZeneca; CB serves on advisory 
+boards for AstraZeneca, Boehringer Ingelheim, Bristol–Meyers Squibb, Merck, and
+Pfizer; VH serves on advisory boards for Amgen, Astra-Zeneca, Boehringer
+Ingelheim, Bristol–Meyers Squibb, Eli Lilly, Merck, Novartis, Roche, and Pfizer; 
+RJ serves on advisory boards for Novartis, Pfizer, and Roche; DNI has received
+honoraria from, or has been part of an advisory board for, AstraZeneca,
+Boehringer Ingelheim, Bristol–Myers Squibb, Eli Lilly, Merck, Novartis, and
+Pfizer; WM serves on advisory boards for Novartis, Pfizer, and Roche; ZP has
+served on advisory boards for AstraZeneca, Merck, and Roche; RS serves on
+advisory boards for AstraZeneca, Boehringer Ingelheim, Bristol–Myers Squibb,
+Merck, Novartis, AbbVie, Roche, and Takeda; MT has served on advisory boards for 
+Takeda; MST has received research funding from Roche; MV serves on advisory
+boards for Amgen, AstraZeneca, Bristol–Myers Squibb, Boehringer Ingelheim,
+Celgene, Novartis, Eli Lilly, Takeda, Taiho, Hoffman–La Roche, Pfizer, and Merck,
+and is a member of the speaker’s bureau for AstraZeneca, Boehringer Ingelheim,
+Amgen, Merck and Eli Lilly; ZX serves on the advisory board for and has received 
+grants from Pfizer; GL serves on advisory boards for and has received honoraria
+from AstraZeneca, Novartis, Pfizer, Roche, Merck, AbbVie, Bristol–Myers Squibb,
+and Takeda, and has received grants from AstraZeneca and Roche; the remaining
+authors have no conflicts of interest to disclose.
+
+
+245. Oncogene. 2019 Jan 30. doi: 10.1038/s41388-019-0708-7. [Epub ahead of print]
+
+Combining CDK4/6 inhibition with taxanes enhances anti-tumor efficacy by
+sustained impairment of pRB-E2F pathways in squamous cell lung cancer.
+
+Cao J(1), Zhu Z(1), Wang H(2), Nichols TC(3), Lui GYL(4), Deng S(5), Rejto PA(1),
+VanArsdale T(6), Hardwick JS(1), Weinrich SL(1), Wei P(7).
+
+Author information: 
+(1)Oncology Translational Research, Pfizer Inc., San Diego, CA, 92121, USA.
+(2)Genomics Institute of the Novartis Research Foundation, San Diego, CA, 92121, 
+USA.
+(3)Drug Safety Research and Development, Pfizer Inc., San Diego, CA, 92121, USA.
+(4)Fred Hutchinson Cancer Research Center, Seattle, WA, 98109, USA.
+(5)Biostatistics, La Jolla Laboratories, Pfizer Inc., San Diego, CA, 92121, USA.
+(6)Tumor Cell Biology, Oncology Research and Development, Pfizer Inc., San Diego,
+CA, 92121, USA.
+(7)Oncology Translational Research, Pfizer Inc., San Diego, CA, 92121, USA.
+ping.wei@pfizer.com.
+
+The CDK4/6 inhibitor palbociclib reduces tumor growth by decreasing
+retinoblastoma (RB) protein phosphorylation and inducing cell cycle arrest at the
+G1/S phase transition. Palbociclib in combination with anti-hormonal therapy
+brings significant benefit to breast cancer patients. In this study, novel
+combination approaches and underlying molecular/cellular mechanisms for
+palbociclib were explored in squamous cell lung cancer (SqCLC), the second most
+common subtype of non-small cell lung cancer. While approximate 20% lung patients
+benefit from immunotherapy, most SqCLC patients who receive platinum-doublet
+chemotherapy as first-line treatment, which often includes a taxane, are still in
+need of more effective combination therapies. Our results demonstrated enhanced
+cytotoxicity and anti-tumor effect with palbociclib plus taxanes at clinically
+achievable doses in multiple SqCLC models with diverse cancer genetic
+backgrounds. Comprehensive gene expression analysis revealed a sustained
+disruption of pRB-E2F signaling by combination that was accompanied with enhanced
+regulation of pleiotropic biological effects. These included several novel
+mechanisms such as abrogation of G2/M and mitotic spindle assembly checkpoints,
+as well as impaired induction of hypoxia-inducible factor 1 alpha (HIF-1α). The
+decrease in HIF-1α modulated a couple key angiogenic and anti-angiogenic factors,
+resulting in an enhanced anti-angiogenic effect. This preclinical work suggests a
+new therapeutic opportunity for palbociclib in lung and other cancers currently
+treated with taxane based chemotherapy as standard of care.
+
+DOI: 10.1038/s41388-019-0708-7 
+PMID: 30700828 
+
+
+246. Cytotechnology. 2019 Apr;71(2):507-520. doi: 10.1007/s10616-019-00297-3. Epub
+2019 Feb 2.
+
+Stress activated p38 MAPK regulates cell cycle via AP-1 factors in areca extract 
+exposed human lung epithelial cells.
+
+Nagesh R(1), Kiran Kumar KM(2), Naveen Kumar M(2), Patil RH(2)(3), Sharma SC(2).
+
+Author information: 
+(1)Department of Microbiology and Biotechnology, Bangalore University, Jnana
+Bharathi, Bengaluru, Karnataka, 560 056, India. rashmi.nagesh1689@gmail.com.
+(2)Department of Microbiology and Biotechnology, Bangalore University, Jnana
+Bharathi, Bengaluru, Karnataka, 560 056, India.
+(3)Department of Molecular Reproduction, Development and Genetics, Indian
+Institute of Science, Bengaluru, Karnataka, 560 012, India.
+
+Areca nut chewing habits are associated with several oral manifestations like
+leukoplakia, submucous fibrosis and oral squamous cell carcinoma. Although
+numerous evidence on areca toxicity is known but the mechanistic pathway of
+disease causation is to be studied. Aqueous areca nut extract treated A549 cells 
+showed reduced cell viability by 48 h with IC50 value of 0.50%. The toxic nature 
+of areca nut induced the production of reactive oxygen species with decreased
+anti-oxidant glutathione S transferase levels lead to altered redox homeostasis. 
+PCR studies showed decreased mRNA levels of Jun and Fos AP-1 subunits on extract 
+treatment by 48 h. The protein levels of PCNA, CDK4, RB, p53, c-Jun and c-Fos
+were found to be downregulated with upregulated CDK inhibitor p21 on extract
+treatment as compared to control. Results of FACS analysis further confirm G1/S
+phase cell cycle arrest on areca nut extract exposure. The regulation of
+downstream AP-1 subunits by MAPKs was studied by using specific inhibitors of
+ERK, JNK and p38 along with areca nut extract. Results showed the redox
+activation of MAP kinases down regulated the mRNA levels of AP-1 subunits in
+aqueous areca nut extract treated cells. Hence the present study aids in
+elucidating the role of MAP kinases in regulating the AP-1 subunits and their
+implications on target genes that are involved regulation of various cellular
+processes. Further, it would help in understanding the mechanistic aspects of the
+diseased state which may facilitate in designing of new therapeutic modalities
+that could help in cancer management.
+
+DOI: 10.1007/s10616-019-00297-3 
+PMID: 30712155 
+
+
+247. Cancer Med. 2019 Feb 17. doi: 10.1002/cam4.2023. [Epub ahead of print]
+
+Retinoblastoma mutation predicts poor outcomes in advanced non small cell lung
+cancer.
+
+Bhateja P(1), Chiu M(2), Wildey G(2), Lipka MB(3), Fu P(4), Yang MCL(5),
+Ardeshir-Larijani F(6), Sharma N(7), Dowlati A(1).
+
+Author information: 
+(1)Department of Hematology and Oncology, Case Western Reserve University,
+University Hospitals Seidman Cancer Center, Cleveland, Ohio.
+(2)School of Medicine, Case Western Reserve University, Cleveland, Ohio.
+(3)Department of Hematology and Oncology, University Hospitals Seidman Cancer
+Center, Cleveland, Ohio.
+(4)Department of Population and Quantitative Health Sciences, Case Western
+Reserve University, Cleveland, Ohio.
+(5)Department of Pathology, University Hospitals Cleveland Medical Center,
+Cleveland, Ohio.
+(6)Department of Internal Medicine, University Hospitals Cleveland Medical
+Center, Cleveland, Ohio.
+(7)Department of Biomedical Research, Novartis Pharmaceuticals Corporation, East 
+Hanover, New Jersey.
+
+The retinoblastoma gene (RB1) encodes the retinoblastoma (RB) pocket protein that
+plays an important role in cell cycle progression. Here we determine the
+frequency and prognostic significance of RB1 mutation in non small cell lung
+cancer (NSCLC), restricting inclusion to Stage III and IV patients with linked
+genomic and clinical data. The primary outcome was median overall survival (OS). 
+We identified RB1 mutation in 8.2% of NSCLC patients. The median OS for wild-type
+(wt) RB1 was 28.3 months vs 8.3 months for mutant RB1 (Hazard Ratio = 2.59,
+P = 0.002). Of special interest, RB1 mutation also correlated with lack of
+response to immunotherapy. Our study focused on RB1 mutation in locally advanced 
+and advanced non small cell lung cancer to better facilitate comparisons with
+small cell lung cancer (SCLC). In our SCLC cohort, RB1 mutation was identified in
+75% of patients and wt RB1 was associated with significantly shorter OS
+(P = 0.002). The different outcomes of RB1 mutation observed among lung cancer
+subtypes suggest a more complicated mechanism than simple regulation of cell
+cycle or response to chemotherapy.
+
+© 2019 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.2023 
+PMID: 30773851 
+
+
+248. Biomed Pharmacother. 2019 Mar;111:1132-1140. doi: 10.1016/j.biopha.2018.12.026.
+Epub 2019 Jan 12.
+
+The modulatory properties of Si Jun Zi Tang enhancing anticancer of gefitinib by 
+an integrating approach.
+
+Li C(1), Niu M(2), Wang R(3), Zhou XW(1), Dong B(1), Qi S(1), Chen W(1), Zhang
+M(1), Shi Y(1), Li R(4), Li G(5).
+
+Author information: 
+(1)National Cancer Center/National Clinical Research Center for Cancer/Cancer
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College,
+Beijing, China.
+(2)China Military Institute of Chinese Medicine, 302 Military Hospital, Beijing, 
+China.
+(3)Integrative Medical Center, 302 Military Hospital, China.
+(4)Research Center for Clinical and Translational Medicine, 302 Hospital of
+People's Liberation Army, Beijing 100039, China.
+(5)National Cancer Center/National Clinical Research Center for Cancer/Cancer
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College,
+Beijing, China. Electronic address: tcm_sci@126.com.
+
+Lung cancer remains the leading cause of cancer death worldwide, and the current 
+therapy seems to have reached a plateau due to toxicities and acquired
+resistance. Therefore, exploration of novel therapeutic avenues may be useful. Si
+Jun Zi Tang (SJZ), a four-herb Chinese medicine formula first described
+approximately one thousand years, is often prescribed for cancer patients as a
+complementary therapy. However, whether SJZ benefits cancer patients as well as
+the main active constituents and its regulatory mechanism in combination with
+anticancer drugs remains unknown. Here, we investigated the anti-lung cancer
+potency and underlying mechanisms of the combination of gefitinib plus SJZ in
+mice with Lewis lung carcinoma (LLC), using histopathology and an integrated
+strategy of metabolomics and network pharmacology. The results showed that SJZ
+significantly enhanced gefitinib suppressing tumor growth and inhibiting LLC
+metastasis in LLC-bearing mice. Furthermore, 9 potential metabolomics biomarkers 
+that differentially expressed in the SJZ/gefitinib group compared to the SJZ
+group or gefitinib group were identified by untargeted metabolomics, mainly
+involved three pathways: tricarboxylic acid cycle, tyrosine and tryptophan
+biosynthesis metabolism and linoleic acid metabolism. Five active ingredients,
+kaempferol, ginsenoside Rf, caprylic acid, lauric acid and naringenin, acted
+directly on 9 targets and regulated 4 out of 9 metabolites. Our results indicated
+that SJZ enhanced the anti-lung cancer effects of gefitinib via the key targets
+ABCG2, ABCC1, ABAT, GSR, CYP1A2, ALOX5, CYP3A4, PLA2G1B and PLA2G2A and the key
+metabolites 2-oxoglutarate, taurocholic acid, oxidized glutathione and linoleic
+acid. This work illustrated the modulatory properties of SJZ, which enhanced the 
+anticancer effects of gefitinib, using metabolomics and network pharmacology
+analyses, and provided insights into underlying the mechanism the active
+ingredients of SJZfor the treatment of lung cancer in combination with gefitinib.
+
+Copyright © 2018. Published by Elsevier Masson SAS.
+
+DOI: 10.1016/j.biopha.2018.12.026 
+PMID: 30841426 
+
+
+250. Oncogene. 2017 Nov 9;36(45):6325-6335. doi: 10.1038/onc.2017.235. Epub 2017 Jul
+24.
+
+p53 loss does not permit escape from BrafV600E-induced senescence in a mouse
+model of lung cancer.
+
+Garnett S(1), Dutchak KL(1), McDonough RV(1), Dankort D(1)(2).
+
+Author information: 
+(1)Department of Biology, McGill University, Montréal, QC, Canada.
+(2)Goodman Cancer Research Centre, Montréal, QC, Canada.
+
+Lung cancer arises through the acquisition of a number of genetic lesions, with a
+preponderance of activating mutations in the canonical mitogen-activated protein 
+kinase (MAPK) cascade (RTK-RAS-RAF-MEK). BrafV600E expression induces benign lung
+adenomas that fail to progress to adenocarcinoma because of oncogene-induced
+senescence (OIS). BrafV600E expression, coupled with simultaneous p53 ablation,
+permits bypass of senescence and progression to lung adenocarcinoma. However,
+spontaneous human tumors sustain mutations in a temporally separated manner.
+Here, we use a mouse lung cancer model where oncogene activation (BrafV600E
+expression) and tumor suppressor loss (p53 ablation) are independently controlled
+through the actions of Flp and Cre recombinase, respectively. We show that p53
+loss before OIS is permissive for the transition from lung adenoma to
+adenocarcinoma. In contrast, p53 loss after senescence is established fails to
+enable escape from senescence and disease progression. This study demonstrates
+that BrafV600E induced senescence is irreversible in vivo and suggests that
+therapy-induced senescence would halt further tumor progression.
+
+DOI: 10.1038/onc.2017.235 
+PMID: 28745322  [Indexed for MEDLINE]
+
+
+251. Clin Cancer Res. 2017 Dec 1;23(23):7312-7323. doi: 10.1158/1078-0432.CCR-16-2186.
+Epub 2017 Sep 14.
+
+A Combination RNAi-Chemotherapy Layer-by-Layer Nanoparticle for Systemic
+Targeting of KRAS/P53 with Cisplatin to Treat Non-Small Cell Lung Cancer.
+
+Gu L(1)(2), Deng ZJ(1)(2), Roy S(1)(2), Hammond PT(3)(2).
+
+Author information: 
+(1)Koch Institute for Integrative Cancer Research, Massachusetts Institute of
+Technology, Cambridge, Massachusetts.
+(2)Department of Chemical Engineering, Massachusetts Institute of Technology,
+Cambridge, Massachusetts.
+(3)Koch Institute for Integrative Cancer Research, Massachusetts Institute of
+Technology, Cambridge, Massachusetts. hammond@mit.edu.
+
+Purpose: Mutation of the Kirsten ras sarcoma viral oncogene homolog (KRAS) and
+loss of p53 function are commonly seen in patients with non-small cell lung
+cancer (NSCLC). Combining therapeutics targeting these tumor-defensive pathways
+with cisplatin in a single-nanoparticle platform are rarely developed in
+clinic.Experimental Design: Cisplatin was encapsulated in liposomes, which
+multiple polyelectrolyte layers, including siKRAS and miR-34a were built on to
+generate multifunctional layer-by-layer nanoparticle. Structure, size, and
+surface charge were characterized, in addition to in vitro toxicity studies. In
+vivo tumor targeting and therapy was investigated in an orthotopic lung cancer
+model by microCT, fluorescence imaging, and immunohistochemistry.Results: The
+singular nanoscale formulation, incorporating oncogene siKRAS, tumor-suppressor
+stimulating miR-34a, and cisplatin, has shown enhanced toxicity against lung
+cancer cell line, KP cell. In vivo, systemic delivery of the nanoparticles
+indicated a preferential uptake in lung of the tumor-bearing mice. Efficacy
+studies indicated prolonged survival of mice from the combination
+treatment.Conclusions: The combination RNA-chemotherapy in an LbL formulation
+provides an enhanced treatment efficacy against NSCLC, indicating promising
+potential in clinic. Clin Cancer Res; 23(23); 7312-23. ©2017 AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-16-2186 
+PMCID: PMC5712246
+PMID: 28912139  [Indexed for MEDLINE]
+
+
+252. Cell Physiol Biochem. 2017;42(3):1177-1191. doi: 10.1159/000478873. Epub 2017 Jun
+30.
+
+Integrated High Throughput Analysis Identifies GSK3 as a Crucial Determinant of
+p53-Mediated Apoptosis in Lung Cancer Cells.
+
+Zhang Y(1), Zhu C(1)(2), Sun B(2), Lv J(1), Liu Z(1), Liu S(2), Li H(1).
+
+Author information: 
+(1)College of Life Science, Northeast Agricultural University, Harbin, China.
+(2)State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research
+Institute, The Chinese Academy of Agricultural Sciences, Harbin, China.
+
+BACKGROUND/AIMS: p53 dysfunction is frequently observed in lung cancer. Although 
+restoring the tumour suppressor function of p53 is recently approved as a
+putative strategy for combating cancers, the lack of understanding of the
+molecular mechanism underlying p53-mediated lung cancer suppression has limited
+the application of p53-based therapies in lung cancer.
+METHODS AND RESULTS: Using RNA sequencing, we determined the transcriptional
+profile of human non-small cell lung carcinoma A549 cells after treatment with
+two p53-activating chemical compounds, nutlin and RITA, which could induce A549
+cell cycle arrest and apoptosis, respectively. Bioinformatics analysis of
+genome-wide gene expression data showed that distinct transcription profiles were
+induced by nutlin and RITA and 66 pathways were differentially regulated by these
+two compounds. However, only two of these pathways, 'Adherens junction' and 'Axon
+guidance', were found to be synthetic lethal with p53 re-activation, as
+determined via integrated analysis of genome-wide gene expression profile and
+short hairpin RNA (shRNA) screening. Further functional protein association
+analysis of significantly regulated genes associated with these two synthetic
+lethal pathways indicated that GSK3 played a key role in p53-mediated A549 cell
+apoptosis, and then gene function study was performed, which revealed that GSK3
+inhibition promoted p53-mediated A549 cell apoptosis in a p53 post-translational 
+activity-dependent manner.
+CONCLUSION: Our findings provide us with new insights regarding the mechanism by 
+which p53 mediates A549 apoptosis and may cast light on the development of more
+efficient p53-based strategies for treating lung cancer.
+
+© 201 The Author(s). Published by S. Karger AG, Basel.
+
+DOI: 10.1159/000478873 
+PMID: 28662516  [Indexed for MEDLINE]
+
+
+253. Turk Patoloji Derg. 2017;1(1):211-222. doi: 10.5146/tjpath.2017.01398.
+
+Prognostic Significance of Programmed Cell Death Ligand 1 (PD-L1), CD8+
+Tumor-Infiltrating Lymphocytes and p53 in Non-Small Cell Lung Cancer: An
+Immunohistochemical Study.
+
+Rashed HE(1), Abdelrahman AE, Abdelgawad M, Balata S, Shabrawy ME.
+
+Author information: 
+(1)Department of Pathology, Zagazig University, Faculty of Medicine, ZAGAZIG,
+EGYPT.
+
+OBJECTIVE: Programmed cell death ligand-1 interacts with the immune receptors on 
+the surface of CD8+ tumor infiltrating lymphocytes and PD-1, thereby blocking its
+anti-tumor activity. Therapeutics suppression of this interaction will show a
+promise in the treatment of non-small cell lung cancer by restoring the
+functional anti-tumor T-cell activity. We aimed to evaluate the association
+between the immunohistochemical expression of PD-L1, stromal CD8+ tumor
+infiltrating lymphocytes and p53 with the clinicopathological characteristics,
+response to chemotherapy, progression-free-survival, and overall survival.
+MATERIAL AND METHOD: We examined the immunohistochemical expression of PD-L1,
+stromal CD8+ TILs, and p53 expression in 50 patients with advanced stage (III&IV)
+non-small cell lung cancer.
+RESULTS: PD-L1 was expressed in 56% of the studied cases. PD-L1 expression was
+related to unfavorable response to the therapy without significant difference.
+PD-L1 expression was significantly associated with disease progression, poor
+progression-free-survival & overall survival. CD8+ TILs were high in 32% of the
+cases. Tumors with high CD8+ TILs showed a partial response to therapy and had a 
+better progression-free-survival and overall survival. p53 expressed in 82% of
+the studied cases. There was a significant negative association between PD-L1 and
+CD8+ TILs (p=0.009), while a non-significant association was found between p53
+and PD-L1 (p=0.183).
+CONCLUSION: PD-L1 overexpression is an unfavorable prognostic marker, while the
+high CD8 + TILs is a good prognostic marker in non-small cell lung cancer. PD-L1 
+immunohistochemical assessment may be used for the selection of patients legible 
+for treatment with anti-PD-L1 therapy.
+
+DOI: 10.5146/tjpath.2017.01398 
+PMID: 28832075  [Indexed for MEDLINE]
+
+
+254. Clin Oncol (R Coll Radiol). 2014 Jan;26(1):18-24. doi:
+10.1016/j.clon.2013.09.003. Epub 2013 Oct 11.
+
+Association between smoking and p53 mutation in lung cancer: a meta-analysis.
+
+Liu X(1), Lin XJ(1), Wang CP(2), Yan KK(1), Zhao LY(1), An WX(3), Liu XD(4).
+
+Author information: 
+(1)Epidemiology and Statistics, School of Public Health, Jilin University,
+Changchun, Jilin, China.
+(2)School of Mathematics and Statistics, Northeast Normal University, Changchun, 
+Jilin, China.
+(3)Social Medicine, School of Public Health, Jilin University, Changchun, Jilin, 
+China.
+(4)Key Laboratory of Radiobiology (Ministry of Health), School of Public Health, 
+Jilin University, Changchun, China. Electronic address: liuxd2013@126.com.
+
+Erratum in
+    Clin Oncol (R Coll Radiol). 2014 Jun;26(6):359.
+
+AIMS: To carry out a meta-analysis on the relationship between smoking and p53
+gene mutation in lung cancer patients.
+MATERIALS AND METHODS: PubMed, Web of Science, ProQest and Medline were searched 
+by using the key words: 'lung cancer or lung neoplasm or lung carcinoma', 'p53
+mutation' and 'smoking'. According to the selection criteria, 15 articles were
+identified and methodologically analysed by stata 12.0 software package. Crude
+odds ratios with 95% confidence intervals calculated using the fixed-effects
+model were used to assess the strength of association between smoking and p53
+mutation in lung cancer.
+RESULTS: In total, 15 articles with 1770 lung cancer patients were identified;
+69.6% of the patients were smokers, 30.4% were non-smokers. Overall, smokers with
+lung cancer had a 2.70-fold (95% confidence interval 2.04-3.59) higher risk for
+mutation than the non-smokers with lung cancer. In subgroup analyses, the
+increased risk of p53 mutation in smokers than in non-smokers was found in the
+non-small cell lung cancer (NSCLC) group (odds ratio = 2.38, 95% confidence
+interval = 1.71-3.32) and in the NSCLC and SCLC group (odds ratio = 3.82, 95%
+confidence interval = 2.19-6.69).
+CONCLUSIONS: This meta-analysis strongly suggests that p53 mutation is associated
+with smoking-induced lung cancer. Smokers with lung cancer had a higher risk for 
+p53 mutation than non-smokers.
+
+Copyright © 2013 The Royal College of Radiologists. Published by Elsevier Ltd.
+All rights reserved.
+
+DOI: 10.1016/j.clon.2013.09.003 
+PMID: 24126199  [Indexed for MEDLINE]
+
+
+255. Oncotarget. 2016 Nov 1;7(44):71841-71855. doi: 10.18632/oncotarget.12378.
+
+Scriptaid overcomes hypoxia-induced cisplatin resistance in both wild-type and
+mutant p53 lung cancer cells.
+
+Pradhan S(1), Mahajan D(1), Kaur P(1), Pandey N(1), Sharma C(2), Srivastava T(1).
+
+Author information: 
+(1)Department of Genetics, University of Delhi South Campus, New Delhi, India.
+(2)Centre for Bio-design and Diagnostics, Translational Health Science and
+Technology Institute, Faridabad, Haryana, India.
+
+Non-small cell lung cancer (NSCLC), comprising 85% of lung cancer cases, has been
+associated with resistance to chemo/radiotherapy. The hypoxic tumor
+micro-environment, where insufficient vasculature results in poor drug penetrance
+and sub-optimal chemotherapy in the tumor interiors contributes heavily to this
+resistance. Additionally, epigenetic changes in tumorigenic cells also change
+their response to different forms of therapy. In our study, we have investigated 
+the effectiveness of a combination of cisplatin with scriptaid [a pan-Histone
+Deacetylase inhibitor (HDACi)] in a model that mimics the tumor microenvironment 
+of hypoxia and sub-lethal chemotherapy. Scriptaid synergistically increases the
+efficacy of cisplatin in normoxia as well as hypoxia, accompanied with reduced
+metastasis and enhanced DNA damage. Addition of scriptaid also overcomes the
+cisplatin resistance exhibited in lung cancer cells with stabilized hypoxia
+inducible factor 1 (HIF1)-α (mutant) and mutant p53. Molecular studies showed
+that the combination treatment increased apoptotic cell death in both normoxia
+and hypoxia with a dual role of p38MAPK. Together, our results suggest that the
+combination of low dose cisplatin and scriptaid is cytotoxic to NSCLC lines, can 
+overcome hypoxia induced resistance and mutant p53- induced instability often
+associated with this cancer, and has the potential to be an effective therapeutic
+modality.
+
+DOI: 10.18632/oncotarget.12378 
+PMCID: PMC5342127
+PMID: 27708247  [Indexed for MEDLINE]
+
+
+256. Mol Biol Rep. 2016 Dec;43(12):1383-1394. Epub 2016 Sep 10.
+
+Association of p53 codon 72 polymorphism and survival of North Indian lung cancer
+patients treated with platinum-based chemotherapy.
+
+Kumari A(1), Bahl C(1), Singh N(2), Behera D(2), Sharma S(3).
+
+Author information: 
+(1)Department of Biotechnology, Thapar University, Patiala, Punjab, 147002,
+India.
+(2)Department of Pulmonary Medicine, Post Graduate Institute of Education and
+Medical Research (PGIMER), Sector 14, Chandigarh, India.
+(3)Department of Biotechnology, Thapar University, Patiala, Punjab, 147002,
+India. siddharthsharma.phd@thapar.edu.
+
+p53 helps in maintaining genomic stability by undergoing cellular arrest, DNA
+repair or cellular apoptosis during DNA damage. So, as to find the association of
+p53Arg 72 Pro towards lung carcinogenesis and overall survival of North Indian
+lung cancer patients, single nucleotide polymorphic variant (rs1042522) was
+analyzed. 840 subjects including 420 cases and 420 controls were recruited and
+genotyped using PCR-RFLP technique for p53Arg 72 Pro polymorphic site.
+Association was analyzed using adjusted odds ratio along with its confidence
+intervals (95 % CI) and p value predicted from logistic regression whereas
+overall survival for lung cancer patients was obtained using Kaplan-Meir and Cox 
+regression model for different parameters to obtain hazard ratio and survival
+time with statistical significance (log-rank p value). None of the variant
+genotypes for p53Arg 72 Pro showed any association towards lung cancer risk or
+any specific histological subtype. Lung cancer subjects with Pro/Pro genotype had
+better median survival time as compared to Arg/Pro genotype (10 months;
+HR = 0.65; 95 % CI = 0.45-0.95; p = 0.03). Furthermore, female lung cancer
+patients with Arg/Pro (HR = 0.08; 95 % CI = 0.02-0.34; p = 0.0005) and Pro/Pro
+(HR = 0.21; 95 % CI = 0.06-0.67; p = 0.008) genotypes showed a better overall
+survival and hence a better prognosis as compared to males. Our data also reveals
+that lung cancer patients with ECOG scores between 0 and 1 and carrying the
+Pro/Pro had better chances of survival. p53 codon 72 polymorphism could play a
+role as a prognostic marker in lung cancer patients.
+
+DOI: 10.1007/s11033-016-4072-1 
+PMID: 27614750  [Indexed for MEDLINE]
+
+
+257. Cancer Biomark. 2017;19(1):21-26. doi: 10.3233/CBM-160196.
+
+E2F3 transcription factor: A promising biomarker in lung cancer.
+
+Al Ahmed HA(1), Nada O(2).
+
+Author information: 
+(1)Department of Clinical Pathology, Faculty of Medicine, Ain Shams University,
+Cairo, Egypt.
+(2)Department of Pathology, Faculty of Medicine, Ain Shams University, Cairo,
+Egypt.
+
+BACKGROUND: Many researches aiming to explore the pathogenesis of lung cancer
+have extensively studied the molecular alteration in such disease.
+OBJECTIVE: In the present study we measured the blood E2F3 mRNA using real-time
+RT-PCR technique in order to evaluate its clinical significance in early
+diagnosis and monitoring of lung cancer.
+METHODS: This case-control study included 50 lung cancer patients, 20 patients
+with benign lung diseases and 20 healthy controls. Relative quantification of
+blood E2F3 mRNA was done by real-time RT-PCR.
+RESULTS: Blood E2F3 mRNA levels were significantly higher in lung cancer patients
+when compared to either patients with benign lung diseases or healthy subjects.
+This elevation was significant in those with metastatic lung cancer as compared
+to those with localized lung cancer. At a cutoff^{(2-Δ Δ CT)} 1.5, blood E2F3
+mRNA was able to distinguish malignant from benign lung conditions with a
+diagnostic sensitivity of 100%; while at a cutoff^{(2-Δ Δ CT)} 5.3, blood E2F3
+mRNA discriminated localized from metastatic lung cancer with a sensitivity of
+93.6%.
+CONCLUSIONS: Blood E2F3 mRNA is a sensitive diagnostic marker in lung cancer;
+moreover, it is a promising prognostic marker capable of efficiently
+discriminating early from late stages of the disease.
+
+DOI: 10.3233/CBM-160196 
+PMID: 28269748  [Indexed for MEDLINE]
+
+
+258. Mol Cancer. 2017 Jul 17;16(1):122. doi: 10.1186/s12943-017-0698-4.
+
+MiR-661 promotes tumor invasion and metastasis by directly inhibiting RB1 in non 
+small cell lung cancer.
+
+Liu F(1), Cai Y(1)(2), Rong X(3), Chen J(3), Zheng D(3), Chen L(2), Zhang J(1),
+Luo R(1), Zhao P(4), Ruan J(5).
+
+Author information: 
+(1)Cancer Center, Traditional Chinese Medicine-Integrated Hospital, Southern
+medical University, Guangdong, 510315, China.
+(2)Center for Geriatrics, General Hospital of Guangzhou Military Command of
+People's Liberation Army, Guangdong, 510010, China.
+(3)Department of Oncology, Nanfang Hospital, Southern medical University,
+Guangdong, 510515, China.
+(4)Department of Medical Oncology, The First Affiliated Hospital, School of
+Medicine, Zhejiang University, Zhejiang, 310003, China.
+(5)Cancer Center, Traditional Chinese Medicine-Integrated Hospital, Southern
+medical University, Guangdong, 510315, China. software23@163.com.
+
+BACKGROUND: Aberrant microRNA expression has been implicated in metastasis of
+cancers. MiR-661 accelerates proliferation and invasion of breast cancer and
+ovarian cancer, while impedes that of glioma. Its role in non small cell lung
+cancer (NSCLC) and underlying mechanism are worthy elucidation.
+METHODS: Expression of miR-661 was measured with real-time PCR in both NSCLC
+tissues and cell lines. The effects of miR-661 on migration, invasion and
+metastasis capacity of NSCLC were evaluated using wound healing, transwell assay 
+and animal models. Dual reporter luciferase assay and complementary experiments
+were performed to validate RB1 as a direct target of miR-661 for participation in
+the progression of NSCLC.
+RESULTS: MiR-661 was upregulated in NSCLC tissues as compared to paired adjacent 
+tissues and associated with shorter overall survival. Furthermore, miR-661
+promoted proliferation, migration and metastasis of NSCLC. Then, we identified
+RB1 as a direct target of miR-661 through which miR-661 affected EMT process and 
+metastasis of NSCLC. RB1 interacted with E2F1 and both could mediate EMT process 
+in NSCLC.
+CONCLUSION: MiR-661 promotes metastasis of NSCLC through RB/E2F1 signaling and
+EMT events, thus may serves as a negative prognostic factor and possible target
+for treatment of NSCLC patient.
+
+DOI: 10.1186/s12943-017-0698-4 
+PMCID: PMC5514511
+PMID: 28716024  [Indexed for MEDLINE]
+
+
+259. J Cancer Res Ther. 2016 Jan-Mar;12(1):340-9. doi: 10.4103/0973-1482.154926.
+
+Promoter methylations of RASSF1A and p16 is associated with clinicopathological
+features in lung cancers.
+
+Han JC, Xu F, Chen N, Qi GB, Wei YJ, Li HB, Zhang YJ(1), Li JH, Wang XL, Xu W, Li
+XF, Jin LF, Jia JY, Ma ZS.
+
+Author information: 
+(1)Department of Respiration, Huaihe Hospital of Henan University, Kaifeng,
+People's Republic of China.
+
+Objection: The aim of this study is to investigate the association between
+promoter methylation of RASSF1A and p16 and the clinicopathological features in
+lung cancers.MATERIALS AND METHODS: PubMed, EBSCO, Ovid, Wiley, Web of Science,
+Wanfang, and VIP databases were searched using combinations of keywords related
+to RASSF1A, p16, methylation, and lung cancers. After screening for relevant
+studies, following a strict inclusion and exclusion criteria; the selected
+studies were incorporated into the present meta.analysis conducted using
+Comprehensive Meta Analysis 2.0. (CMA 2.0).
+RESULTS: We initially retrieved 402 studies, out which 13 studies met the
+inclusion and exclusion criteria for this meta.analysis, and contained a total of
+1,259. patients with lung cancers. The results of this meta.analysis showed that 
+the differences in promoter methylation ratio between the lung cancer patients in
+tumor, node, metastasis. (TNM) I.II and III.IV were not statistically
+significant. Based on histological types, patients with adenocarcinoma. (AC) and 
+squamous cell carcinoma. (SCC) showed no significant differences in the promoter 
+methylation ratios of RASSF1A, while the promoter methylation ratio of p16 was
+significantly higher in SCC patients compared to AC patients. Based on smoking
+status, the promoter methylation ratios of both RASSF1A and p16 was significantly
+higher in lung cancer patients with smoking history compared to nonsmokers.
+CONCLUSION: The present meta.analysis provides convincing evidence that the
+promoter methylation ratio of RASSF1A and p16 is associated with
+clinicopathological features in lung cancers, and could be used as effective
+biomarkers in early diagnosis in lung cancers.
+
+DOI: 10.4103/0973-1482.154926 
+PMID: 27072261  [Indexed for MEDLINE]
+
+
+260. Oncotarget. 2017 May 9;8(19):31692-31704. doi: 10.18632/oncotarget.15919.
+
+Gene methylation as a powerful biomarker for detection and screening of non-small
+cell lung cancer in blood.
+
+Wang BH(1), Li YY(2), Han JZ(3), Zhou LY(1), Lv YQ(3), Zhang HL(1), Zhao L(3).
+
+Author information: 
+(1)Department of Thoracic Surgery, The Second Hospital of Heibei Medical
+University, Shijiazhuang 050000, China.
+(2)Department of General Surgery, The Second Hospital of Heibei Medical
+University, Shijiazhuang 050000, China.
+(3)The Second Department of Oncology, The Second Hospital of Heibei Medical
+University, Shijiazhuang 050000, China.
+
+DNA methylation has been reported to become a potential powerful tool for cancer 
+detection and diagnosis. However, the possibilities for the application of
+blood-based gene methylation as a biomarker for non-small cell lung cancer
+(NSCLC) detection and screening remain unclear. Hence, we performed this
+meta-analysis to evaluate the value of gene methylation detected in blood samples
+as a noninvasive biomarker in NSCLC. A total of 28 genes were analyzed from 37
+case-control studies. In the genes with more than three studies, we found that
+the methylation of P16, RASSF1A, APC, RARβ, DAPK, CDH13, and MGMT was
+significantly associated with risks of NSCLC. The methylation statuses of P16,
+RASSF1A, APC, RARβ, DAPK, CDH13, and MGMT were not linked to age, gender, smoking
+behavior, and tumor stage and histology in NSCLC. Therefore, the use of the
+methylation status of P16, RASSF1A, APC, RARβ, DAPK, CDH13, and MGMT could become
+a promising and powerful biomarker for the detection and screening of NSCLC in
+blood in clinical settings. Further large-scale studies with large sample sizes
+are necessary to confirm our findings in the future.
+
+DOI: 10.18632/oncotarget.15919 
+PMCID: PMC5458240
+PMID: 28404957  [Indexed for MEDLINE]
