@@ -1,0 +1,35 @@
+<Relation Lives_In [<Entity Bacteria:'C. burnetii' sourceid=T5 [(376, 387)]>, <Entity Habitat:'mice' sourceid=T6 [(401, 405)]>] ['Bacteria', 'Location']>
+<Relation Lives_In [<Entity Bacteria:'C. burnetii' sourceid=T9 [(639, 650)]>, <Entity Habitat:'aerosol' sourceid=T10 [(651, 658)]>] ['Bacteria', 'Location']>
+<Relation Lives_In [<Entity Bacteria:'C. burnetii' sourceid=T12 [(754, 765)]>, <Entity Habitat:'aerosolized' sourceid=T11 [(742, 753)]>] ['Bacteria', 'Location']>
+<Relation Lives_In [<Entity Bacteria:'C. burnetii' sourceid=T17 [(1317, 1328)]>, <Entity Habitat:'mice' sourceid=T18 [(1342, 1346)]>] ['Bacteria', 'Location']>
+<Relation Lives_In [<Entity Bacteria:'C. burnetii' sourceid=T19 [(1381, 1392)]>, <Entity Habitat:'mice' sourceid=T18 [(1342, 1346)]>] ['Bacteria', 'Location']>
+<Relation Lives_In [<Entity Bacteria:'C. burnetii' sourceid=T20 [(1457, 1468)]>, <Entity Habitat:'macrophages' sourceid=T22 [(1541, 1552)]>] ['Bacteria', 'Location']>
+<Relation Lives_In [<Entity Bacteria:'C. burnetii' sourceid=T21 [(1516, 1527)]>, <Entity Habitat:'macrophages' sourceid=T22 [(1541, 1552)]>] ['Bacteria', 'Location']>
+<Relation Lives_In [<Entity Bacteria:'C. burnetii' sourceid=T23 [(1582, 1593)]>, <Entity Habitat:'human macrophages' sourceid=T25 [(1661, 1678)]>] ['Bacteria', 'Location']>
+
+
+lung E B
+adenocarcinoma E I
+SCLC E B
+tyrosine E B
+TKI E B
+osimertinib E B
+osimertinib E B
+lung E B
+adenocarcinoma E I
+TKI E B
+TKI E B
+PD E B
+osimertinib E B
+SCLC E B
+GRP E B
+PD E B
+osimertinib E B
+Osimertinib E B
+carboplatin E B
+irinotecan E B
+thoracic E B
+wall E I
+tumor E I
+SCLC E B
+osimertinib E B

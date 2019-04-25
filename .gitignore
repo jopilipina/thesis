@@ -2,3 +2,4 @@
 *.txt
 pdfminer-20140328/
 articles/
+env/
