@@ -1,13 +1,11 @@
-reduces
-improve
-directly related
-inversely related
-inhibits
-activates
-accelerates
-regulates
-induces
-mediates
-promotes
-alters
-synergizes
+accelerat
+activ		
+alter
+improv
+inhibit
+inverse_relat
+mediat
+promot
+reduc	
+regulat
+general_correlation
