@@ -1,0 +1,1 @@
+corpus = kindred.loadDir(dataFormat='json',directory='example/')
