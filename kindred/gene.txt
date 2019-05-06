@@ -1,0 +1,191 @@
+ubiquitin like modifier activating enzyme 2
+Ubiquitin activating enzyme 2
+UBA2
+miR-125 family
+miR-125
+Tuberous sclerosis complex 1
+TSC 1
+Human U three protein 14a
+hUTP14a
+ZW10 Interacting Kinetochore Protein
+ZWINT
+tumor protein p53
+tp53
+TP53
+AURKB
+BUB1B
+KIF2C 
+HMMR
+CENPF
+CENPU
+Wrap53α
+Wrap53
+P53
+p53
+Long Intergenic Non-Protein Coding RNA 342
+LINC00342
+interleukin-6
+IL-6
+hyroid transcription factor 1
+TF-1
+Ki-67
+epithelial growth factor receptor
+EGFR
+K-Ras
+KRAS
+B-Raf
+BRAF
+NRAS
+phosphoinositide-3-kinase catalytic alpha 
+PIK3CA
+Her‑2
+pERK
+CCNB1
+CCNB2 
+MAD2L1
+CDK1
+SGK1
+p53-inducible RR small subunit 2
+p53R2
+NK2 Homeobox 1
+NKX2-1
+miR-129-3p
+WD repeat protein 79
+WDR79
+UHRF1
+fragile histidine triad
+FHIT
+L1RE1
+RARB
+RASSF1
+SOX17
+CDO1
+ZFP42
+TAC1
+FAM19A4
+MGMT
+p16
+P16
+RASSF1A
+c-erbB-2
+HSP90
+B-cell lymphoma-2
+BCL-2 family
+BCL-2
+bcl-2
+N-Myc
+thymidine phosphorylase
+TP
+Excision repair cross-complementary 1
+ERCC1
+PI3K/AKT
+MAPK
+NF-kB
+AKT
+AKT1
+mTOR
+4EBP1
+STAT3 
+SHP2
+YAP1
+cyclin D1
+CCND1
+c-Myc
+MRP1
+miR-140-3p
+BRD9
+PICART1
+p21
+B1N1
+miR-30c
+MTDH
+High-mobility group AT-hook 2
+HMGA2
+CDKN2A
+DAPK
+WIF1
+c-erbB-2
+vascular endothelial growth factor
+VEGF
+Rho GTPase-activating protein 30
+ARHGAP30
+MYC
+R1F1
+b-catenin
+FLVCR1-AS1
+MEK
+SOS1
+Lysophosphatidylcholine acyltransferase 1
+LPCAT1
+SIRT1
+p27Kip1
+p14
+retinoblastoma gene
+RB1
+CDH1
+LUNX
+CD40L
+INSM1
+CD56
+TTF1
+galectin-3
+HOTAIR
+NTRK1/2/3
+NTRK1
+NTRK2
+NTRK3
+IL-17A
+IL-17E
+IL-17F
+IL-17RA
+IL-17RB
+IL-17RC
+TP53/RB1
+ASCL1
+PI3K/AKT1
+anaplastic lymphoma kinase 
+ALK
+CDK4/6
+cdk4
+cdk6
+p38
+Twist 1
+MT1
+PLC
+p38/ERK
+ING5
+ADAM19
+Programmed Death Ligand 1
+PD-L1
+PD-L2
+Ehm2/1
+Ehm2/2
+PADI4
+HOTTIP
+programmed cell-death protein-1
+PD-1
+TMB
+CDH2
+lactate dehydrogenase
+LDH
+CTLA-4
+ABCG2
+ABCC1
+ABAT
+GSR
+CYP1A2
+ALOX5
+CYP3A4
+PLA2G1B
+PLA2G2A
+B7-H3
+B7-H4
+major tumor infiltrating lymphocyte
+major TIL
+CD8
+E2F3
+MiR-661
+APC
+RARβ
+RARB
+CDH13
