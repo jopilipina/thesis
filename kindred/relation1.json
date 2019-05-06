@@ -1,0 +1,50 @@
+{
+  "text": "The colorectal cancer was caused by mutations in APC",
+  "denotations":
+    [{"id":"T1", "obj":"disease",
+      "span":{"begin":4,"end":21}},
+     {"id":"T2", "obj":"gene",
+      "span":{"begin":49,"end":52}}],
+  "relations":
+    [{"id":"R1","pred":"causes",
+      "subj":"T2", "obj":"T1"}]
+}
+{
+  "text": "These results indicated that UBA2 was a critical cell cycle and proliferation regulator and may be a novel cancer marker in this malignant tumor",
+  "denotations":
+    [{"id":"T1", "obj":"disease",
+      "span":{"begin":29,"end":32}},
+     {"id":"T2", "obj":"gene",
+      "span":{"begin":29,"end":32}},
+     {"id":"T3", "obj":"process",
+      "span":{"begin":49,"end":58}},
+     {"id":"T4", "obj":"process",
+      "span":{"begin":64,"end":76}}],
+  "relations":
+    [{"id":"R1","pred":"causes",
+      "subj":"T2", "obj":"T1"}]
+}
+{
+  "text": "Our study indicated that genetic variations in miR-125 family were implicated in the survival of NSCLC patients",
+  "denotations":
+    [{"id":"T1", "obj":"disease",
+      "span":{"begin":4,"end":21}},
+     {"id":"T2", "obj":"gene",
+      "span":{"begin":49,"end":52}}],
+  "relations":
+    [{"id":"R1","pred":"causes",
+      "subj":"T2", "obj":"T1"}]
+}
+{
+  "text": "These findings suggest that the TSC1 gene variant is an important predictive marker for platinum doublet chemotherapy outcomes in NSCLC patients",
+  "denotations":
+    [{"id":"T1", "obj":"disease",
+      "span":{"begin":4,"end":21}},
+     {"id":"T2", "obj":"gene",
+      "span":{"begin":49,"end":52}},
+     {"id":"T3", "obj":"process",
+      "span":{"begin":29,"end":32}}],
+  "relations":
+    [{"id":"R1","pred":"causes",
+      "subj":"T2", "obj":"T1"}]
+}
