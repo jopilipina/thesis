@@ -1,6 +1,7 @@
 *.pdf
-*.txt
+input.txt
 pdfminer-20140328/
 articles/
 env/
 *.tar.gz
+.vscode/settings.json
