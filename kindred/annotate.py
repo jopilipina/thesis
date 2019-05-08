@@ -1,6 +1,7 @@
 import nltk.data
 import os
 import json
+from collections import OrderedDict
 
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 fp = open("test_corpus.txt")
@@ -9,28 +10,32 @@ data = fp.read()
 # print '\n-----\n'.join(tokenizer.tokenize(data))
 sentences = tokenizer.tokenize(data)
 done = ""
+
 for i in sentences:
+	m_dict = json.loads('{"text": "'+str(i)+'", "denotations": []}', object_pairs_hook=OrderedDict)
+
 	print(sentences.index(i)+1)
-	print(i) # print sentence on terminal
-	wf.write('{\n') 			
-	datastore = '\t"text: "'+str(i)+'",\n'
-	json.dumps(datastore, wf)												# {									# "text": "sentence",
-	wf.write('\t"denotations":\n') 												# "denotations":
+	print(i)
+	
+	d_arr = []
 	word = raw_input('word: ')
 	while word!="x":
-		wf.write('\t\t[{"id":"T1", "obj":"'+word+'",\n')							# [{"id":"T1", "obj":"disease",
 		first = i.find(word)
 		last = int(first)+len(word)
-		wf.write('\t\t"span":{"begin":'+str(first)+',"end":'+str(last)+'}},\n')		# "span":{"begin":4,"end":21}},
+
+		d_dict = json.loads('{"id": "T1", "obj": "'+word+'","span":{"begin": '+str(first)+',"end":'+str(last)+'}'+'}', object_pairs_hook=OrderedDict)
+		d_arr.append(d_dict)
+
 		print('First:', first)
 		print('Last:', last)
+
 		word = raw_input('word: ')
 	word = ""
-	wf.write('\t"relations"\n')													# "relations"
-	wf.write('}\n') 															# }
+
+	m_dict["denotations"] = d_arr
+	# print(json.dumps(m_dict, indent = 4))
+	wf.write(json.dumps(m_dict, indent = 4))
+	
 	os.system('clear')
+
 fp.close()
-wf.close()
-# text = ""
-# text.find("word")
-# len(word)
