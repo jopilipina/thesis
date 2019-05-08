@@ -1,0 +1,20 @@
+{
+    "text": "The further population-based subgroup meta-analyses showed that the CDKN2A hypermethylation was significantly associated with cigarette smoking in Japanese, Chinese and Americans.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "CDKN2A", 
+            "span": {
+                "begin": 68, 
+                "end": 74
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

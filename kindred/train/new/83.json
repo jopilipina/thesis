@@ -1,0 +1,20 @@
+{
+    "text": "In conclusion, HOTAIR could be an ideal indicator of cell cycle dysregulation and guide the use of cell cycle inhibitors.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "HOTAIR", 
+            "span": {
+                "begin": 15, 
+                "end": 21
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

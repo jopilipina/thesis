@@ -1,0 +1,28 @@
+{
+    "text": "Twist expression was positively correlated with tumor stage and negatively correlated with MT1 expression in lung cancer specimens.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "Twist", 
+            "span": {
+                "begin": 0, 
+                "end": 5
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "lung cancer", 
+            "span": {
+                "begin": 109, 
+                "end": 120
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

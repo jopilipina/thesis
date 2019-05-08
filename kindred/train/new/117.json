@@ -1,0 +1,11 @@
+{
+    "text": "Therefore, GRIm-Score is not only a specific selection marker for experimental immunotherapy trials, but may also be a promising and useful pretreatment prognostic maker for specific NSCLC subsets in the real-world practice.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

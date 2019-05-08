@@ -1,0 +1,36 @@
+{
+    "text": "FHIT loss and p53 mutation may coordinate together in the development of HPV-associated lung cancer, and accelerate the occurrence and development of lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "FHIT", 
+            "span": {
+                "begin": 0, 
+                "end": 4
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "p53", 
+            "span": {
+                "begin": 14, 
+                "end": 17
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "lung cancer", 
+            "span": {
+                "begin": 88, 
+                "end": 99
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

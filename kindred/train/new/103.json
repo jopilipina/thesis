@@ -1,0 +1,28 @@
+{
+    "text": "we identified ADAM19 as a new biomarker of in vitro and in vivo EMT and we validated this biological new marker in a cohort of non-small lung carcinomas.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "ADAM19", 
+            "span": {
+                "begin": 14, 
+                "end": 20
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "non-small lung carcinomas", 
+            "span": {
+                "begin": 127, 
+                "end": 152
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

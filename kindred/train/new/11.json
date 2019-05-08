@@ -1,0 +1,11 @@
+{
+    "text": "Collectively, these results indicated that p53 may contribute to the cytotoxic and cytostatic effects associated with establishing a feedback loop with ROS induced by erastin.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

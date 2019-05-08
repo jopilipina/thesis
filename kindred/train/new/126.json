@@ -1,0 +1,28 @@
+{
+    "text": "A Combination RNAi-Chemotherapy Layer-by-Layer Nanoparticle for Systemic Targeting of KRAS/P53 with Cisplatin to Treat Non-Small Cell Lung Cancer.The combination RNA-chemotherapy in an LbL formulation provides an enhanced treatment efficacy against NSCLC, indicating promising potential in clinic.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "KRAS/P53", 
+            "span": {
+                "begin": 86, 
+                "end": 94
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "NSCLC", 
+            "span": {
+                "begin": 249, 
+                "end": 254
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

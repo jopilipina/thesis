@@ -1,0 +1,28 @@
+{
+    "text": "Our results indicate that PRAL might be a tumor suppressor in lung cancer and thus provides novel clues for the diagnosis and treatment for lung cancer in clinical practice.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "PRAL", 
+            "span": {
+                "begin": 26, 
+                "end": 30
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "lung cancer", 
+            "span": {
+                "begin": 62, 
+                "end": 73
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

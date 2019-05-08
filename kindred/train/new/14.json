@@ -1,0 +1,11 @@
+{
+    "text": "The high degree of agreement of reportable variants is proposed in both NGS and ddPCR analysis, suggesting the performance of NGS assays in routine clinical detection may be useful in determining the treatment decisions in NSCLC patients.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

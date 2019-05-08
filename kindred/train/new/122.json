@@ -1,0 +1,12 @@
+{
+    "text": "This work illustrated the modulatory properties of SJZ, which enhanced the anticancer effects of gefitinib, using metabolomics and network pharmacology analyses, and provided insights into underlying the mechanism the active ingredients of SJZfor the treatment of lung cancer in combination with gefitinib.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}
+  

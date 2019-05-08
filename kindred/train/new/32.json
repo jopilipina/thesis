@@ -1,0 +1,52 @@
+{
+    "text": "We suggest that the prognostic value of SHP2 could reflect the nuclear localization of SHP2 and its interaction with nuclear YAP1, which led to subsequent upregulation of cyclin D1 and c-Myc mRNA expression via activation of the Wnt/ -catenin signaling pathway.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "SHP2", 
+            "span": {
+                "begin": 40, 
+                "end": 44
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "YAP1", 
+            "span": {
+                "begin": 125, 
+                "end": 129
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "cyclin D1", 
+            "span": {
+                "begin": 171, 
+                "end": 180
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "c-Myc", 
+            "span": {
+                "begin": 185, 
+                "end": 190
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "NSCLC", 
+            "span": {
+                "begin": -1, 
+                "end": 4
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "text": "The present study indicated that the formation of SCLC may be associated with cell cycle regulation.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "SCLC", 
+            "span": {
+                "begin": 50, 
+                "end": 54
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "cell cycle", 
+            "span": {
+                "begin": 78, 
+                "end": 88
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

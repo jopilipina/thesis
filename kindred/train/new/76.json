@@ -1,0 +1,11 @@
+{
+    "text": "In addition, we found that autophagy had a cytoprotective role.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

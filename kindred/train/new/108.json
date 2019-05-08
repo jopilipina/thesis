@@ -1,0 +1,11 @@
+{
+    "text": "Ehm2/1 may function as a putative tumor suppressor in the disease progression of lung adenocarcinoma, while Ehm2/2 may have an opposite function.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

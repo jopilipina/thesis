@@ -1,0 +1,11 @@
+{
+    "text": "Multiple lines of alk inhibition are now recommended for patients with advanced nsclc with an ALK rearrangement.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

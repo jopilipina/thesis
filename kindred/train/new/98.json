@@ -1,0 +1,11 @@
+{
+    "text": "We found that melatonin downregulated EMT by inhibiting Twist/Twist1 (twist family bHLH transcription factor 1) expression.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

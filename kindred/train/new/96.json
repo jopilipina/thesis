@@ -1,0 +1,20 @@
+{
+    "text": "Further, it would help in understanding the mechanistic aspects of the diseased state which may facilitate in designing of new therapeutic modalities that could help in cancer management.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "", 
+            "span": {
+                "begin": 0, 
+                "end": 0
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

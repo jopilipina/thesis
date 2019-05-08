@@ -1,0 +1,60 @@
+{
+    "text": "In addition, the four crucial genes CCNB1, CCNB2, MAD2L1 and CDK1, which are downstream of p53, may have important roles in the occurrence and progression of SCLC, and thus may be promising potential biomarkers and therapeutic targets.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "CCNB1", 
+            "span": {
+                "begin": 36, 
+                "end": 41
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "CCNB2", 
+            "span": {
+                "begin": 43, 
+                "end": 48
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "MAD2L1", 
+            "span": {
+                "begin": 50, 
+                "end": 56
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "CDK1", 
+            "span": {
+                "begin": 61, 
+                "end": 65
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "p53", 
+            "span": {
+                "begin": 91, 
+                "end": 94
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "SCLC", 
+            "span": {
+                "begin": 158, 
+                "end": 162
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

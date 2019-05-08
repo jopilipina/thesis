@@ -1,0 +1,28 @@
+{
+    "text": "Patients with LCNEC tumors that carry a wild-type RB1 gene or express the RB1 protein do better with NSCLC-GEM/TAX treatment than with SCLC-PE chemotherapy.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "RB1", 
+            "span": {
+                "begin": 50, 
+                "end": 53
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "NSCLC", 
+            "span": {
+                "begin": 101, 
+                "end": 106
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

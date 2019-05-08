@@ -1,0 +1,20 @@
+{
+    "text": "Hence the present study aids in elucidating the role of MAP kinases in regulating the AP-1 subunits and their implications on target genes that are involved regulation of various cellular processes.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "MAP", 
+            "span": {
+                "begin": 56, 
+                "end": 59
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

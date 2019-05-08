@@ -1,0 +1,11 @@
+{
+    "text": "Our data also reveals that lung cancer patients with ECOG scores between 0 and 1 and carrying the Pro/Pro had better chances of survival.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

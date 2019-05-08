@@ -1,0 +1,36 @@
+{
+    "text": "The present meta.analysis provides convincing evidence that the promoter methylation ratio of RASSF1A and p16 is associated with clinicopathological features in lung cancers, and could be used as effective biomarkers in early diagnosis in lung cancers.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "RASSF1A", 
+            "span": {
+                "begin": 94, 
+                "end": 101
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "p16", 
+            "span": {
+                "begin": 106, 
+                "end": 109
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "lung cancer", 
+            "span": {
+                "begin": 161, 
+                "end": 172
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

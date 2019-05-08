@@ -1,0 +1,28 @@
+{
+    "text": "Smokers with lung cancer had a higher risk for p53 mutation than non-smokers.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "p53", 
+            "span": {
+                "begin": 47, 
+                "end": 50
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "lung cancer", 
+            "span": {
+                "begin": 13, 
+                "end": 24
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

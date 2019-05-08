@@ -1,0 +1,36 @@
+{
+    "text": "Taken together, these data revealed that RIF1 played an important role in regulating MYC and MYC-activated genes, which in turn contributes to cellular response to cisplatin and NSCLC patients' response to platinum-based chemotherapy.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "RIF1", 
+            "span": {
+                "begin": 41, 
+                "end": 45
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "MYC", 
+            "span": {
+                "begin": 85, 
+                "end": 88
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "NSCLC", 
+            "span": {
+                "begin": 178, 
+                "end": 183
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

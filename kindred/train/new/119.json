@@ -1,0 +1,20 @@
+{
+    "text": "The report provides important human qualification of pre-clinical mechanistic insights indicating that abscopal responses can be generated with optimised radiotherapy fractionation schedules and anti-CTLA-4 inhibition.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "", 
+            "span": {
+                "begin": 0, 
+                "end": 0
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

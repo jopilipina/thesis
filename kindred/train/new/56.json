@@ -1,0 +1,28 @@
+{
+    "text": "Overexpression of MYC could reverse the inhibition of MYC targets by RIF1 knockdown.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "MYC", 
+            "span": {
+                "begin": 18, 
+                "end": 21
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "RIF1", 
+            "span": {
+                "begin": 69, 
+                "end": 73
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "text": "The different immunohistochemical expressions of these 2 kinds of SCCs may be related with their pathogenetic mechanism, and these differences may be helpful in the identification of the origins of the metastatic SCC with unknown primary site.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

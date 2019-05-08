@@ -1,0 +1,28 @@
+{
+    "text": "TP and c-erbB-2 proteins are significantly, and often simultaneously, expressed in bcl-2 negative cases.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "TP", 
+            "span": {
+                "begin": 0, 
+                "end": 2
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "c-erbB2", 
+            "span": {
+                "begin": -1, 
+                "end": 6
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "text": "Additionally, an intriguing mechanism by which radiation can be immunogenic is described, namely radiation-induced transcriptional upregulation of neo-antigens.", 
+    "denotations": [],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

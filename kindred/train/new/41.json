@@ -1,0 +1,76 @@
+{
+    "text": "Our results showed that 7 hypermethylated genes (including CDKN2A, RASSF1, MGMT, RARB, DAPK, WIF1 and FHIT) were significantly associated with the smoking behavior in NSCLC patients.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "CDKN2A", 
+            "span": {
+                "begin": 59, 
+                "end": 65
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "RASSF1", 
+            "span": {
+                "begin": 67, 
+                "end": 73
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "MGMT", 
+            "span": {
+                "begin": 75, 
+                "end": 79
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "RARB", 
+            "span": {
+                "begin": 81, 
+                "end": 85
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "DAPK", 
+            "span": {
+                "begin": 87, 
+                "end": 91
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "WIF1", 
+            "span": {
+                "begin": 93, 
+                "end": 97
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "FHIT", 
+            "span": {
+                "begin": 102, 
+                "end": 106
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "NSCLC", 
+            "span": {
+                "begin": 167, 
+                "end": 172
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}

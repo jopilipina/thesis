@@ -1,0 +1,52 @@
+{
+    "text": "Finally, we demonstrate that the expression pattern of FHIT and miR-30c is inversely correlated with that of MTDH and HMGA2 in normal tissue, non-metastatic and metastatic tumors, serving as a potential biomarker for metastasis in lung cancer.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "FHIT", 
+            "span": {
+                "begin": 55, 
+                "end": 59
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "miR-30c", 
+            "span": {
+                "begin": 64, 
+                "end": 71
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "MTDH", 
+            "span": {
+                "begin": 109, 
+                "end": 113
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "HMGA2", 
+            "span": {
+                "begin": 118, 
+                "end": 123
+            }
+        }, 
+        {
+            "id": "T1", 
+            "obj": "lung cancer", 
+            "span": {
+                "begin": 231, 
+                "end": 242
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"causes",
+            "subj":"T2", 
+          "obj":"T1"}
+    ]
+}
