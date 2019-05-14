@@ -1,0 +1,28 @@
+{
+    "text": "RIF1 might serve as a novel biomarker for predicting platinum-based chemo-sensitivity and the prognosis of NSCLC patients, so as to guide the chemotherapy regimen adjustment for individual patient with NSCLC and improve their clinical outcomes.", 
+    "denotations": [
+        {
+            "id": "T1", 
+            "obj": "gene", 
+            "span": {
+                "begin": 0, 
+                "end": 3
+            }
+        }, 
+        {
+            "id": "T2", 
+            "obj": "disease", 
+            "span": {
+                "begin": 107, 
+                "end": 111
+            }
+        }
+    ],
+    "relations": [
+        {
+            "id":"R1",
+            "pred":"prognostic",
+            "subj":"T1", 
+            "obj":"T2"}
+    ]
+}
