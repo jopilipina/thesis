@@ -34,8 +34,8 @@ import kindred
 import argparse
 import os
 
-trainCorpus = kindred.loadDir(dataFormat='json',directory='db/new/train')
-devCorpus = kindred.loadDir(dataFormat='json',directory='db/new/test/')
+trainCorpus = kindred.loadDir(dataFormat='json',directory='db/3/train')
+devCorpus = kindred.loadDir(dataFormat='json',directory='db/3/test/')
 
 predictionCorpus = devCorpus.clone()
 predictionCorpus.removeRelations()
@@ -45,7 +45,7 @@ classifier.train(trainCorpus)
 classifier.predict(predictionCorpus)
 
 f1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=True)
-print(f1score)
+print("Train then Test:", f1score)
 
 # for i in predictionCorpus.getRelations():
 #   print(i)
