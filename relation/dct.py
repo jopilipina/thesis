@@ -18,7 +18,7 @@ for i in fList:
 	predictionCorpus = devCorpus.clone()
 	predictionCorpus.removeRelations()
 
-	classifier = kindred.RelationClassifier()
+	classifier = kindred.RelationClassifier(classifierType='DCT')
 	classifier.train(trainCorpus)
 	classifier.predict(predictionCorpus)
 
@@ -35,7 +35,7 @@ for i in fList:
 	predictionCorpus = devCorpus.clone()
 	predictionCorpus.removeRelations()
 
-	classifier = kindred.RelationClassifier()
+	classifier = kindred.RelationClassifier(classifierType='DCT')
 	classifier.train(trainCorpus)
 	classifier.predict(predictionCorpus)
 

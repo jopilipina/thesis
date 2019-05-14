@@ -18,7 +18,7 @@ for i in fList:
 	predictionCorpus = devCorpus.clone()
 	predictionCorpus.removeRelations()
 
-	classifier = kindred.RelationClassifier()
+	classifier = kindred.RelationClassifier(classifierType='NN')
 	classifier.train(trainCorpus)
 	classifier.predict(predictionCorpus)
 
@@ -35,7 +35,7 @@ for i in fList:
 	predictionCorpus = devCorpus.clone()
 	predictionCorpus.removeRelations()
 
-	classifier = kindred.RelationClassifier()
+	classifier = kindred.RelationClassifier(classifierType='NN')
 	classifier.train(trainCorpus)
 	classifier.predict(predictionCorpus)
 
@@ -43,4 +43,3 @@ for i in fList:
 	print(i, f1score)
 	average = average+f1score
 print("average:", average/len(fList))
-
