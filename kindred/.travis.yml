@@ -1,0 +1,39 @@
+sudo: required
+language: python
+
+matrix:
+  include:
+    - os: linux
+      sudo: required
+      python: 2.7
+      env: TOXENV=py27
+    - os: linux
+      sudo: required
+      python: 3.6
+      env: TOXENV=py36
+#    - os: osx
+#     language: generic
+#     env: TOXENV=py27
+#    - os: osx
+#     language: generic
+#     env: TOXENV=py36
+# command to install dependencies
+install:
+  - source ./.travis/install.sh
+  - pip install --upgrade pip setuptools wheel
+  - pip install --only-binary=numpy,scipy numpy scipy
+  - pip install coverage pytest pytest_socket
+  - pip install python-coveralls
+  - pip install --upgrade coverage
+# Just check that the current install is happy
+  - pip install kindred
+  - pip uninstall -y kindred
+  - pip install .
+  - sh ./tests/installSpacyLanguages.sh
+# command to run tests
+script:
+  - coverage --version
+  - python --version
+  - coverage run --branch -m pytest -v --durations=0 && coverage report -m
+after_success:
+  - coveralls
