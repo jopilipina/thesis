@@ -1,19 +1,29 @@
 import kindred
 import argparse
 import os
-
-# trainCorpus = kindred.load(dataFormat='json',path='db/2/train')
-# devCorpus = kindred.load(dataFormat='json',path='db/2/train/')
+import matplotlib.pyplot as plt
+import numpy as np
+import itertools
 
 Corpus = kindred.load(dataFormat='json',path='db/1')
 Corpus2 = kindred.load(dataFormat='json',path='db/4')
 
-fList = [0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85]
-average = 0
+avg_svm = 0
+avg_dct = 0
+avg_nn = 0
 
 print("-------------3 CLASSES------------")
-for i in fList:
-	trainCorpus,devCorpus = Corpus2.split(trainFraction=i)
+
+iter_count = 1
+
+while iter_count <= 1000:
+
+	trainCorpus,devCorpus = Corpus2.split(trainFraction=0.9)
+
+	predictionCorpus = devCorpus.clone()
+	predictionCorpus.removeRelations()
+
+	print("-------"+str(iter_count)+"-------")
 
 	predictionCorpus = devCorpus.clone()
 	predictionCorpus.removeRelations()
@@ -21,16 +31,47 @@ for i in fList:
 	classifier = kindred.RelationClassifier()
 	classifier.train(trainCorpus)
 	classifier.predict(predictionCorpus)
+	svmf1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=False)
+	print("svm: ", svmf1score)	
+	avg_svm = avg_svm+svmf1score
 
-	f1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=False)
-	print(i, f1score)
-	average = average+f1score
-print("average:", average/len(fList))
+	classifier = kindred.RelationClassifier(classifierType='DCT')
+	classifier.train(trainCorpus)
+	classifier.predict(predictionCorpus)
+	dctf1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=False)
+	print("dct ",dctf1score)	
+	avg_dct = avg_dct+dctf1score
 
-average = 0
+	classifier = kindred.RelationClassifier(classifierType='NN')
+	classifier.train(trainCorpus)
+	classifier.predict(predictionCorpus)
+	nnf1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=False)
+	print("neural networks: ", nnf1score)	
+	avg_nn = avg_nn+nnf1score
+
+	iter_count += 1
+
+print("average of SVM:", avg_svm/1000)
+print("average of Decision Tree:", avg_dct/1000)
+print("average of Neural Networks:", avg_nn/1000)
+
+
+avg_svm = 0
+avg_dct = 0
+avg_nn = 0
+
 print("-------------5 CLASSES------------")
-for i in fList:
-	trainCorpus,devCorpus = Corpus.split(trainFraction=i)
+
+iter_count = 1
+
+while iter_count <= 1000:
+
+	trainCorpus,devCorpus = Corpus.split(trainFraction=0.9)
+
+	predictionCorpus = devCorpus.clone()
+	predictionCorpus.removeRelations()
+
+	print("-------"+str(iter_count)+"-------")
 
 	predictionCorpus = devCorpus.clone()
 	predictionCorpus.removeRelations()
@@ -38,9 +79,26 @@ for i in fList:
 	classifier = kindred.RelationClassifier()
 	classifier.train(trainCorpus)
 	classifier.predict(predictionCorpus)
+	svmf1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=False)
+	print("svm: ", svmf1score)	
+	avg_svm = avg_svm+svmf1score
 
-	f1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=False)
-	print(i, f1score)
-	average = average+f1score
-print("average:", average/len(fList))
+	classifier = kindred.RelationClassifier(classifierType='DCT')
+	classifier.train(trainCorpus)
+	classifier.predict(predictionCorpus)
+	dctf1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=False)
+	print("dct ",dctf1score)	
+	avg_dct = avg_dct+dctf1score
 
+	classifier = kindred.RelationClassifier(classifierType='NN')
+	classifier.train(trainCorpus)
+	classifier.predict(predictionCorpus)
+	nnf1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=False)
+	print("neural networks: ", nnf1score)	
+	avg_nn = avg_nn+nnf1score
+
+	iter_count += 1
+
+print("average of SVM:", avg_svm/1000)
+print("average of Decision Tree:", avg_dct/1000)
+print("average of Neural Networks:", avg_nn/1000)
