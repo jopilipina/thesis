@@ -1,9 +1,10 @@
 import kindred
 import argparse
 import os
+import matplotlib.pyplot as plt
+import numpy as np
+import itertools
 
-# trainCorpus = kindred.load(dataFormat='json',path='db/2/train')
-# devCorpus = kindred.load(dataFormat='json',path='db/2/train/')
 
 Corpus = kindred.load(dataFormat='json',path='db/1')
 Corpus2 = kindred.load(dataFormat='json',path='db/4')
@@ -21,10 +22,12 @@ for i in fList:
 	classifier = kindred.RelationClassifier()
 	classifier.train(trainCorpus)
 	classifier.predict(predictionCorpus)
-
-	f1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=False)
-	print(i, f1score)
+	f1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=True)
+	print(i, f1score)	
 	average = average+f1score
+
+
+
 print("average:", average/len(fList))
 
 average = 0
@@ -38,9 +41,22 @@ for i in fList:
 	classifier = kindred.RelationClassifier()
 	classifier.train(trainCorpus)
 	classifier.predict(predictionCorpus)
-
-	f1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=False)
+	f1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=True)
 	print(i, f1score)
+	average = average+f1score
+
+	classifier = kindred.RelationClassifier(classifierType='DCT')
+	classifier.train(trainCorpus)
+	classifier.predict(predictionCorpus)
+	svmf1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=True)
+	print(i, f1score)	
+	average = average+f1score
+
+	classifier = kindred.RelationClassifier(classifierType='NN')
+	classifier.train(trainCorpus)
+	classifier.predict(predictionCorpus)
+	svmf1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=True)
+	print(i, f1score)	
 	average = average+f1score
 print("average:", average/len(fList))
 
