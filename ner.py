@@ -36,6 +36,7 @@ for i in range(0, len(lines)):
           entities.append(dict1)
           count = count + 1
           # print(token.text, token.start_char, token.end_char, token.label_)
+      print(token.text, token.start_char, token.end_char, token.label_)
 
     dict2 = {"text":lines[i+1], "denotations":entities}
 
