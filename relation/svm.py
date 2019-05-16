@@ -45,18 +45,5 @@ for i in fList:
 	print(i, f1score)
 	average = average+f1score
 
-	classifier = kindred.RelationClassifier(classifierType='DCT')
-	classifier.train(trainCorpus)
-	classifier.predict(predictionCorpus)
-	svmf1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=True)
-	print(i, f1score)	
-	average = average+f1score
-
-	classifier = kindred.RelationClassifier(classifierType='NN')
-	classifier.train(trainCorpus)
-	classifier.predict(predictionCorpus)
-	svmf1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score',display=True)
-	print(i, f1score)	
-	average = average+f1score
 print("average:", average/len(fList))
 
