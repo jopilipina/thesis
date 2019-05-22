@@ -3,3 +3,4 @@ pdfminer-20140328/
 articles/
 env/
 .vscode/settings.json
+__pycache__/*
