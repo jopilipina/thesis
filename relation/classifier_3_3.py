@@ -6,7 +6,7 @@ import csv
 # trainCorpus = kindred.load(dataFormat='json',path='db/2/train')
 # devCorpus = kindred.load(dataFormat='json',path='db/2/train/')
 
-with open('3_types_s.csv', mode='w') as csv_file:
+with open('3_types.csv', mode='w') as csv_file:
 	fieldnames = ['iteration_num', 'svm', 'decision_trees', 'neural_net']
 	writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
