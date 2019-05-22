@@ -6,22 +6,22 @@ import csv
 # trainCorpus = kindred.load(dataFormat='json',path='db/2/train')
 # devCorpus = kindred.load(dataFormat='json',path='db/2/train/')
 
-with open('5_types2.csv', mode='w') as csv_file:
+with open('3_types2.csv', mode='w') as csv_file:
 	fieldnames = ['iteration_num', 'svm', 'decision_trees', 'neural_net']
 	writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
 	writer.writeheader()
 
-	Corpus = kindred.load(dataFormat='json',path='db/1')
+	Corpus = kindred.load(dataFormat='json',path='db/4')
 
 	# avg_svm = 0
 	# avg_dct = 0
 	# avg_nn = 0
 
 	count = 0
-	iter_num = 400
+	iter_num = 300
 
-	print("-------------5 CLASSES------------")
+	print("-------------3 CLASSES------------")
 
 	while count < iter_num:
 		print("------",count,"------")
@@ -55,7 +55,7 @@ with open('5_types2.csv', mode='w') as csv_file:
 		writer.writerow({'iteration_num': count, 'svm': svmf1score, 'decision_trees': dctf1score, 'neural_net': nnf1score})
 
 		count += 1
-		
+
 	# avg_svm = avg_svm/iter_num
 	# avg_dct = avg_dct/iter_num
 	# avg_nn = avg_nn/iter_num
