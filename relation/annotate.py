@@ -4,7 +4,7 @@ import json
 from collections import OrderedDict
 
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-fp = open("test_corpus.txt")
+fp = open("corpus.txt")
 data = fp.read()
 count = 1
 # print '\n-----\n'.join(tokenizer.tokenize(data))
