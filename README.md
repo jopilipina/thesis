@@ -1,9 +1,12 @@
 # Thesis
 Literature mining for cancer-marker databasing
 
-Install pdfminer:
-1. Use Python 2.7 (Python 3 not supported)
-2. Extract files
-3. Run `python setup.py install`
+1. Use NER to annotate abstracts
+2. Use Kindred to find relations
+3. Collate relations into database
 
-Run `python test.py`
+Install Kindred in a virtual environment:
+`python3 -m venv env`
+`source ./env/bin/activate`
+`pip install kindred`
+`python -m spacy download en`
