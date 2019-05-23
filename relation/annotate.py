@@ -5,20 +5,22 @@ from collections import OrderedDict
 
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 fp = open("test_corpus.txt")
-wf = open("answer.json", "w")
 data = fp.read()
+count = 1
 # print '\n-----\n'.join(tokenizer.tokenize(data))
 sentences = tokenizer.tokenize(data)
 done = ""
 
 for i in sentences:
+	str_cnt = str(count)
+	wf = open(""+str_cnt+".json", "w")
 	m_dict = json.loads('{"text": "'+str(i)+'", "denotations": []}', object_pairs_hook=OrderedDict)
 
 	print(sentences.index(i)+1)
 	print(i)
 	
 	d_arr = []
-	word = input('word: ')
+	word = raw_input('word: ')
 	while word!="x":
 		first = i.find(word)
 		last = int(first)+len(word)
@@ -29,7 +31,7 @@ for i in sentences:
 		print('First:', first)
 		print('Last:', last)
 
-		word = input('word: ')
+		word = raw_input('word: ')
 	word = ""
 
 	m_dict["denotations"] = d_arr

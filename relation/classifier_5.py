@@ -3,16 +3,13 @@ import argparse
 import os
 import csv
 
-# trainCorpus = kindred.load(dataFormat='json',path='db/2/train')
-# devCorpus = kindred.load(dataFormat='json',path='db/2/train/')
-
 with open('5_types_lp.csv', mode='w') as csv_file:
 	fieldnames = ['iteration_num', 'svm', 'decision_trees', 'neural_net']
 	writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
 	writer.writeheader()
 
-	Corpus = kindred.load(dataFormat='json',path='db/1')
+	Corpus = kindred.load(dataFormat='json',path='db/5types')
 
 	# avg_svm = 0
 	# avg_dct = 0
