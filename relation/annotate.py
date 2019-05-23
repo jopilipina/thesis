@@ -20,7 +20,7 @@ for i in sentences:
 	print(i)
 	
 	d_arr = []
-	word = raw_input('word: ')
+	word = input('word: ')
 	while word!="x":
 		first = i.find(word)
 		last = int(first)+len(word)
@@ -31,7 +31,7 @@ for i in sentences:
 		print('First:', first)
 		print('Last:', last)
 
-		word = raw_input('word: ')
+		word = input('word: ')
 	word = ""
 
 	m_dict["denotations"] = d_arr
