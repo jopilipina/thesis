@@ -6,11 +6,7 @@ import csv
 # trainCorpus = kindred.load(dataFormat='json',path='db/2/train')
 # devCorpus = kindred.load(dataFormat='json',path='db/2/train/')
 
-<<<<<<< HEAD
-with open('3_types_lp.csv', mode='w') as csv_file:
-=======
-with open('3_types_s.csv', mode='w') as csv_file:
->>>>>>> 8d3732a0737cd91db605abb7b4991a7d7ab6c386
+with open('3_types.csv', mode='w') as csv_file:
 	fieldnames = ['iteration_num', 'svm', 'decision_trees', 'neural_net']
 	writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
@@ -18,16 +14,12 @@ with open('3_types_s.csv', mode='w') as csv_file:
 
 	Corpus = kindred.load(dataFormat='json',path='db/4')
 
-	# avg_svm = 0
-	# avg_dct = 0
-	# avg_nn = 0
+	avg_svm = 0
+	avg_dct = 0
+	avg_nn = 0
 
 	count = 0
-<<<<<<< HEAD
-	iter_num = 100
-=======
 	iter_num = 150
->>>>>>> 8d3732a0737cd91db605abb7b4991a7d7ab6c386
 
 	print("-------------3 CLASSES------------")
 
