@@ -1,12 +1,6 @@
 *.pdf
 pdfminer-20140328/
 articles/
-<<<<<<< HEAD
 __pycache__/
 .vscode/
 env/
-=======
-env/
-.vscode/settings.json
-__pycache__/*
->>>>>>> jigger
