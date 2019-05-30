@@ -1,0 +1,20 @@
+TEST
+Identifying UBA2 as a proliferation and cell cycle regulator in lung cancer A549 cells.
+TEST
+Genetic variations in miR-125 family and the survival of non-small cell lung cancer in Chinese population.
+TEST
+Survival prediction of Tuberous Sclerosis Complex gene variant in patients with advanced non-small cell lung cancer treated with platinum doublet.
+TEST
+[Expression of hUTP14a in non-small cell lung cancer].
+TEST
+ZWINT is the next potential target for lung cancer therapy. 
+TEST
+TP53 mutations as potential prognostic markers for specific cancers: analysis of data from The Cancer Genome Atlas and the International Agency for Research on Cancer TP53 Database. 
+TEST
+Integrated analysis reveals key genes with prognostic value in lung adenocarcinoma. 
+TEST
+Promoter methylation of Wrap53a, an antisense transcript of p53, is associated with the poor prognosis of patients with non-small cell lung cancer.
+TEST
+Investigation of LINC00342 as a poor prognostic biomarker for human patients with non-small cell lung cancer. 
+TEST
+Clinical significance of interleukin-6 in diagnosis of lung, oral, esophageal, and gall bladder carcinomas.
