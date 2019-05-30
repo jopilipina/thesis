@@ -2,17 +2,16 @@ import kindred
 import argparse
 import os
 
-# trainCorpus = kindred.bionlpst.load('2016-BB3-event-train')
-# devCorpus = kindred.bionlpst.load('2016-BB3-event-dev')
+trainCorpus = kindred.load(dataFormat='json',path='relation/db/1')
+devCorpus = kindred.load(dataFormat='json',path='ner-dump')
 
-# predictionCorpus = devCorpus.clone()
-# predictionCorpus.removeRelations()
+predictionCorpus = devCorpus.clone()
 
-# classifier = kindred.RelationClassifier()
-# classifier.train(trainCorpus)
-# classifier.predict(predictionCorpus)
+classifier = kindred.RelationClassifier()
+classifier.train(trainCorpus)
+classifier.predict(predictionCorpus)
 
-# f1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score')
+f1score = kindred.evaluate(devCorpus, predictionCorpus, metric='f1score')
 
-# for i in predictionCorpus.getRelations():
-#   print(i)
+for i in predictionCorpus.getRelations():
+  print(i)
