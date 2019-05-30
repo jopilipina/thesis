@@ -2,3 +2,6 @@
 *.txt
 pdfminer-20140328/
 articles/
+__pycache__/
+.vscode/
+env/
