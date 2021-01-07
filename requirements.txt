@@ -33,7 +33,7 @@ jmespath==0.9.4
 jsonlines==1.2.0
 jsonschema==3.0.1
 -e git+https://github.com/jakelever/kindred.git@be9bfa0533845322fbb8d50daffe5a509e690de2#egg=kindred
-lxml==4.2.1
+lxml==4.6.2
 markdown2==2.3.7
 MarkupSafe==1.1.1
 monotonic==1.5
@@ -113,7 +113,7 @@ intervaltree==3.0.2
 Jinja2==2.10
 -e git+https://github.com/jakelever/kindred.git@be9bfa0533845322fbb8d50daffe5a509e690de2#egg=kindred
 kiwisolver==1.0.1
-lxml==4.2.1
+lxml==4.6.2
 MarkupSafe==1.1.1
 matplotlib==2.2.4
 metapub==0.4.3.6
