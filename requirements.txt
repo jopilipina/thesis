@@ -110,7 +110,7 @@ futures==3.2.0
 idna==2.8
 imagesize==1.1.0
 intervaltree==3.0.2
-Jinja2==2.10
+Jinja2==2.11.3
 -e git+https://github.com/jakelever/kindred.git@be9bfa0533845322fbb8d50daffe5a509e690de2#egg=kindred
 kiwisolver==1.0.1
 lxml==4.2.1
