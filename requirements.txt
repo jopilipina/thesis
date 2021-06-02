@@ -34,7 +34,7 @@ jsonlines==1.2.0
 jsonschema==3.0.1
 -e git+https://github.com/jakelever/kindred.git@be9bfa0533845322fbb8d50daffe5a509e690de2#egg=kindred
 lxml==4.2.1
-markdown2==2.3.7
+markdown2==2.4.0
 MarkupSafe==1.1.1
 monotonic==1.5
 msgpack==0.5.6
