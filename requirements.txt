@@ -125,7 +125,7 @@ multiprocessing==2.6.2.1
 murmurhash==1.0.2
 networkx==2.2
 nltk==3.4.1
-numpy==1.16.2
+numpy==1.22.0
 packaging==19.0
 pandas==0.24.2
 pathlib==1.0.1
